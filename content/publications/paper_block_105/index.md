@@ -1,0 +1,34 @@
+---
+title: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'
+
+authors:
+  - Zhi-Xiang Yu
+  - Zeyuan Shen
+
+publication: J. Am. Chem. Soc. 2015 , 137, 8344-8347.
+
+data: "jacsat-01"
+date: "2000-01-01"
+# abstract: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'
+
+# summary: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'
+
+featured: true
+
+links:
+  
+  - name: pubs
+    url: https://pubs.acs.org/doi/10.1021/jacs.5b04049
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+projects: []
+
+slides: ''
+weight: 105
+---
+
+![Chemical formula](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2015/jacsat.2015.137.issue-26/jacs.5b04049/20150701/images/medium/ja-2015-04049b_0009.gif)

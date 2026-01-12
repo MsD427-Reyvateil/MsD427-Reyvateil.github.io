@@ -1,0 +1,78 @@
+{{/*
+  Custom article-grid view with table layout
+  Usage: in _index.md, set design.view to "article-grid"
+*/}}
+
+{{ $ := .block }}
+{{ $page := .page }}
+
+<div class="flex flex-col items-center px-6">
+  <div class="container px-8 mx-auto xl:px-5 py-5 lg:py-8 max-w-screen-lg">
+    <table border="1" width="850" height="268" style="border-width: 0px; border-collapse: collapse; margin-bottom: 20px;">
+      {{ range $index, $item := .items }}
+        <tbody>
+          <tr>
+            <td style="border-style: none; border-width: medium" height="104" width="14%" bgcolor="9d9f9f">
+              <p align="center">
+                {{ with $item.Params.image }}
+                  {{ $image := $page.Resources.GetMatch .src }}
+                  {{ if $image }}
+                    <img border="0" src="{{ $image.RelPermalink }}" width="76" height="102">
+                  {{ else }}
+                    <img border="0" src="{{ .src | relURL }}" width="76" height="102">
+                  {{ end }}
+                {{ else }}
+                  <!-- Default image if none is provided -->
+                  <img border="0" src="/placeholder-image.jpg" width="76" height="102">
+                {{ end }}
+              </p>
+            </td>
+            <td style="border-style: none; border-width: medium" height="104" width="85%" bgcolor="9d9f9f">
+              <font face="Times New Roman">
+                <span class="textbold">
+                  <font size="2">
+                    <a target="_blank" href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+                    <br>
+                  </font>
+                </span>
+                <font size="2">
+                  {{ delimit $item.Params.authors ", " }}<br>
+                  {{ with $item.Params.publication }}
+                    <i>{{ . }}</i> 
+                  {{ end }}
+                  {{ with $item.Params.date }}
+                    <b>{{ dateFormat "2006-01" . }}</b>, 
+                  {{ end }}
+                  {{ with $item.Params.journal }}
+                    <i>{{ . }}</i> 
+                  {{ end }}
+                  {{ with $item.Params.volume }}
+                    <b>{{ . }}</b> 
+                  {{ end }}
+                  {{ with $item.Params.pages }}
+                    , {{ . }}
+                  {{ end }}
+                  <br>
+                </font>
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td style="border-style: none; border-width: medium" height="158" width="99%" colspan="2">
+              <div align="center">
+                {{ with $item.Params.image }}
+                  {{ $image := $page.Resources.GetMatch .src }}
+                  {{ if $image }}
+                    <p style="text-align: center;"><a href="{{ $item.RelPermalink }}"><img alt="" src="{{ $image.RelPermalink }}" style="width: 367px; height: 250px;"></a></p>
+                  {{ else }}
+                    <p style="text-align: center;"><a href="{{ $item.RelPermalink }}"><img alt="" src="{{ .src | relURL }}" style="width: 367px; height: 250px;"></a></p>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      {{ end }}
+    </table>
+  </div>
+</div>

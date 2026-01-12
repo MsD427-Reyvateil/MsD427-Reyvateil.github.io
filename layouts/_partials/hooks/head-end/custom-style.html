@@ -1,0 +1,54 @@
+<style>
+  /* Force global background color */
+  html, body, .page-wrapper, section, header, footer, nav, .navbar {
+    background-color: #E5F2F6 !important;
+    background-image: none !important;
+    color: #000000;
+  }
+
+  /* Remove any Tailwind gradients */
+  [class*="bg-gradient-"] {
+    background-image: none !important;
+    background-color: #E5F2F6 !important;
+  }
+
+  /* Ensure text is readable on light background */
+  h1, h2, h3, h4, h5, h6, p, span, li, dt, dd, div {
+    color: #000000 !important;
+  }
+
+  /* Adjust link colors for visibility */
+  a, a:hover, a:focus {
+    color: #000000 !important;
+    text-decoration: underline;
+  }
+  
+  /* Override card backgrounds if they exist */
+  .card, .article-container {
+    background-color: #E5F2F6 !important;
+    color: #000000 !important;
+  }
+
+  /* Dark mode overrides */
+  .dark html, .dark body, .dark .page-wrapper, .dark section, .dark header, .dark footer, .dark nav, .dark .navbar {
+    background-color: #000000 !important;
+    color: #FFFFFF;
+  }
+
+  .dark [class*="bg-gradient-"] {
+    background-color: #000000 !important;
+  }
+
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, .dark p, .dark span, .dark li, .dark dt, .dark dd, .dark div {
+    color: #FFFFFF !important;
+  }
+
+  .dark a, .dark a:hover, .dark a:focus {
+    color: #FFFFFF !important;
+  }
+
+  .dark .card, .dark .article-container {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+  }
+</style>

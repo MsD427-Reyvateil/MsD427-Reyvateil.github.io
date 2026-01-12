@@ -1,0 +1,39 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}<nav class="mt-1">
+  <ul class="container mx-auto flex justify-center items-center">
+    {{ if .Paginator.HasPrev }}
+    <li class="p-5"><a class="page-link" href="{{ .Paginator.Prev.URL }}">&laquo; {{ T "previous" }}</a></li>
+    {{ end }}
+    <li class="p-5 text-gray-600 dark:text-gray-300">第 {{ .Paginator.PageNumber }} 页，共 {{ .Paginator.TotalPages }} 页</li>
+    <li class="p-5">
+      <form class="flex items-center gap-2" onsubmit="event.preventDefault(); jumpToPage(this, {{ .Paginator.TotalPages }});">
+        <input type="number" min="1" max="{{ .Paginator.TotalPages }}" placeholder="页码" class="w-16 px-2 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-900 dark:text-white" value="{{ .Paginator.PageNumber }}">
+        <button type="submit" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-900 dark:text-white rounded">跳转</button>
+      </form>
+    </li>
+    {{ if .Paginator.HasNext }}
+    <li class="p-5"><a class="page-link" href="{{ .Paginator.Next.URL }}">{{ T "next" }} &raquo;</a></li>
+    {{ end }}
+  </ul>
+</nav>
+
+<script>
+function jumpToPage(form, totalPages) {
+  const input = form.querySelector('input[type="number"]');
+  const page = parseInt(input.value);
+  if (page >= 1 && page <= totalPages) {
+    // 构造目标URL
+    let currentUrl = window.location.href;
+    let targetUrl;
+    if (currentUrl.includes('/page/')) {
+      targetUrl = currentUrl.replace(/\/page\/\d+/, `/page/${page}`);
+    } else if (page > 1) {
+      targetUrl = currentUrl.replace(/\/$/, '') + `/page/${page}/`;
+    } else {
+      // 第一页不需要page参数
+      targetUrl = currentUrl.replace(/\/page\/\d+/, '');
+    }
+    window.location.href = targetUrl;
+  }
+}
+</script>
+{{ end }}
