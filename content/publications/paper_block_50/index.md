@@ -2,11 +2,10 @@
 title: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of EneâVinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
 
 authors:
+  - Lei Jiao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2022 , 144 , 2624-2636.
-
+publication: "*J. Am. Chem. Soc.* **2022** , *144* , 2624-2636."
 data: "2022-03-01"
 
 date: "2022-03-01"

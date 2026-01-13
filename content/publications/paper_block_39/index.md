@@ -2,11 +2,13 @@
 title: 'Unprecedented endo-oxidative cyclometallation and [4 + 3] cycloaddition of diene-vinylcyclopropanes'
 
 authors:
-  - Zhi-Xiang Yu
+  - Jun Yang
+  - Pan Zhang
   - Zeyuan Shen
+  - Yi Zhou
+  - Zhi-Xiang Yu
 
-publication: J. Am. Chem. Soc. 2023 , 9 , 1477-1494.
-
+publication: "*Chem.* **2023** , *9* , 1477-1494."
 data: "2023-03-01"
 
 date: "2023-03-01"

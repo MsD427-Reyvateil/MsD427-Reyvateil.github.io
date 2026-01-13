@@ -2,11 +2,12 @@
 title: 'Rh-Catalyzed trans-Divinylcyclopropane Rearrangement: AnApproach to 1,5-Disubstituted 1,4-Cycloheptadienes'
 
 authors:
-  - Zhi-Xiang Yu
+  - Han-Xiao Li
   - Zeyuan Shen
+  - Jiguo Ma
+  - Zhi-Xiang Yu
 
-publication: Org. Lett. 2025 , 27 , 14-18.
-
+publication: "*Org. Lett.* **2025** , *27* , 14-18."
 data: "2025-01-01"
 
 date: "2025-01-01"

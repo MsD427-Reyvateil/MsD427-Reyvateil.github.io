@@ -2,10 +2,11 @@
 title: 'Tandem Rh(I)-Catalyzed [(5+2)+1] Cycloaddition/Aldol Reaction for the Construction of Linear Triquinane Skeleton: Total Syntheses of (Â±)-Hirsutene and (Â±)-1-Desoxyhypnophilin'
 
 authors:
+  - Lei Jiao
+  - Yuanyuan Chen
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2008 , 130 , 4421-4430.
+publication: "*J. Am. Chem. Soc.* **2008** , *130* , 4421-4430."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Tandem Rh(I)-Catalyzed [(5+2)+1] Cycloaddition/Aldol Reaction for the Construction of Linear Triquinane Skeleton: Total Syntheses of (Â±)-Hirsutene and (Â±)-1-Desoxyhypnophilin'

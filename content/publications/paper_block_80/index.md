@@ -3,10 +3,10 @@ title: 'Two-Fold CâH/CâH Cross-Coupling Using RhCl3Â·3H2O as the Cat
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Ge Gao
+  - Jingsong You
 
-publication: J. Am. Chem. Soc. 2018 , 140 , 12566-12573.
-
+publication: "*J. Am. Chem. Soc.* **2018** , *140* , 12566-12573."
 data: "2018-10-01"
 
 date: "2018-10-02"

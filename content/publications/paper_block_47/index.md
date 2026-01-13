@@ -2,11 +2,14 @@
 title: 'Stereoselective hydrogen atom transfer to acyclic radicals: a switch enabling diastereodivergent borylative radical cascades'
 
 authors:
+  - Tian Ye
+  - Feng-Lian Zhang
+  - Hui-Min Xia
+  - Xi Zhou
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi-Feng Wang
 
-publication: J. Am. Chem. Soc. 2022 , 13 , 426-438.
-
+publication: "*J. Am. Chem. Soc.* **2022** , *13* , 426-438."
 data: "2022-07-01"
 
 date: "2022-07-02"

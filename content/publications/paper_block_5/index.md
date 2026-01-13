@@ -2,13 +2,11 @@
 title: 'Rhodium-Catalyzed 1,5-Sigma Migratory Ring Expansion of gem-Difluorodienyl-Cyclopropanes and Cyclobutanes'
 
 authors:
+  - Zhiqiang Huang
+  - Sixuan Zhao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Angew. Chem. Int. Ed. 2025 , 64, e202500074.
-
-data: "2025-04-01"
-
+publication: "*Angew. Chem. Int. Ed.* **2025** , *64*, e202500074."
 date: "2025-04-02"
 
 # abstract: 'Rhodium-Catalyzed 1,5-Sigma Migratory Ring Expansion of gem-Difluorodienyl-Cyclopropanes and Cyclobutanes'

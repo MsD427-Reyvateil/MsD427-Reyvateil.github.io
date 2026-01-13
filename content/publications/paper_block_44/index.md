@@ -2,14 +2,17 @@
 title: 'Atroposelective Synthesis of N-Arylindoles via Enantioselective N-H Bond Insertion'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Chao Niu#
+  - Yi Zhou#
+  - Qiang Chen
+  - Yan Zhu
+  - Shengbiao Tang
+  - Zhi-Xiang Yu*
+  - Jiangtao Sun*
 
-publication: Org. Lett. 2022 , 24 , 7428-7433.
+publication: "*Org. Lett.* **2022** , *24* , 7428-7433."
 
-data: "2022-10-01"
-
-date: "2022-10-01"
+date: "2022-10-02"
 
 # abstract: 'Atroposelective Synthesis of N-Arylindoles via Enantioselective N-H Bond Insertion'
 

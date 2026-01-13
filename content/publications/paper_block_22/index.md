@@ -2,11 +2,10 @@
 title: 'Progress in Transition-Metal-Catalyzed Carbonylative Cycloadditions Using Carbon Monoxide'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Chen-Long Li
+  - Zhi-Xiang Yu*
 
-publication: J. Am. Chem. Soc. 2024 , 44 , 1045-1068.
-
+publication: "*J. Am. Chem. Soc.* **2024** , *44* , 1045-1068."
 data: "2024-05-01"
 
 date: "2024-05-02"

@@ -3,10 +3,9 @@ title: 'Catalytic (4+2) Annulation via Regio- and Enantioselective Interception 
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xinfang Xu
 
-publication: Angew. Chem. Int. Ed. 2024 , 63, e202401557.
-
+publication: "*Angew. Chem. Int. Ed.* **2024** , *63*, e202401557."
 data: "2024-06-01"
 
 date: "2024-06-01"

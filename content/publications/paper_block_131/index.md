@@ -3,9 +3,10 @@ title: 'Asymmetric Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of 1-Yne
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi-An Guo
+  - Zhi-Xiang Yu* J. Am.  Soc 
 
-publication: Chem. 2012 , 134 , 398-405.
+publication: "*Chem.* **2012** , *134* , 398-405."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Asymmetric Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of 1-Yne-vinylcyclopropanes for Bicyclo[3.3.0] Compounds with a Chiral Quaternary Carbon Stereocenter and Density Functional Theory Study of the Origins of Enantioselectivity'

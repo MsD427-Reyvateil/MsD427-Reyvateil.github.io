@@ -3,10 +3,9 @@ title: 'OnâDemand Selection of the Reaction Path from Imino Diels-Alder to 
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xu Bai,* Eur
 
-publication: J. Org. Chem. 2014 , 660-669.
-
+publication: "*J. Org. Chem.* **2014** , 660-669."
 # abstract: 'OnâDemand Selection of the Reaction Path from Imino Diels-Alder to EneâType Cyclization: Synthesis of Epiminopyrimido[4,5âb]azepines'
 
 # summary: 'OnâDemand Selection of the Reaction Path from Imino Diels-Alder to EneâType Cyclization: Synthesis of Epiminopyrimido[4,5âb]azepines'

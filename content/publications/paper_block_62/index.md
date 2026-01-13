@@ -2,11 +2,11 @@
 title: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Membered Carbocycles: an Update from 2010 to 2020'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wang Lu-Ning
+  - Yu Zhi-Xiang
+  - J. Org
 
-publication: J. Am. Chem. Soc. 2020 , 40 , 3536-3558.
-
+publication: "*J. Am. Chem. Soc.* **2020** , *40* , 3536-3558."
 data: "2020-12-01"
 
 date: "2020-12-02"

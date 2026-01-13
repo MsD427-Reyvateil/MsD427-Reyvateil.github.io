@@ -3,9 +3,9 @@ title: 'CuI-Catalyzed C1-Alkynylation of Tetrahydroisoquinolines (THIQs) by A3 R
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Guo-Jie Jiang
 
-publication: Org. Lett. 2013 , 15 , 5928-5931.
+publication: "*Org. Lett.* **2013** , *15* , 5928-5931."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'CuI-Catalyzed C1-Alkynylation of Tetrahydroisoquinolines (THIQs) by A3 Reaction with Tunable Iminium Ions'

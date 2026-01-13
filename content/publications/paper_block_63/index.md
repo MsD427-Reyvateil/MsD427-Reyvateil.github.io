@@ -3,10 +3,10 @@ title: 'Mechanism and Regioselectivity of Intramolecular [2+2] Cycloaddition of 
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi Wang
+  - Zhi-Xiang Yu* Eur
 
-publication: J. Org. Chem. 2020 , 37 , 5985-5994.
-
+publication: "*J. Org. Chem.* **2020** , *37* , 5985-5994."
 data: "2020-12-01"
 
 date: "2020-12-01"

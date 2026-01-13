@@ -2,11 +2,11 @@
 title: 'Antrodiellin B/hypnophilin/coriolin and strained 5/5/5 and 5/6/4 skeletons via [5+2+1]/epoxidation/transannular radical cyclization'
 
 authors:
+  - Lu-Ning Wang
+  - Zhiqiang Huang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2023 , 4 , 101302-101315.
-
+publication: "*Cell Rep. Phys. Sci.* **2023** , *4* , 101302-101315."
 data: "2023-03-01"
 
 date: "2023-03-02"

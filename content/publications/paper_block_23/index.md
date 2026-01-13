@@ -2,11 +2,15 @@
 title: 'Desulfurdioxidative N-N Coupling of N-Arylhydroxylamines and N-Sulfinylanilines: Reaction Development and Mechanism'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Linwei Li#
+  - Yi Zhou#
+  - Zhenguo Xi
+  - Zhaoquan Guo
+  - Ji-Cheng Duan
+  - Zhi-Xiang Yu*
+  - Hongyin Gao*
 
-publication: Angew. Chem. Int. Ed. 2024 , 63, e202406478.
-
+publication: "*Angew. Chem. Int. Ed.* **2024** , *63*, e202406478."
 data: "2024-05-01"
 
 date: "2024-05-01"

@@ -2,10 +2,10 @@
 title: 'Members Only'
 
 authors:
+  - Yun-Dong Wu
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2001 , 123 , 5777.
+publication: "*J. Am. Chem. Soc.* **2001** , *123* , *5777*."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Members Only'

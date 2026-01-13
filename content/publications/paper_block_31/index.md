@@ -2,11 +2,13 @@
 title: 'Rh-Catalyzed [4+1] Reaction of Cyclopropyl-Capped Dienes (but not Common Dienes) and Carbon Monoxide: Reaction Development and Mechanistic Study'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yusheng Yang#
+  - Han-Xiao Li#
+  - Tian-Yu Zhu
+  - Zi-You Zhang
+  - Zhi-Xiang Yu*
 
-publication: J. Am. Chem. Soc. 2023 , 145 , 17087â17095.
-
+publication: "*J. Am. Chem. Soc.* **2023** , *145* , *17087*â17095."
 data: "2023-08-01"
 
 date: "2023-08-01"

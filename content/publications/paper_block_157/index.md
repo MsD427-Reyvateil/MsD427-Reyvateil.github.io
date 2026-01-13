@@ -2,10 +2,13 @@
 title: 'An expeditious and high-yield formal synthesis of hirsutene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xiaohui Fan
+  - Min-Xian Tang
+  - Lian-Gang Zhuo
+  - Yong Qiang
+  - Tetrahedron Lett
 
-publication: J. Am. Chem. Soc. 2009 , 50 , 155-157.
+publication: "*J. Am. Chem. Soc.* **2009** , *50* , 155-157."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'An expeditious and high-yield formal synthesis of hirsutene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'

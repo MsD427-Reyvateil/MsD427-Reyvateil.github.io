@@ -3,10 +3,9 @@ title: 'Tunable Carbonyl Ylide Reactions: Selective Synthesis of Dihydrofurans a
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yong Tang
 
-publication: Angew. Chem. Int. Ed. 2011 , 50 , 7874-7878.
-
+publication: "*Angew. Chem. Int. Ed.* **2011** , *50* , 7874-7878."
 data: "2019-10-01"
 
 date: "2019-10-02"

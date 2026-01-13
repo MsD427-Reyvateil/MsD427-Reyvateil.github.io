@@ -3,9 +3,9 @@ title: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interac
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Shifa Zhu* Sci. China
 
-publication: Chem. 2020 , 63 , 1230-1239.
+publication: "*Chem.* **2020** , *63* , 1230-1239."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'

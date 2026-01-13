@@ -2,11 +2,10 @@
 title: 'Arene Reduction by Rh/Pd or Rh/Pt under 1 atm Hydrogen Gas and Room Temperature'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Han-Xiao Li 
+  - Zhi-Xiang Yu*
 
-publication: Org. Lett. 2024 .
-
+publication: "*Org. Lett.* **2024** ."
 data: "2024-04-01"
 
 date: "2024-04-01"

@@ -2,11 +2,10 @@
 title: '1,5-X Insertions of Free Alkylidene Carbenes: A Theoretical Study'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
-
-publication: J. Org. Chem. 2023 , 12, e202300440.
-
+  - Yi Zhou
+  - Prof. Dr. Zhi-Xiang Yu*
+  
+publication: "*J. Org. Chem.* **2023** , *12*, e202300440."
 data: "2023-10-01"
 
 date: "2023-10-02"

@@ -2,11 +2,10 @@
 title: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the CâCl Bond of  Carbon Tetrachloride'
 
 authors:
+  - Shi-Kai Tian
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2018 , 20 , 4545-4548.
-
+publication: "*Org. Lett.* **2018** , *20* , 4545-4548."
 data: "2018-10-01"
 
 date: "2018-10-02"

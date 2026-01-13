@@ -3,9 +3,10 @@ title: 'A Frontier Molecular Orbital Theory Approach to Understanding the Mayr E
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wei Liao
+  - Zhi-Xiang Yu* Asian
 
-publication: J. Org. Chem. 2012 , 1 , 336 - 345.
+publication: "*J. Org. Chem.* **2012** , *1* , *336* - 345."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'A Frontier Molecular Orbital Theory Approach to Understanding the Mayr Equation and to Quantifying Nucleophilicity and Electrophilicity by Using HOMO and LUMO Energies'

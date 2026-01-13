@@ -3,9 +3,10 @@ title: 'Conjugated Diene-Assisted Allylic CâH Bond Activation: Cationic Rh(
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Qian Li
+  - Zhi-Xiang Yu* J. Am.  Soc 
 
-publication: Chem. 2010 , 132 , 4542-4543.
+publication: "*Chem.* **2010** , *132* , 4542-4543."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Conjugated Diene-Assisted Allylic CâH Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'

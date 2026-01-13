@@ -3,9 +3,10 @@ title: 'Gold(I)-Catalyzed Ring Expansions of Unactivated Alkynylcyclopropanes to
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Siyu Ye
+  - Zhi-Xiang Yu* Org. Lett 
 
-publication: 2010 , 12 , 804-80 7.
+publication: "** **2010** , *12* , 804-80 7."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Gold(I)-Catalyzed Ring Expansions of Unactivated Alkynylcyclopropanes to (E)-2-Alkylidenecyclobutanamines in the Presence of Sulfonamides'

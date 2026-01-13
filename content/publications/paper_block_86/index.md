@@ -3,10 +3,10 @@ title: 'Rh(I)-Catalyzed Intramolecular [3+2] Cycloaddition of trans-2-Allene-Vin
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Cheng-Hang Liu
+  - Zhi-Xiang Yu* Synlett
 
-publication: J. Am. Chem. Soc. 2018 , 29 , 764-768.
-
+publication: "*J. Am. Chem. Soc.* **2018** , *29* , 764-768."
 data: "2018-10-01"
 
 date: "2018-10-02"

@@ -2,11 +2,12 @@
 title: 'Density Functional Theory Study of Mechanisms of [8 + 2] Cycloadditions of Dienylfurans/Dienylisobenzofurans with DMAD'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Qi Cui
+  - Yuanyuan Chen
+  - James W. Herndon
+  - Zhi-Xiang Yu*
 
-publication: J. Org. Chem. 2021 , 86 , 1419â1429.
-
+publication: "*J. Org. Chem.* **2021** , *86* , *1419*â1429."
 data: "2021-03-01"
 
 date: "2021-03-02"

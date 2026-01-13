@@ -3,10 +3,10 @@ title: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearra
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Shao-Hua Wang
+  - Fu-Min Zhang
 
-publication: J. Am. Chem. Soc. 2015 , 137, 8344-8347.
-
+publication: "*J. Am. Chem. Soc.* **2015** , *137*, 8344-8347."
 data: "jacsat-01"
 date: "2000-01-01"
 # abstract: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'

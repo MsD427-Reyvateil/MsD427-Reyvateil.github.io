@@ -3,9 +3,10 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - 1-Cycloaddition/Retro-Ene Mechanisms Zhi-Xiang Yu
+  - K. N. Houk
 
-publication: J. Am. Chem. Soc. 2003 , 125 , 13825.
+publication: "*J. Am. Chem. Soc.* **2003** , *125* , *13825*."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: ''

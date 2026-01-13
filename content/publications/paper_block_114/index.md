@@ -3,9 +3,10 @@ title: 'Using the Type II Cycloisomerization Reaction of 1,6-Enynes as a Mechani
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yao-Cheng Shi
+  - Zhi-Xiang Yu* Asian
 
-publication: J. Org. Chem. 2014 , 3 , 842-846.
+publication: "*J. Org. Chem.* **2014** , *3* , 842-846."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Using the Type II Cycloisomerization Reaction of 1,6-Enynes as a Mechanistic Probe to Identify the Real Catalytic Species of GaX3 and InX3'

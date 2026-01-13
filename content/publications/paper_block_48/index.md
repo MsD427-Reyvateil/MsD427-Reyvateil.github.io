@@ -2,11 +2,18 @@
 title: 'Catalytic Enantioselective Construction of 6-4 Ring-Junction All-Carbon Stereocenters and Mechanistic Insights'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jia-Yin Wang
+  - Chen-Long Li
+  - Ting Xu
+  - Meng-Fan Li
+  - Wen-Juan Hao
+  - Shu-Jiang Tu
+  - Jianyi Wang
+  - Guigen Li
+  - Zhi-Xiang Yu*
+  - Bo Jiang* Chin. J. Chem.
 
-publication: Chem. 2022 , 40 , 1767-1776.
-
+publication: "*Chem.* **2022** , *40* , 1767-1776."
 data: "2022-07-01"
 
 date: "2022-07-01"

@@ -3,10 +3,9 @@ title: 'Remote Î³-C(sp3)-H Alkylation of Aliphatic Carboxamides via an Unexpec
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Bing-Feng Shi* ACS Catal
 
-publication: J. Am. Chem. Soc. 2020 , 10 , 8212-8222.
-
+publication: "*J. Am. Chem. Soc.* **2020** , *10* , 8212-8222."
 data: "2020-07-01"
 
 date: "2020-07-02"

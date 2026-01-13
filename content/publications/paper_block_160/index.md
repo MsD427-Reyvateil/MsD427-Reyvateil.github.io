@@ -2,10 +2,13 @@
 title: 'Mechanism, Regioselectivity, and the Kinetics of Phosphine-Catalyzed [3+2] Cycloaddition Reactions of Allenoates and Electron-Deficient Alkenes'
 
 authors:
+  - Yong Liang
+  - Song Liu
+  - Yuanzhi Xia
+  - Yahong Li
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Chem. Eur. J. 2008, 14 , 4361-4373.
+publication: "*Chem. Eur. J.* **2008**, *14* , 4361-4373."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Mechanism, Regioselectivity, and the Kinetics of Phosphine-Catalyzed [3+2] Cycloaddition Reactions of Allenoates and Electron-Deficient Alkenes'

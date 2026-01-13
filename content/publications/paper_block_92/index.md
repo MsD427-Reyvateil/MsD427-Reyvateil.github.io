@@ -2,11 +2,11 @@
 title: 'Carbanion Translocations via Intramolecular Proton Transfer: A Quantum Chemical Study'
 
 authors:
+  - Yi Wang
+  - Pei-Jun Cai
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2017 , 82 , 4604-4612.
-
+publication: "*J. Org. Chem.* **2017** , *82* , 4604-4612."
 data: "2018-10-01"
 
 date: "2018-10-02"

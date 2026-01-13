@@ -2,13 +2,10 @@
 title: 'Involving Carbene or Not? Mechanism of Corey-Winter Reaction'
 
 authors:
+  - Pan Zhang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2025 , 147 , 13915-13927.
-
-data: "2025-04-01"
-
+publication: "*J. Am. Chem. Soc.* **2025** , *147* , 13915-13927."
 date: "2025-04-01"
 
 # abstract: 'Involving Carbene or Not? Mechanism of Corey-Winter Reaction'

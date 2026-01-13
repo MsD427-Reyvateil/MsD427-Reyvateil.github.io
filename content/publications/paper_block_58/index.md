@@ -1,12 +1,15 @@
 ---
-title: 'Iodoarene-Catalyzed Oxyamination of Unactivated Alkenes to Synthesize 5âImino-2-Tetrahydrofuranyl Methanamine Derivatives'
+title: 'Iodoarene-Catalyzed Oxyamination of Unactivated Alkenes to Synthesize 5‑Imino-2-Tetrahydrofuranyl Methanamine Derivatives'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xiao-Jun Deng
+  - Hui-Xia Liu
+  - Lu-Wen Zhang
+  - Guan-Yu Zhang
+  - Zhi-Xiang Yu*
+  - Wei He*
 
-publication: J. Org. Chem. 2021 , 86 , 235â253.
-
+publication: "*J. Org. Chem.* **2021** , *86* , *235-253."
 data: "2021-04-01"
 
 date: "2021-04-02"

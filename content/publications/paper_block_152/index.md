@@ -2,10 +2,11 @@
 title: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions? A Computational Study of the Metal Carbenoid O-H Insertion into Water'
 
 authors:
+  - Yong Liang
+  - Haolai Zhou
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2009, 131, 17783-17785.
+publication: "*J. Am. Chem. Soc.* **2009**, *131*, 17783-17785."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions? A Computational Study of the Metal Carbenoid O-H Insertion into Water'

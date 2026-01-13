@@ -3,9 +3,11 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - with Thioaldehydes
+  - Nitroso Compounds and Aldehydes Zhi-Xiang Yu
+  - Yun-Dong Wu
 
-publication: J. Org. Chem. 2003 , 68 , 412.
+publication: "*J. Org. Chem.* **2003** , *68* , *412*."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: ''

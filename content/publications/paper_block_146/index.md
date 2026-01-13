@@ -3,9 +3,10 @@ title: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Mem
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi Wang
+  - Yuanyuan Wang  Asian J
 
-publication: Chem. 2010 , 5 , 1072 - 1088.
+publication: "*Chem.* **2010** , *5* , *1072* - 1088."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Membered Carbocycles (Review)'

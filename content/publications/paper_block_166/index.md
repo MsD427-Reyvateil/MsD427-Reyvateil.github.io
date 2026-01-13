@@ -2,10 +2,15 @@
 title: 'Nitrene Equivalent Mediated Metal-Free Ring Expansions of Alkylidenecyclopropanes and an Alkylidenecyclobutane'
 
 authors:
+  - Yong Liang
+  - Lei Jiao
+  - Yuanyuan Wang
+  - Yuanyuan Chen
+  - Lingge Ma
+  - Siwei Zhang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2006 , 8 , 5877-5879.
+publication: "*Org. Lett.* **2006** , *8* , 5877-5879."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Nitrene Equivalent Mediated Metal-Free Ring Expansions of Alkylidenecyclopropanes and an Alkylidenecyclobutane'

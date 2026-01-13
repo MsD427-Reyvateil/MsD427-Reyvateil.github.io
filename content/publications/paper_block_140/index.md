@@ -3,10 +3,11 @@ title: 'Rh(I)-Catalyzed Formal [5 + 1]/[2 + 2 + 1] Cycloaddition of 1-Yne-vinylc
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Feng Li
+  - Lei Jiao
+  - Zhi-Xiang Yu* J. Am.  Soc 
 
-publication: Chem. 2011 , 133 , 1690-1693.
-
+publication: "*Chem.* **2011** , *133* , 1690-1693."
 data: "2018-10-01"
 
 date: "2018-10-01"

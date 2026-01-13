@@ -1,14 +1,12 @@
 ---
-title: 'An Experimental and Theoretical Investigation into [2Ï + 2Ï] Cycloaddition Reactions Catalyzed by a Cationic Cobalt(I) Complex Containing a Strong-Field PCNHCP Pincer Ligand'
+title: 'An Experimental and Theoretical Investigation into [2π + 2π] Cycloaddition Reactions Catalyzed by a Cationic Cobalt(I) Complex Containing a Strong-Field PCNHCP Pincer Ligand'
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Graham de Ruiter
 
-
-date: '2025-05-01'
-publication: J. Am. Chem. Soc. 2025 , 147 , 15195-15204.
-
+publication: "*J. Am. Chem. Soc.* **2025** , *147* , 15195-15204."
+data: "2025-05-01"
 # abstract: 'An Experimental and Theoretical Investigation into [2Ï + 2Ï] Cycloaddition Reactions Catalyzed by a Cationic Cobalt(I) Complex Containing a Strong-Field PCNHCP Pincer Ligand'
 
 # summary: 'An Experimental and Theoretical Investigation into [2Ï + 2Ï] Cycloaddition Reactions Catalyzed by a Cationic Cobalt(I) Complex Containing a Strong-Field PCNHCP Pincer Ligand'

@@ -3,9 +3,10 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - A. Wender
+  - K. N. Houk
 
-publication: J. Am. Chem. Soc. 2008 , 130 , 2378-2379.
+publication: "*J. Am. Chem. Soc.* **2008** , *130* , 2378-2379."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: ''

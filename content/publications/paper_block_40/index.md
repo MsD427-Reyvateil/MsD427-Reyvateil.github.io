@@ -2,11 +2,12 @@
 title: 'Metalla-Claisen Rearrangement in Gold-Catalyzed [4+2] Reaction: A New Elementary Reaction Suggested for Future Reaction Design'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jing Liu+
+  - Yusheng Yang+
+  - Weiming Shi+
+  - Zhi-Xiang Yu*
 
-publication: Angew. Chem. Int. Ed. 2023 , 62, e202217654.
-
+publication: "*Angew. Chem. Int. Ed.* **2023** , *62*, e202217654."
 data: "2023-02-01"
 
 date: "2023-02-01"

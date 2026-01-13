@@ -3,10 +3,9 @@ title: 'Vinylcyclopropanes as Three-Carbon Synthons in Rhodium-Catalyzed Cycload
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Pan Zhang
 
-publication: Chem. 2025 , 58 , 1065-1080.
-
+publication: "*Chem.* **2025** , *58* , 1065-1080."
 data: "2025-04-01"
 
 date: "2025-04-01"

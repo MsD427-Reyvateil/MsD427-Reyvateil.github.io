@@ -2,12 +2,11 @@
 title: 'Rhodium-Catalyzed [5 + 1 + 2] Reaction of Yne-Vinylcyclopropenes and CO: The Application of Vinylcyclopropenes for Higher-Order Cycloaddition'
 
 authors:
+  - Zhiqiang Huang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-date: '2025-05-01'
-publication: J. Am. Chem. Soc. 2025 , 147 , 15947-15954.
-
+publication: "*J. Am. Chem. Soc.* **2025** , *147* , 15947-15954."
+data: "2025-05-02"
 # abstract: 'Rhodium-Catalyzed [5 + 1 + 2] Reaction of Yne-Vinylcyclopropenes and CO: The Application of Vinylcyclopropenes for Higher-Order Cycloaddition'
 
 # summary: 'Rhodium-Catalyzed [5 + 1 + 2] Reaction of Yne-Vinylcyclopropenes and CO: The Application of Vinylcyclopropenes for Higher-Order Cycloaddition'

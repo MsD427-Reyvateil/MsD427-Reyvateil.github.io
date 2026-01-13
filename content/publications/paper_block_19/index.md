@@ -2,11 +2,14 @@
 title: 'O-to-O acyl transfer for epimerization-free peptide C-terminal salicylaldehyde ester synthesis'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Kejing Xie
+  - ‡ Zeyuan Shen
+  - ‡ Peng Cheng
+  - Haoxiang Dong
+  - Zhi-Xiang Yu * 
+  - Liansuo Zu *
 
-publication: J. Am. Chem. Soc. 2024 , 3, 1049-1060.
-
+publication: "*J. Am. Chem. Soc.* **2024** , *3*, 1049-1060."
 data: "2024-07-01"
 
 date: "2024-07-01"

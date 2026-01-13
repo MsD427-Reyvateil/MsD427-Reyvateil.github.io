@@ -2,11 +2,14 @@
 title: 'Natural products inspired [3 + 2] cycloaddition enables efficient construction of hydroxylated tetrahydronfuran acetals and concise syntheses of lignans'
 
 authors:
+  - Dong-Yue Cai
+  - Weiming Shi
+  - Zhao-Hui Jin
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jin-Xin Zhao
+  - Jian-Min Yue
 
-publication: Chem. 2024 , 67 , 1-8.
-
+publication: "*Chem.* **2024** , *67* , 1-8."
 data: "2024-04-01"
 
 date: "2024-04-01"

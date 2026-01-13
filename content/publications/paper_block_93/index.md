@@ -3,10 +3,11 @@ title: 'An Enyne Cycloisomerization/[5+1] Reaction Sequence to Synthesize Tetrah
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yu Xiang
+  - Yu-Hao Wang
+  - Zhi-Xiang Yu*  Commun
 
-publication: Chem. 2017 , 53 , 2158-2161.
-
+publication: "*Chem.* **2017** , *53* , 2158-2161."
 data: "2018-10-01"
 
 date: "2018-10-01"

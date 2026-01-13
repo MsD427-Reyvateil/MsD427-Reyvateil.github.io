@@ -2,11 +2,13 @@
 title: 'Type-II Pauson-Khand reaction of 1,8-enyne in the attempt of building 7/5 ring of (-)-caribenol A and DFT understanding'
 
 authors:
+  - Yang Wang
+  - Kang Liu
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yanxing Jia
+  - Tetrahedron Lett
 
-publication: J. Am. Chem. Soc. 2019 , 60 , 151001-151004.
-
+publication: "*J. Am. Chem. Soc.* **2019** , *60* , 151001-151004."
 data: "2019-08-01"
 
 date: "2019-08-01"

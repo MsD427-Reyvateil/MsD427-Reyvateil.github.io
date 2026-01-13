@@ -3,9 +3,11 @@ title: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO f
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Zhe Zhuang
+  - Sritama Bose
+  - Zhi-Xiang Yu* Tetrahedron
 
-publication: J. Am. Chem. Soc. 2016 , 72 , 2752-2755.
+publication: "*J. Am. Chem. Soc.* **2016** , *72* , 2752-2755."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±, Î²-cyclohexenes'

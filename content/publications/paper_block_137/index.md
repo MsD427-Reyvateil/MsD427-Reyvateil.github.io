@@ -2,10 +2,10 @@
 title: 'Mechanisms of the Thermal Cyclotrimerizations of Fluoro- and Chloroacetylenes: Density Functional Theory Investigation and Intermediate Trapping Experiments'
 
 authors:
+  - Zhong-Ke Yao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2011 , 133 , 10864-10877.
+publication: "*J. Am. Chem. Soc.* **2011** , *133* , 10864-10877."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Mechanisms of the Thermal Cyclotrimerizations of Fluoro- and Chloroacetylenes: Density Functional Theory Investigation and Intermediate Trapping Experiments'

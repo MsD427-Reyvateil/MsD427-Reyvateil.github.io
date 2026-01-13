@@ -2,11 +2,12 @@
 title: '(Z)-Î³-Alkylidenebutenolide Synthesis through Au(I)-Catalyzed 1,3-Acyloxy Migration and the Carbonyl-Ene Reaction'
 
 authors:
+  - Pathan Mosim
+  - Qi Cui
+  - Shaozhong Wang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2021 , 23 , 5669-5673.
-
+publication: "*Org. Lett.* **2021** , *23* , 5669-5673."
 data: "2021-09-01"
 
 date: "2021-09-01"

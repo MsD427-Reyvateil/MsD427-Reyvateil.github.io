@@ -3,9 +3,10 @@ title: 'Transition Metal-Catalyzed Cycloadditions of Cyclopropanes for the Synth
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xu-Fei Fu
+  - Zhi-Xiang Yu* Top. Curr
 
-publication: Chem. 2014 , 346 , 195â231.
+publication: "*Chem.* **2014** , *346* , *195*â231."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Transition Metal-Catalyzed Cycloadditions of Cyclopropanes for the Synthesis of Carbocycles: C-C Activation in Cyclopropanes'

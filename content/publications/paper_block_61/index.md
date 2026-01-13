@@ -3,10 +3,9 @@ title: 'A Combined Computational and Experimental Study of Rh- Catalyzed Câ
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wei He
 
-publication: J. Am. Chem. Soc. 2021 , 143 , 3571-3582.
-
+publication: "*J. Am. Chem. Soc.* **2021** , *143* , 3571-3582."
 data: "2021-03-01"
 
 date: "2021-03-01"

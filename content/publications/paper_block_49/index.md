@@ -2,11 +2,11 @@
 title: 'Six-Step Total Synthesis of Isohirsut-4-ene through [5+2+1] Cycloaddition and Transannular Epoxide-Alkene Cyclization'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jing Liu§
+  - Yi Zhou§
+  - Zhi-Xiang Yu*
 
-publication: Org. Lett. 2022 , 24 , 1444-1447.
-
+publication: "*Org. Lett.* **2022** , *24* , 1444-1447."
 data: "orlef7-01"
 date: "2000-01-01"
 # abstract: 'Six-Step Total Synthesis of Isohirsut-4-ene through [5+2+1] Cycloaddition and Transannular Epoxide-Alkene Cyclization'

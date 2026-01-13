@@ -3,9 +3,10 @@ title: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated 
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wei Meng
+  - Zhi-Xiang Yu* J. Org
 
-publication: Chem. 2013 , 78 , 11783-11793.
+publication: "*Chem.* **2013** , *78* , 11783-11793."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'

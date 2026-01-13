@@ -2,11 +2,12 @@
 title: 'Why [4 + 2 + 1] but Not [2 + 2 + 1]? Why Allenes? A Mechanistic Study of the Rhodium-Catalyzed [4 + 2 + 1] Cycloaddition of In Situ Generated Ene-Ene-Allenes and Carbon Monoxide'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi Zhou
+  - Jun-Long Qin
+  - Wenbo Xu
+  - Zhi-Xiang Yu*
 
-publication: J. Org. Chem. 2022 , 87 , 10576-10591.
-
+publication: "*J. Org. Chem.* **2022** , *87* , 10576-10591."
 data: "2022-08-01"
 
 date: "2022-08-01"

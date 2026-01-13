@@ -2,11 +2,11 @@
 title: 'Oxime-Based and Catalyst-Free Dynamic Covalent Polyurethanes'
 
 authors:
+  - Ning Zhao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jian Xu
 
-publication: J. Am. Chem. Soc. 2017 , 139 , 8678-8684.
-
+publication: "*J. Am. Chem. Soc.* **2017** , *139* , 8678-8684."
 data: "2018-10-01"
 
 date: "2018-10-01"

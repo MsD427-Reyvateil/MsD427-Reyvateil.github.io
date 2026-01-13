@@ -2,11 +2,11 @@
 title: 'Highly Diastereoselective Construction of Fused Carbocycles from Cyclopropane-1,1-dicarboxylates and Cyclic Enol Silyl Ethers: Scope, Mechanism, and Origin of Diastereoselectivity'
 
 authors:
+  - Xu,Xiu-Li Sun
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yong Tang
 
-publication: Chem. Eur. J. 2012 , 18 , 2196-2201.
-
+publication: "*Chem. Eur. J.* **2012** , *18* , 2196-2201."
 # abstract: 'Highly Diastereoselective Construction of Fused Carbocycles from Cyclopropane-1,1-dicarboxylates and Cyclic Enol Silyl Ethers: Scope, Mechanism, and Origin of Diastereoselectivity'
 
 # summary: 'Highly Diastereoselective Construction of Fused Carbocycles from Cyclopropane-1,1-dicarboxylates and Cyclic Enol Silyl Ethers: Scope, Mechanism, and Origin of Diastereoselectivity'

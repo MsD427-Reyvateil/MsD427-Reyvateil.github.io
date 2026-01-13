@@ -3,9 +3,9 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - K. N. Houk
 
-publication: Angew. Chem. Int. Ed. 2003 , 42 , 808.
+publication: "*Angew. Chem. Int. Ed.* **2003** , *42* , *808*."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: ''

@@ -2,11 +2,13 @@
 title: 'Strained Dehydro-[2,2]-paracyclophane Enabled Planar Chirality Construction and [2.2]Paracyclophane Functionalization'
 
 authors:
+  - Xue Zhang
+  - Yi Zhou
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Chen-Ho Tung
+  - Zhenghu Xu
 
-publication: Angew. Chem. Int. Ed. 2025 , 64, e202420667 .
-
+publication: "*Angew. Chem. Int. Ed.* **2025** , *64*, e202420667 ."
 data: "2025-02-01"
 
 date: "2025-02-01"

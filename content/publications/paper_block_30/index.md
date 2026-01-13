@@ -2,11 +2,17 @@
 title: 'Catalytic 4-exo-dig carbocyclization for the construction of furan-fused cyclobutanones and synthetic applications'
 
 authors:
+  - Kemiao Hong
+  - Yi Zhou
+  - Haoxuan Yuan
+  - Zhijing Zhang
+  - Jingjing Huang
+  - Shanliang Dong
+  - Wenhao Hu
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xinfang Xu
 
-publication: J. Am. Chem. Soc. 2023 , 14 , 6378-6389.
-
+publication: "*J. Am. Chem. Soc.* **2023** , *14* , 6378-6389."
 data: "2023-10-01"
 
 date: "2023-10-01"

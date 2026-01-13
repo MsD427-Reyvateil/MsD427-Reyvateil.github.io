@@ -3,9 +3,10 @@ title: 'TfOH-catalyzed tandem cyclopropane ring enlargement/C-C formation/etheri
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Siyu Ye
+  - Zhi-Xiang Yu*  Commun
 
-publication: Chem. 2011 , 47 , 794 - 796.
+publication: "*Chem.* **2011** , *47* , *794* - 796."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'TfOH-catalyzed tandem cyclopropane ring enlargement/C-C formation/etherification of alkynylcyclopropanes and 1,3-diketones to cyclobutane-fused dihydrofurans'

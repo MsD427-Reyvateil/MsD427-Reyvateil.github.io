@@ -2,11 +2,11 @@
 title: 'Formal Hydrotrimethylsilylation of Styrenes with Anti-Markovnikov Selectivity Using Hexamethyldisilane'
 
 authors:
+  - Xin Wang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wen-Bo Liu
 
-publication: Org. Lett. 2022 , 24 , 8735-8740.
-
+publication: "*Org. Lett.* **2022** , *24* , 8735-8740."
 data: "2022-12-01"
 
 date: "2022-12-01"

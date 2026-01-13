@@ -2,11 +2,10 @@
 title: 'Formal Synthesis of (Â±)-Galanthamine and (Â±)-Lycoramine Using Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1âEneâVinylcyclopropane and CO'
 
 authors:
+  - Yu Feng
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2015 , 80, 1952-1956.
-
+publication: "*J. Org. Chem.* **2015** , *80*, 1952-1956."
 data: "2018-10-01"
 
 date: "2018-10-01"

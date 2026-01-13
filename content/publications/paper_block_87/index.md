@@ -2,11 +2,11 @@
 title: 'Asymmetric Total Synthesis of (-)-Clovan-2,9-dione Using Rhodium(I)-Catalyzed [3+2+1] Cycloaddition of 1-Yne-vinylcyclopropane and CO'
 
 authors:
+  - Xing Fan
+  - Lu-Ning Wang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2017 , 19 , 6040-6043.
-
+publication: "*Org. Lett.* **2017** , *19* , 6040-6043."
 data: "2018-10-01"
 
 date: "2018-10-01"

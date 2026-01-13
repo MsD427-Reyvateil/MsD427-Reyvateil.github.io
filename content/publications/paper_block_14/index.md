@@ -2,11 +2,15 @@
 title: 'Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4- enynes (YACEs) and Carbon Monoxide: Reaction Development and Mechanism'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Qi Cui
+  - † Pan Zhang
+  - † Bing-Wen Li
+  - † Yi Jin
+  - Qianwei Zhang
+  - Hong-Xi Bai
+  - Zhi-Xiang Yu*
 
-publication: J. Am. Chem. Soc. 2024 , 14 , 14595â14605.
-
+publication: "*J. Am. Chem. Soc.* **2024** , *14* , *14595*â14605."
 data: "2024-09-01"
 
 date: "2024-09-01"

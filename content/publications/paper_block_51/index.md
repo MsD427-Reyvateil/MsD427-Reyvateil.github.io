@@ -2,11 +2,14 @@
 title: 'Palladium-Catalyzed [3 + 2] Annulation of Alkynes with Concomitant Aromatic Ring Expansion: A Concise Approach to (Pseudo)azulenes'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Fulin Zhou
+  - Weiming Shi
+  - Xingrong Liao
+  - Yudong Yang*
+  - Zhi-Xiang Yu*
+  - Jingsong You*
 
-publication: J. Am. Chem. Soc. 2022 , 12 ,676-686.
-
+publication: "*ACS Catal.* **2022** , *12* ,676-686."
 data: "2022-01-01"
 
 date: "2022-01-01"

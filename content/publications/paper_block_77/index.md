@@ -2,11 +2,12 @@
 title: 'Understanding Regioselectivities of Corey-Chaykovsky Reactions of Dimethylsulfoxonium Methylide (DMSOM) and Dimethylsulfonium Methylide (DMSM) toward Enones: A DFT Study.'
 
 authors:
+  - Yu Xiang
+  - Xing Fan
+  - Pei-Jun Cai
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2019 , 582-590.
-
+publication: "*J. Org. Chem.* **2019** , 582-590."
 data: "2019-06-01"
 
 date: "2019-06-01"

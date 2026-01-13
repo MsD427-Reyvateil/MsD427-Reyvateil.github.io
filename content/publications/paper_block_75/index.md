@@ -2,11 +2,10 @@
 title: 'Asymmetric Synthesis of Azepine-Fused Cyclobutanes from Yne- Methylenecyclopropanes Involving Cyclopropanation/CâC Cleavage/WagnerâMeerwein Rearrangement and Reaction Mechanism'
 
 authors:
+  - Chen-Long Li
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2019 , 84 , 9913â9928.
-
+publication: "*J. Org. Chem.* **2019** , *84* , *9913*â9928."
 data: "2019-09-01"
 
 date: "2019-09-01"

@@ -16,7 +16,9 @@
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
   {{ partial "components/toc.html" . }}
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12" data-pagefind-body data-pagefind-meta="title:{{ .Title }}">
+      {{/* Use hidden spans for filter values - best practice per Pagefind docs */}}
+      <span data-pagefind-filter="type" style="display:none;">publications</span>
 
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">

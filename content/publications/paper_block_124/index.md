@@ -2,10 +2,10 @@
 title: ''
 
 authors:
+  - Lei Jiao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2013 , 78 , 6842-6848.
+publication: "*J. Org. Chem.* **2013** , *78* , 6842-6848."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: ''

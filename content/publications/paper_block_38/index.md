@@ -2,11 +2,13 @@
 title: 'Strain-Release-Controlled [4 + 2 + 1] Reaction of Cyclopropyl-Capped Diene-ynes/Diene-enes and Carbon Monoxide Catalyzed by Rhodium'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Chen-Long Li#
+  - Yusheng Yang#
+  - Yi Zhou#
+  - Zhao-Chen Duan#
+  - Zhi-Xiang Yu*
 
-publication: J. Am. Chem. Soc. 2023 , 145 , 5496-5505.
-
+publication: "*J. Am. Chem. Soc.* **2023** , *145* , 5496-5505."
 data: "2023-03-01"
 
 date: "2023-03-02"

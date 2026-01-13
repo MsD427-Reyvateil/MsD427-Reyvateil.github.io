@@ -2,10 +2,10 @@
 title: 'Gold(I)-Catalyzed endo-Selective Intramolecular Î±-Alkenylation of Î²-Yne-Furans: Synthesis of Seven-Membered-Ring-Fused Furans and DFT Calculations'
 
 authors:
+  - Mu Lin
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Angew. Chem. Int. Ed. 2013 , 52 , 14157-14161.
+publication: "*Angew. Chem. Int. Ed.* **2013** , *52* , 14157-14161."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Gold(I)-Catalyzed endo-Selective Intramolecular Î±-Alkenylation of Î²-Yne-Furans: Synthesis of Seven-Membered-Ring-Fused Furans and DFT Calculations'

@@ -3,9 +3,10 @@ title: 'RhI-Catalyzed Two-Component [(5+2)+1] Cycloaddition Approach toward [5-8
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jialing Zhang
+  - Zhi-Xiang Yu*  Asian J
 
-publication: Chem. 2010 , 5, 1555-1559.
+publication: "*Chem.* **2010** , *5*, 1555-1559."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'RhI-Catalyzed Two-Component [(5+2)+1] Cycloaddition Approach toward [5-8-5] Ring Systems'

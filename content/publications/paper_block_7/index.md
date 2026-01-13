@@ -1,12 +1,17 @@
 ---
-title: 'Enantioselective Assembly of Fully Substituted Î±-Amino Allenoates Through a Mannich Addition and Stepwise [3,3]-Ï Rearrangement Sequence'
+title: 'Enantioselective Assembly of Fully Substituted α-Amino Allenoates Through a Mannich Addition and Stepwise [3,3]-σ Rearrangement Sequence'
 
 authors:
+  - Haoxuan Yuan 
+  - Yi Zhou
+  - Xiongda Xie
+  - Ming Bao
+  - Kewei Chen
+  - Kemiao Hong
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xinfang Xu
 
-publication: J. Am. Chem. Soc. 2025 , 12 , 2409334.
-
+publication: "*J. Am. Chem. Soc.* **2025** , *12* , *2409334*."
 data: "2025-04-01"
 
 date: "2025-04-02"

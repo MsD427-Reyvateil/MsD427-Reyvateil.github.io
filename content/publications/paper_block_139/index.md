@@ -2,10 +2,10 @@
 title: 'Enantioselective Rhodium-Catalyzed Allylic C-H Activation for the Addition to Conjugated Dienes.'
 
 authors:
+  - Qian Li
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Angew. Chem. Int. Ed. 2012 , 123 , 2192-2195.
+publication: "*Angew. Chem. Int. Ed.* **2012** , *123* , 2192-2195."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Enantioselective Rhodium-Catalyzed Allylic C-H Activation for the Addition to Conjugated Dienes.'

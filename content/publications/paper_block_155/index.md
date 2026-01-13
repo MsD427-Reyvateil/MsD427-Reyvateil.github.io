@@ -2,10 +2,12 @@
 title: 'Formal syntheses of (Â±)-Asterisca-3(15),6-diene and (Â±)-Pentalenene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'
 
 authors:
+  - Xiaohui Fan
+  - Lian-Gang Zhuo
+  - Yong Qiang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2009, 65, 4709-4713.
+publication: "*J. Am. Chem. Soc.* **2009**, *65*, 4709-4713."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Formal syntheses of (Â±)-Asterisca-3(15),6-diene and (Â±)-Pentalenene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'

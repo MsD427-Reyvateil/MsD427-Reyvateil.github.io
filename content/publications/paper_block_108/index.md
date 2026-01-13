@@ -3,10 +3,9 @@ title: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Shaozhong Wang
 
-publication: J. Am. Chem. Soc. 2015 , 137 , 13290-13300.
-
+publication: "*J. Am. Chem. Soc.* **2015** , *137* , 13290-13300."
 data: "jacsat-01"
 date: "2000-01-01"
 # abstract: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An Experimental and DFT Study of Gold-Catalyzed Ring Expansion and Spirocyclization of 2âPropargyl-Î²-tetrahydrocarbolines'

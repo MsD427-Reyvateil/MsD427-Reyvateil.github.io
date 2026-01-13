@@ -3,10 +3,10 @@ title: 'Rh-catalysed [5+1] Cycloaddition of Allenylcyclopropanes and CO: Reactio
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Cheng-Hang Liu
+  - Zhi-Xiang Yu* Org. Biomol
 
-publication: Chem. 2016 , 14 , 5945-5950.
-
+publication: "*Chem.* **2016** , *14* , 5945-5950."
 data: "2018-10-01"
 
 date: "2018-10-01"

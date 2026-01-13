@@ -3,9 +3,9 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yun-Dong Wu
 
-publication: J. Org. Chem. 2003 , 68 , 421.
+publication: "*J. Org. Chem.* **2003** , *68* , *421*."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: ''

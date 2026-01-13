@@ -3,10 +3,10 @@ title: 'Homopyrrole and homofuran as masked 1,5-dipoles in metal-free (5+2) cycl
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xin Li
+  - Zhi-Xiang Yu* Tetrahedron
 
-publication: J. Am. Chem. Soc. 2013 , 69 , 7854-7860.
-
+publication: "*J. Am. Chem. Soc.* **2013** , *69* , 7854-7860."
 data: "2018-10-01"
 
 date: "2018-10-02"

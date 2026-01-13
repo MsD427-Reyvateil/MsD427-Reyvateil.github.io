@@ -2,11 +2,10 @@
 title: 'Gold(I)-Catalyzed Polycyclization of Linear Dienediynes to Seven-Membered Ring-Containing Polycycles via Tandem Cyclopropanation/Cope Rearrangement/C-H Activation'
 
 authors:
+  - Cheng-Hang Liu
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2014 , 16 , 5898-5901.
-
+publication: "*Org. Lett.* **2014** , *16* , 5898-5901."
 data: "2018-10-01"
 
 date: "2018-10-01"

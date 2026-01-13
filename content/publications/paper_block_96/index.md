@@ -2,11 +2,11 @@
 title: 'A Concise Total Synthesis of (-)-Mesembrine'
 
 authors:
+  - Lu-Ning Wang
+  - Qi Cui
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2016 , 81 , 10165-10171.
-
+publication: "*J. Org. Chem.* **2016** , *81* , 10165-10171."
 data: "2018-10-01"
 
 date: "2018-10-02"

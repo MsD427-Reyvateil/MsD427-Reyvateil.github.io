@@ -3,10 +3,9 @@ title: 'Co-Catalyzed Asymmetric Intramolecular [3+2] Cycloaddition of Yne-Alkyli
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xiong Xiao
 
-publication: Chem. Eur. J. 2021 , 27 , 7176-7182.
-
+publication: "*Chem. Eur. J.* **2021** , *27* , 7176-7182."
 data: "2021-06-01"
 
 date: "2021-06-01"

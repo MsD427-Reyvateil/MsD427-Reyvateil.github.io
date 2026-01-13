@@ -2,11 +2,11 @@
 title: 'Computational Study of Mechanisms and Tether Length Effects of Rh-Catalyzed [3+2] and [3+2+1] Reactions of Ene/Yne- Vinylcyclopropanes'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Guan-Yu Zhang
+  - Mu Lin
+  - Zhi-Xiang Yu*
 
-publication: Chem. 2023 , 18, e202300032.
-
+publication: "*Chem. Asian. J. * **2023** , *18*, e202300032."
 data: "2023-03-01"
 
 date: "2023-03-01"

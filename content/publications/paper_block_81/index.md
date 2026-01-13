@@ -2,11 +2,11 @@
 title: 'Rhodium(II)-catalysed generation of cycloprop-1-en-1-yl ketones and their rearrangement to 5-aryl-2-siloxyfurans'
 
 authors:
+  - C. Garcia
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Michael P. Doyle*  Commun
 
-publication: Chem. 2018 , 54 , 9513-9516.
-
+publication: "*Chem.* **2018** , *54* , 9513-9516."
 data: "2018-10-01"
 
 date: "2018-10-01"

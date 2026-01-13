@@ -2,10 +2,11 @@
 title: 'Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of trans-Vinylcyclopropane-enes'
 
 authors:
+  - Lei Jiao
+  - Siyu Ye
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2008 , 130 , 7178-7179.
+publication: "*J. Am. Chem. Soc.* **2008** , *130* , 7178-7179."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of trans-Vinylcyclopropane-enes'

@@ -2,11 +2,23 @@
 title: 'Direct insertion into the C-C bond of unactivated ketones with NaH-mediated aryne chemistry'
 
 authors:
+  - Fan Luo
+  - Chen-Long Li
+  - Peng Ji
+  - Yuxin Zhou
+  - Jingjing Gui
+  - Lingyun Chen
+  - Yuejia Yin
+  - Xinyu Zhang
+  - Yanwei Hu
+  - Xiaobei Chen
+  - Xuejun Liu
+  - Xiaodong Chen
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wei Wang
+  - Shi-Lei Zhang
 
-publication: J. Am. Chem. Soc. 2023 , 9 , 2620-2636.
-
+publication: "*J. Am. Chem. Soc.* **2023** , *9* , 2620-2636."
 data: "2023-07-01"
 
 date: "2023-07-01"

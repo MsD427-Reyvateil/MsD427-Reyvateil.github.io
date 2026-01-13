@@ -3,10 +3,10 @@ title: 'RhI-Catalyzed Intramolecular [3+2] Cycloaddition of 1-Allene-vinylcyclop
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Meng Dou
+  - Zhi-Xiang Yu* Asian
 
-publication: J. Org. Chem. 2018 , 7 , 1609-1613.
-
+publication: "*J. Org. Chem.* **2018** , *7* , 1609-1613."
 data: "2018-10-01"
 
 date: "2018-10-02"

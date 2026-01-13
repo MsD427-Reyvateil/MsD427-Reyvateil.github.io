@@ -2,11 +2,14 @@
 title: 'Ynamide Protonation-Initiated Cis-Selective Polyene Cyclization and Reaction Mechanism'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jiasheng Yao†
+  - Chen-Long Li†
+  - Xing Fan
+  - Zhou Wang
+  - Zhi-Xiang Yu*
+  - Junfeng Zhao*
 
-publication: Chem. 2022 , 4 , 2991-3001.
-
+publication: "*CCS Chem. * **2022** , *4* , 2991-3001."
 data: "2022-01-01"
 
 date: "2022-01-02"

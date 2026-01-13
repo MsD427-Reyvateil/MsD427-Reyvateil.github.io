@@ -2,11 +2,11 @@
 title: 'Rhodium(I)-Catalyzed Three-Component [4+2+1] Cycloaddition of Two Vinylallenes and CO'
 
 authors:
+  - Qi Cui
+  - Zi-You Tian
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Chem. Eur. J. 2021 , 27 , 5638 - 5641.
-
+publication: "*Chem. Eur. J.* **2021** , *27* , *5638* - 5641."
 data: "2021-04-01"
 
 date: "2021-04-01"

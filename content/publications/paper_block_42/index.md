@@ -2,11 +2,12 @@
 title: 'DFT Study of Mechanism and Stereochemistry of Nickel-Catalyzed trans-Arylative Desymmetrizing Cyclization of Alkyne-Tethered Malononitriles'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yu-Qing Zheng
+  - Chen-Long Li
+  - Wen-Bo Liu*
+  - Zhi-Xiang Yu*
 
-publication: J. Org. Chem. 2022 , 87 , 16079-16083.
-
+publication: "*J. Org. Chem.* **2022** , *87* , 16079-16083."
 data: "2022-12-01"
 
 date: "2022-12-02"

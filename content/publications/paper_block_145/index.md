@@ -3,9 +3,9 @@ title: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropa
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Lian-Gang Zhuo
 
-publication: Org. Lett. 2010 , 12 ,2528-2531.
+publication: "*Org. Lett.* **2010** , *12* ,2528-2531."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropanes and CO: Homologous PausonâKhand Reaction and Total Synthesis of (Â±)-Î±-Agarofuran'

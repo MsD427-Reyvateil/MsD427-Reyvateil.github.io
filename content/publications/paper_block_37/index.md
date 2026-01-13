@@ -2,11 +2,11 @@
 title: 'Synthesis of Polycyclic n/5/8 and n/5/5/5 Skeletons Using Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Exocyclic-ene-vinylcyclopropanes and Carbon Monoxide'
 
 authors:
+  - Lu-Ning Wang#
+  - Zhiqiang Huang#
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2023 , 25 , 1732-1736.
-
+publication: "*Org. Lett.* **2023** , *25* , 1732-1736."
 data: "2023-03-01"
 
 date: "2023-03-01"

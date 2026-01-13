@@ -2,11 +2,14 @@
 title: 'Rh-Catalyzed [8+1] Cycloaddition of Vinyl Biscyclopropanes with CO for the Synthesis of Nine-Membered Carbocycles'
 
 authors:
+  - Yi Zhou
+  - Yi Jin
+  - Xinxuan Li
+  - Xi-Jia Liu
+  - Yi Wang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Am. Chem. Soc. 2025 , 15 , 4441-4449.
-
+publication: "*J. Am. Chem. Soc.* **2025** , *15* , 4441-4449."
 data: "2025-03-01"
 
 date: "2025-03-01"

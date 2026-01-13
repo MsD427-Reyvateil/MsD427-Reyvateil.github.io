@@ -2,11 +2,11 @@
 title: 'Asymmetric Hydrogenation of In Situ Generated Isochromenylium Intermediates by Copper/Ruthenium Tandem Catalysis'
 
 authors:
+  - Ya Chen
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Qing-Hua Fan
 
-publication: Angew. Chem. Int. Ed. 2017 , 56 , 4135-4139.
-
+publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 4135-4139."
 data: "2018-10-01"
 
 date: "2018-10-01"

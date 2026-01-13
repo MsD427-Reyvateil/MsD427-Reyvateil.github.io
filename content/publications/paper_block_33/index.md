@@ -2,11 +2,14 @@
 title: 'Regioselective umpolung para-C-H functionalization of arylhydroxylamines'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Zhenguo Xi
+  - Xi-Jia Liu
+  - Zhaoquan Guo
+  - Zhiwei Gao
+  - Zhi-Xiang Yu*
+  - Hongyin Gao*
 
-publication: J. Am. Chem. Soc. 2023 , 2 , 778-788.
-
+publication: "*J. Am. Chem. Soc.* **2023** , *2* , 778-788."
 data: "2023-05-01"
 
 date: "2023-05-02"

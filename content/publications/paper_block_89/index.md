@@ -3,9 +3,10 @@ title: 'Sigmatropic Proton Shifts: A Quantum Chemical Study'
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi Wang
+  - Zhi-Xiang Yu* Org. Biomol
 
-publication: Chem. 2017 , 15 , 7439-7446.
+publication: "*Chem.* **2017** , *15* , 7439-7446."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Sigmatropic Proton Shifts: A Quantum Chemical Study'

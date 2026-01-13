@@ -2,11 +2,10 @@
 title: 'Dynamically or Kinetically Controlled? Computational Study of the Mechanisms of Electrophilic Aminoalkenylation of Heteroaromatics with Keteniminium Ions'
 
 authors:
+  - Pan Zhang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: J. Org. Chem. 2024 , 89 , 4326â4335.
-
+publication: "*J. Org. Chem.* **2024** , *89* , *4326*â4335."
 data: "2024-04-01"
 
 date: "2024-04-02"

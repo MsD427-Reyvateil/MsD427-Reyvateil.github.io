@@ -2,11 +2,12 @@
 title: 'Rh(I)-Catalyzed [4+3]/[4+1] Cycloaddition of Diene-Vinylcyclopropanes and Carbon Monoxide to Access Angular 5/7/5 Tricycles'
 
 authors:
-  - Zhi-Xiang Yu
+  - Jun Yang
+  - Pan Zhang
   - Zeyuan Shen
+  - Zhi-Xiang Yu*
 
-publication: Chem. Eur. J. 2023 , 30, e202303407.
-
+publication: "*Chem. Eur. J.* **2023** , *30*, e202303407."
 data: "2023-12-01"
 
 date: "2023-12-02"

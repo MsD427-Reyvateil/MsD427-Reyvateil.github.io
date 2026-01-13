@@ -2,11 +2,18 @@
 title: 'Highly Enantioselective Hydrogenation of Quinolines Using Phosphine-Free Chiral Cationic Ruthenium Catalysts. Scope, Mechanism, and Origin of Enantioselectivity'
 
 authors:
+  - Tianli Wang
+  - Lian-Gang Zhuo
+  - Zhiwei Li
+  - Fei Chen
+  - Ziyuan Ding
+  - Yanmei He
+  - Qing-Hua Fan
+  - Junfeng Xiang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - C. Chan
 
-publication: J. Am. Chem. Soc. 2011 , 133 , 9878-9891.
-
+publication: "*J. Am. Chem. Soc.* **2011** , *133* , 9878-9891."
 data: "2019-10-01"
 
 date: "2019-10-01"

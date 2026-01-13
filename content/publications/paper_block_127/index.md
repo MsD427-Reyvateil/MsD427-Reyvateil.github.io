@@ -3,9 +3,10 @@ title: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catal
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Qian Li
+  - Zhi-Xiang Yu* Organometallics
 
-publication: J. Am. Chem. Soc. 2012 , 31 , 5185â5195.
+publication: "*J. Am. Chem. Soc.* **2012** , *31* , *5185*â5195."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic CâH Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'

@@ -2,11 +2,12 @@
 title: 'Total Synthesis of Clovan-2,9-dione via [3 + 2 + 1] Cycloaddition and Hydroformylation/Aldol Reaction'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yi Zhou
+  - Jun-Long Qin
+  - Wenbo Xu
+  - Zhi-Xiang Yu*
 
-publication: Org. Lett. 2022 , 24 , 5902-5906.
-
+publication: "*Org. Lett.* **2022** , *24* , 5902-5906."
 data: "2022-08-01"
 
 date: "2022-08-02"

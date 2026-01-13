@@ -2,11 +2,12 @@
 title: 'Copper-catalyzed Intramolecular Annulation of Conjugated Enynones to Substituted 1H-Indenes and Mechanistic Studies.'
 
 authors:
+  - Chao Pei
+  - Guang-Wei Rong
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Xin-Fang Xu
 
-publication: J. Org. Chem. 2018 , 83 , 13243-13255.
-
+publication: "*J. Org. Chem.* **2018** , *83* , 13243-13255."
 data: "2019-06-01"
 
 date: "2019-06-02"

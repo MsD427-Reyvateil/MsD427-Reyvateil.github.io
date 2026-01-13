@@ -1,12 +1,15 @@
 ---
-title: 'Pd(II)/N,Nâ²âDisulfonyl Bisimidazoline-Catalyzed Enantioselective Synthesis of Cyclic Quaternary Centers and Mechanistic Investigations'
+title: 'Pd(II)/N,N′‑Disulfonyl Bisimidazoline-Catalyzed Enantioselective Synthesis of Cyclic Quaternary Centers and Mechanistic Investigations'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yu-Xin Wang
+  - § Chen-Long Li
+  - § Yin-Ping Liu 
+  - Wen-Juan Hao
+  - Zhi-Xiang Yu*
+  - Bo Jiang*
 
-publication: J. Org. Chem. 2024 , 89 , 9381-9388.
-
+publication: "*J. Org. Chem.* **2024** , *89* , 9381-9388."
 data: "2024-06-01"
 
 date: "2024-06-02"

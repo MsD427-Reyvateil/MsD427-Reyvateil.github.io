@@ -2,10 +2,11 @@
 title: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'
 
 authors:
+  - Guo-Jie Jiang
+  - Lei Jiao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2010 , 12 , 1332-1335.
+publication: "*Org. Lett.* **2010** , *12* , 1332-1335."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'

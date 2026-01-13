@@ -3,9 +3,10 @@ title: 'Total Synthesis of (+)-Asteriscanolide: Further Exploration of the Rhodi
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Yuanyuan Wang
+  - Zhi-Xiang Yu*  Asian. J 
 
-publication: Chem. 2012 , 7 , 593-604.
+publication: "*Chem.* **2012** , *7* , 593-604."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Total Synthesis of (+)-Asteriscanolide: Further Exploration of the Rhodium(I)-Catalyzed [(5+2)+1] Reaction of Ene-Vinylcyclopropanes and CO'

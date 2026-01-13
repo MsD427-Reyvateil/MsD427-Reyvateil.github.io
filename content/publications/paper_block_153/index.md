@@ -2,10 +2,11 @@
 title: 'Mechanisms of Cascade Reactions in the Syntheses of Camptothecin-Family Alkaloids: Intramolecular [4+ + 2] Reactions of N-Arylimidates and Alkynes'
 
 authors:
+  - Yong Liang
+  - Xing Jiang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2009 , 11 , 5302-5305.
+publication: "*Org. Lett.* **2009** , *11* , 5302-5305."
 data: "2018-10-01"
 date: "2018-10-02"
 # abstract: 'Mechanisms of Cascade Reactions in the Syntheses of Camptothecin-Family Alkaloids: Intramolecular [4+ + 2] Reactions of N-Arylimidates and Alkynes'

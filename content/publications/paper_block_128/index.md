@@ -2,11 +2,15 @@
 title: 'Gold-Catalyzed Intermolecular Reactions of Propiolic Acids with Alkenes: [4 + 2] Annulation and Enyne Cross Metathesis'
 
 authors:
+  - Hyun-Suk Yeom
+  - Jaeyoung Koo
+  - Hyun-Sub Park
+  - Yi Wang
+  - Yong Liang
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Seunghoon Shin
 
-publication: J. Am. Chem. Soc. 2012 , 134 , 208-211.
-
+publication: "*J. Am. Chem. Soc.* **2012** , *134* , 208-211."
 data: "jacsat-01"
 date: "2000-01-01"
 # abstract: 'Gold-Catalyzed Intermolecular Reactions of Propiolic Acids with Alkenes: [4 + 2] Annulation and Enyne Cross Metathesis'

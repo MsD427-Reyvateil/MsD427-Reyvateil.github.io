@@ -2,11 +2,10 @@
 title: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±,Î²- and Î²,Î³-Cyclohexenones'
 
 authors:
+  - Qian Li
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Org. Lett. 2012 , 14 , 692-695.
-
+publication: "*Org. Lett.* **2012** , *14* , 692-695."
 data: "2018-10-01"
 
 date: "2018-10-01"

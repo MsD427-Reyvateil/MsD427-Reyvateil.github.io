@@ -2,11 +2,13 @@
 title: 'A Desymmetric Dearomatization Cyclopropanation of [2.2]Paracyclophane'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Dong Chen†
+  - Yi Zhou†
+  - Chen-Ho Tung
+  - Zhi-Xiang Yu* 
+  - Zhenghu Xu*
 
-publication: J. Am. Chem. Soc. 2024 , 0, 1-13.
-
+publication: "*J. Am. Chem. Soc.* **2024** , *0*, 1-13."
 data: "2024-08-01"
 
 date: "2024-08-01"

@@ -5,7 +5,7 @@ authors:
   - Zeyuan Shen
   - Zhi-Xiang Yu
 
-publication: Org. Lett. 2025 , 27 , 9229-9234.
+publication: "*Org. Lett.* **2025** , *27* , 9229-9234."
 data: "2025-08-02"
 date: "2025-08-02"
 # abstract: 'Rhodium-Catalyzed [3 + 1 + 2] Cycloaddition of Type II Diene-Vinylcyclopropanes and Carbon Monoxide for the Synthesis of 5/6 Skeletons with Two Adjacent Bridgehead Quaternary Centers'

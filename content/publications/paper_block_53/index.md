@@ -2,11 +2,12 @@
 title: 'A Formal [3+3+1] Reaction of Enyne-Methylenecyclopropanes through Au(I)-Catalyzed Enyne Cycloisomerization and Rh(I)-Catalyzed [6+1] Reaction of Vinylspiropentanes and CO'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Dr. Chen-Long Li
+  - Yusheng Yang
+  - Yi Zhou
+  - Prof. Dr. Zhi-Xiang Yu*
 
-publication: J. Org. Chem. 2022 , 11 , e202100571.
-
+publication: "*Asian J. Org. Chem.* **2022** , *11* , e202100571."
 data: "2022-01-01"
 
 date: "2022-01-01"

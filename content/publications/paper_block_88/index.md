@@ -2,11 +2,10 @@
 title: 'Rhodium(I)-Catalyzed Bridged [5+2] Cycloaddition of cis-Allene-vinylcyclopropanes to Synthesize the Bicyclo[4.3.1.]decane Skeleton'
 
 authors:
+  - Cheng-Hang Liu
   - Zhi-Xiang Yu
-  - Zeyuan Shen
 
-publication: Angew. Chem. Int. Ed. 2017 , 56 , 8667-8671.
-
+publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 8667-8671."
 data: "2018-10-01"
 
 date: "2018-10-02"

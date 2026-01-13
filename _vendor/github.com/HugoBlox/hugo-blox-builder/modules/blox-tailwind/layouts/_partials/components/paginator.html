@@ -3,11 +3,11 @@
     {{ if .Paginator.HasPrev }}
     <li class="p-5"><a class="page-link" href="{{ .Paginator.Prev.URL }}">&laquo; {{ T "previous" }}</a></li>
     {{ end }}
-    <li class="p-5 text-gray-600 dark:text-gray-300">第 {{ .Paginator.PageNumber }} 页，共 {{ .Paginator.TotalPages }} 页</li>
+    <li class="p-5 text-gray-600 dark:text-gray-300">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</li>
     <li class="p-5">
       <form class="flex items-center gap-2" onsubmit="event.preventDefault(); jumpToPage(this, {{ .Paginator.TotalPages }});">
-        <input type="number" min="1" max="{{ .Paginator.TotalPages }}" placeholder="页码" class="w-16 px-2 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-900 dark:text-white" value="{{ .Paginator.PageNumber }}">
-        <button type="submit" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-900 dark:text-white rounded">跳转</button>
+        <input type="number" min="1" max="{{ .Paginator.TotalPages }}" placeholder="Page" class="w-16 px-2 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-900 dark:text-white" value="{{ .Paginator.PageNumber }}">
+        <button type="submit" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-900 dark:text-white rounded">Go</button>
       </form>
     </li>
     {{ if .Paginator.HasNext }}

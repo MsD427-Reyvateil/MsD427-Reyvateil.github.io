@@ -2,10 +2,11 @@
 title: 'New Insights into the Torquoselectivity of Staudinger Reaction'
 
 authors:
+  - Lei Jiao
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Jiaxi Xu
 
-publication: J. Am. Chem. Soc. 2009 , 131 , 1542-1549.
+publication: "*J. Am. Chem. Soc.* **2009** , *131* , 1542-1549."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'New Insights into the Torquoselectivity of Staudinger Reaction'

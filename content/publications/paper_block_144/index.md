@@ -3,9 +3,10 @@ title: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Lei Jiao
+  - Zhi-Xiang Yu* Tetrahedron Lett
 
-publication: J. Am. Chem. Soc. 2010, 51, 5674-5676.
+publication: "*J. Am. Chem. Soc.* **2010**, *51*, 5674-5676."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'

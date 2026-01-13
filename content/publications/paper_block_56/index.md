@@ -2,11 +2,16 @@
 title: 'Ni-catalyzed hydroaminoalkylation of alkynes with amines'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Wei-Wei Yao
+  - Ran Li
+  - Hao Chen
+  - Ming-Kai Chen
+  - Yu-Xin Luan
+  - Yi Wang
+  - Zhi-Xiang Yu*
+  - Mengchun Ye*
 
-publication: J. Am. Chem. Soc. 2021 , 12 , 3800-3809.
-
+publication: "*Nat. Commun.* **2021** , *12* , 3800-3809."
 data: "2021-06-01"
 
 date: "2021-06-02"

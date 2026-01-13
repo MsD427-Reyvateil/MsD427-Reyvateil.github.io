@@ -3,10 +3,9 @@ title: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Guangbin Dong* Sci
 
-publication: Chem. 2015 , 6 , 3201-3210.
-
+publication: "*Chem.* **2015** , *6* , 3201-3210."
 # abstract: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
 # summary: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'

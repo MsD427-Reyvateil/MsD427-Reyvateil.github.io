@@ -2,11 +2,14 @@
 title: 'Dual Activation Strategy to Achieve C-C Cleavage of Cyclobutanes: Development and Mechanism of Rh and Zn Cocatalyzed [4 + 2] Cycloaddition of Yne-Vinylcyclobutanones'
 
 authors:
-  - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - Guan-Yu Zhang†
+  - Pan Zhang†
+  - Bing-Wen Li†
+  - Kang Liu
+  - Jun Li
+  - Zhi-Xiang Yu*
 
-publication: J. Am. Chem. Soc. 2022 , 144 , 21457-21469.
-
+publication: "*J. Am. Chem. Soc.* **2022** , *144* , 21457-21469."
 data: "2022-12-01"
 
 date: "2022-12-01"

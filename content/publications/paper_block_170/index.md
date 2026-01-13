@@ -3,9 +3,10 @@ title: ''
 
 authors:
   - Zhi-Xiang Yu
-  - Zeyuan Shen
+  - P. Caramella
+  - K. N. Houk
 
-publication: J. Am. Chem. Soc. 2003 , 125 , 15420.
+publication: "*J. Am. Chem. Soc.* **2003** , *125* , *15420*."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: ''
