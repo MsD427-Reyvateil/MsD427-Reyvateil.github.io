@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2010** , *12* , 1332-1335."
-data: "2010-07-01"
+date: "2010-07-01"
 # abstract: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'
 
 # summary: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'

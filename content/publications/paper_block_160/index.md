@@ -9,7 +9,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Chem. Eur. J.* **2008**, *14* , 4361-4373."
-data: "2008-09-01"
+date: "2008-09-01"
 # abstract: 'Mechanism, Regioselectivity, and the Kinetics of Phosphine-Catalyzed [3+2] Cycloaddition Reactions of Allenoates and Electron-Deficient Alkenes'
 
 # summary: 'Mechanism, Regioselectivity, and the Kinetics of Phosphine-Catalyzed [3+2] Cycloaddition Reactions of Allenoates and Electron-Deficient Alkenes'

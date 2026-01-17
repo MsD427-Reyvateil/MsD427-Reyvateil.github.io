@@ -10,7 +10,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem. Eur. J.* **2019** , *25* , *9821* - 9826."
-data: "2019-09-01"
+date: "2019-09-01"
 
 date: "2019-09-02"
 

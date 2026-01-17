@@ -6,7 +6,7 @@ authors:
   - Prof. Dr. Zhi-Xiang Yu*
   
 publication: "*J. Org. Chem.* **2023** , *12*, e202300440."
-data: "2023-10-01"
+date: "2023-10-01"
 
 date: "2023-10-02"
 

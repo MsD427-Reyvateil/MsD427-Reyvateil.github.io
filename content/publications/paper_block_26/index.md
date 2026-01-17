@@ -10,7 +10,7 @@ authors:
   - Jian-Min Yue
 
 publication: "*Chem.* **2024** , *67* , 1-8."
-data: "2024-04-01"
+date: "2024-04-01"
 
 date: "2024-04-01"
 

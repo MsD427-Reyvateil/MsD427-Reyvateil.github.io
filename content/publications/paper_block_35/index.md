@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem. Asian. J. * **2023** , *18*, e202300032."
-data: "2023-03-01"
+date: "2023-03-01"
 
 date: "2023-03-01"
 

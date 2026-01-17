@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2017** , *82* , 4604-4612."
-date: "2017-4-1"
+date: "2017-04-01"
 
 # abstract: 'Carbanion Translocations via Intramolecular Proton Transfer: A Quantum Chemical Study'
 

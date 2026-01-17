@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Am.Chem. Soc. * **2011** , *133* , 9343-9353."
-data: "2011-09-01"
+date: "2011-09-01"
 # abstract: 'Density Functional Theory Study of the Mechanism and Origins of Stereoselectivity in the Asymmetric Simmons-Smith Cyclopropanation with Charette Chiral Dioxaborolane Ligand'
 
 # summary: 'Density Functional Theory Study of the Mechanism and Origins of Stereoselectivity in the Asymmetric Simmons-Smith Cyclopropanation with Charette Chiral Dioxaborolane Ligand'

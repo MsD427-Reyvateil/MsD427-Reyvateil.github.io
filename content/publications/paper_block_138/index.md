@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2011** , *1* 3 ,1122- 1125."
-data: "2011-07-01"
+date: "2011-07-01"
 # abstract: 'Î±,Î²-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'
 
 # summary: 'Î±,Î²-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'

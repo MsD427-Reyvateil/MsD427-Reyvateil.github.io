@@ -10,7 +10,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2013** , *78* , 11783-11793."
-data: "2013-09-01"
+date: "2013-09-01"
 # abstract: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'
 
 # summary: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'

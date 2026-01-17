@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2011** , *47* , 6659-6661."
-data: "2011-10-01"
+date: "2011-10-01"
 # abstract: 'Enantioselective total synthesis of (+)-asteriscanolide via Rh(I)-catalyzed [(5+2)+1] reaction'
 
 # summary: 'Enantioselective total synthesis of (+)-asteriscanolide via Rh(I)-catalyzed [(5+2)+1] reaction'

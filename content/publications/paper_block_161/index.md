@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2008** , *130* , 4421-4430."
-data: "2008-08-01"
+date: "2008-08-01"
 # abstract: 'Tandem Rh(I)-Catalyzed [(5+2)+1] Cycloaddition/Aldol Reaction for the Construction of Linear Triquinane Skeleton: Total Syntheses of (Â±)-Hirsutene and (Â±)-1-Desoxyhypnophilin'
 
 # summary: 'Tandem Rh(I)-Catalyzed [(5+2)+1] Cycloaddition/Aldol Reaction for the Construction of Linear Triquinane Skeleton: Total Syntheses of (Â±)-Hirsutene and (Â±)-1-Desoxyhypnophilin'

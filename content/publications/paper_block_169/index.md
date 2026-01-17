@@ -6,7 +6,7 @@ authors:
   - K. N. Houk,*
 
 publication: "*J. Am. Chem. Soc.* **2003** , *125* , *13825*."
-data: "2003-12-01"
+date: "2003-12-01"
 # abstract: ''
 
 # summary: ''

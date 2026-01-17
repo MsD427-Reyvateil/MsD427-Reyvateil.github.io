@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2021** , *86* , *1419*â1429."
-data: "2021-03-01"
+date: "2021-03-01"
 
 date: "2021-03-02"
 

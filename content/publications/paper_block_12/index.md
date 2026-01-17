@@ -3,13 +3,13 @@ title: 'Au-Catalyzed 5C Reaction of Type II Diene-Ynenes toward Dihydrosemibullv
 
 authors:
   - Weiming Shi
-  - â€  Pei-Jun Cai
-  - â€  Zi-You Tian
+  - â€?Pei-Jun Cai
+  - â€?Zi-You Tian
   - Zhe Dong
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2024** , *89* , 18019-18027."
-data: "2024-12-01"
+date: "2024-12-01"
 
 date: "2024-12-02"
 

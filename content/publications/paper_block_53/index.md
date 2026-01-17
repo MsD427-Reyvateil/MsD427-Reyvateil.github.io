@@ -8,7 +8,7 @@ authors:
   - Prof. Dr. Zhi-Xiang Yu*
 
 publication: "*Asian J. Org. Chem.* **2022** , *11* , e202100571."
-data: "2022-01-01"
+date: "2022-01-01"
 
 date: "2022-01-01"
 

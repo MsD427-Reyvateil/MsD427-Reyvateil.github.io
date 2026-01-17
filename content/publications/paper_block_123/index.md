@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2013** , *78* , 6947-6955."
-data: "2013-06-01"
+date: "2013-06-01"
 # abstract: 'DFT Study on the Mechanism and Stereochemistry of the Petasis-Ferrier Rearrangements'
 
 # summary: 'DFT Study on the Mechanism and Stereochemistry of the Petasis-Ferrier Rearrangements'

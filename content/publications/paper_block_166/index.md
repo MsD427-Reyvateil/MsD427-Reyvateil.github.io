@@ -11,7 +11,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Org. Lett.* **2006** , *8* , 5877-5879."
-data: "2006-12-01"
+date: "2006-12-01"
 # abstract: 'Nitrene Equivalent Mediated Metal-Free Ring Expansions of Alkylidenecyclopropanes and an Alkylidenecyclobutane'
 
 # summary: 'Nitrene Equivalent Mediated Metal-Free Ring Expansions of Alkylidenecyclopropanes and an Alkylidenecyclobutane'

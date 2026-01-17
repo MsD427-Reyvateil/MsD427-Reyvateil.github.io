@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2022** , *87* , 10576-10591."
-data: "2022-08-01"
+date: "2022-08-01"
 
 date: "2022-08-01"
 

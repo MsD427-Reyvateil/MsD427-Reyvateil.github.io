@@ -10,7 +10,7 @@ authors:
   - Jian Xu*
 
 publication: "*J. Am. Chem. Soc.* **2017** , *139* , 8678-8684."
-data: "2017-5-2"
+date: "2017-05-02"
 
 # abstract: 'Oxime-Based and Catalyst-Free Dynamic Covalent Polyurethanes'
 

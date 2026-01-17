@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Am. Chem. Soc.* **2011** , *133* , 10864-10877."
-data: "2011-08-01"
+date: "2011-08-01"
 # abstract: 'Mechanisms of the Thermal Cyclotrimerizations of Fluoro- and Chloroacetylenes: Density Functional Theory Investigation and Intermediate Trapping Experiments'
 
 # summary: 'Mechanisms of the Thermal Cyclotrimerizations of Fluoro- and Chloroacetylenes: Density Functional Theory Investigation and Intermediate Trapping Experiments'

@@ -14,7 +14,7 @@ authors:
   - Bo Jiang* Chin. J. Chem.
 
 publication: "*Chem.* **2022** , *40* , 1767-1776."
-data: "2022-07-01"
+date: "2022-07-01"
 
 date: "2022-07-01"
 

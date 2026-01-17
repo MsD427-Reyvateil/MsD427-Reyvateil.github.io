@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu* Acc.  Res
 
 publication: "*Chem.* **2015** , *48* , 2288-2296."
-data: "2015-12-02"
+date: "2015-12-02"
 # abstract: 'Rhodium-Catalyzed [5+2+1] Cycloaddition of Ene-Vinylcyclopropanes and CO: Reaction Design, Development, Application in Natural Product Synthesis, and Inspiration for Developing New Reactions for Synthesis of Eight-Membered Carbocycles'
 
 # summary: 'Rhodium-Catalyzed [5+2+1] Cycloaddition of Ene-Vinylcyclopropanes and CO: Reaction Design, Development, Application in Natural Product Synthesis, and Inspiration for Developing New Reactions for Synthesis of Eight-Membered Carbocycles'

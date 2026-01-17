@@ -10,7 +10,7 @@ authors:
   - Bo Jiang*
 
 publication: "*J. Org. Chem.* **2024** , *89* , 9381-9388."
-data: "2024-06-01"
+date: "2024-06-01"
 
 date: "2024-06-02"
 

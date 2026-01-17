@@ -12,9 +12,8 @@ authors:
   - Xinfang Xu
 
 publication: "*J. Am. Chem. Soc.* **2025** , *12* , *2409334*."
-data: "2025-04-01"
+date: "2025-04-01"
 
-date: "2025-04-02"
 
 # abstract: 'Enantioselective Assembly of Fully Substituted Î±-Amino Allenoates Through a Mannich Addition and Stepwise [3,3]-Ï Rearrangement Sequence'
 

@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2016** , *81* , 10165-10171."
-data: "2016-10-10"
+date: "2016-10-10"
 
 # abstract: 'A Concise Total Synthesis of (-)-Mesembrine'
 

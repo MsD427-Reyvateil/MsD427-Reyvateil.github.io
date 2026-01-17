@@ -6,7 +6,7 @@ authors:
   - Yu Zhi-Xiang
 
 publication: "*J. Am. Chem. Soc.* **2020** , *40* , 3536-3558."
-data: "2020-12-01"
+date: "2020-12-01"
 
 date: "2020-12-02"
 

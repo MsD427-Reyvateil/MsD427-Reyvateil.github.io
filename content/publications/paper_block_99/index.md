@@ -10,7 +10,7 @@ authors:
   - Prof. Dr. Xiaoguang Lei
 
 publication: "*Angew. Chem. Int. Ed.* **2016** , *55* , 3112-3116."
-data: "2016-07-01"
+date: "2016-07-01"
 
 # abstract: 'Scalable Total Synthesis of rac-Jungermannenones B and C'
 

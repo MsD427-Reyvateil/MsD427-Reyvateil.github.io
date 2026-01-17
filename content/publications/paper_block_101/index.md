@@ -1,5 +1,5 @@
 ---
-title: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of α, β-cyclohexenes
+title: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of α, β-cyclohexenes'
 
 authors:
   - Cheng-Hang Liu
@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Am. Chem. Soc.* **2016** , *72* , 2752-2755."
-data: "2016-04-01"
+date: "2016-04-01"
 # abstract: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±, Î²-cyclohexenes'
 
 # summary: 'Fe2(CO)9 - Mediated [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±, Î²-cyclohexenes'

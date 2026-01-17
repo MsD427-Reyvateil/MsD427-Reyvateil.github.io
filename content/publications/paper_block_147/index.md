@@ -10,7 +10,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2010** , *5*, 1555-1559."
-data: "2010-09-01"
+date: "2010-09-01"
 # abstract: 'RhI-Catalyzed Two-Component [(5+2)+1] Cycloaddition Approach toward [5-8-5] Ring Systems'
 
 # summary: 'RhI-Catalyzed Two-Component [(5+2)+1] Cycloaddition Approach toward [5-8-5] Ring Systems'

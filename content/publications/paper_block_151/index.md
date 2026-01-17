@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2010** , *46* , *1059* - 1061."
-data: "2010-05-01"
+date: "2010-05-01"
 # abstract: 'Rh(I)-catalyzed intramolecular [3 + 2] cycloaddition reactions of 1-ene-, 1-yne- and 1-allene-vinylcyclopropanes'
 
 # summary: 'Rh(I)-catalyzed intramolecular [3 + 2] cycloaddition reactions of 1-ene-, 1-yne- and 1-allene-vinylcyclopropanes'

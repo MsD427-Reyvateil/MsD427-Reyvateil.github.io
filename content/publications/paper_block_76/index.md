@@ -8,7 +8,7 @@ authors:
   - Yanxing Jia*
 
 publication: "*Tetrahedron Lett.* **2019** , *60* , 151001-151004."
-data: "2019-08-01"
+date: "2019-08-01"
 
 date: "2019-08-01"
 

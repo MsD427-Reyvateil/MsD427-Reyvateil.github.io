@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2019** , 582-590."
-data: "2019-06-01"
+date: "2019-06-01"
 
 date: "2019-06-01"
 

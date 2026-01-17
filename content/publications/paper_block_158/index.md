@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2008** , *130* , 7178-7179."
-data: "2008-12-01"
+date: "2008-12-01"
 # abstract: 'Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of trans-Vinylcyclopropane-enes'
 
 # summary: 'Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of trans-Vinylcyclopropane-enes'

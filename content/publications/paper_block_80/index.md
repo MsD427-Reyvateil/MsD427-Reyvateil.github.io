@@ -1,5 +1,5 @@
 ---
-title: 'Two-Fold C−H/C−H Cross-Coupling Using RhCl3·3H2O as the Catalyst: Direct Fusion of N‑(Hetero)arylimidazolium Salts and (Hetero)arenes'
+title: 'Two-Fold C−H/C−H Cross-Coupling Using RhCl3·3H2O as the Catalyst: Direct Fusion of N�?Hetero)arylimidazolium Salts and (Hetero)arenes'
 
 authors:
   - Zhijie She

@@ -10,7 +10,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2025** , *15* , 4441-4449."
-data: "2025-03-01"
+date: "2025-03-01"
 
 date: "2025-03-01"
 

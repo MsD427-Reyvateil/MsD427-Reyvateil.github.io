@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu* Org. Biomol
 
 publication: "*Chem.* **2016** , *14* , 5945-5950."
-data: "2016-06-01"
+date: "2016-06-01"
 # abstract: 'Rh-catalysed [5+1] Cycloaddition of Allenylcyclopropanes and CO: Reaction Development and Application to the Formal Synthesis of (-)-Galanthamine'
 
 # summary: 'Rh-catalysed [5+1] Cycloaddition of Allenylcyclopropanes and CO: Reaction Development and Application to the Formal Synthesis of (-)-Galanthamine'

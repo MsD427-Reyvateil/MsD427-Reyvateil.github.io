@@ -10,7 +10,7 @@ authors:
   - Qi-Lin Zhou,*
 
 publication: "*Chem.Sci* **2014** , *5* , 1442-1448."
-data: "2014-09-01"
+date: "2014-09-01"
 # abstract: 'Highly enantioselective S-H bond insertion cooperatively catalyzed by dirhodium complexes and chiral spiro phosphoric acids'
 
 # summary: 'Highly enantioselective S-H bond insertion cooperatively catalyzed by dirhodium complexes and chiral spiro phosphoric acids'

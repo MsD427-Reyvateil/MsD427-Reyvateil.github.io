@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2011** , *47* , *794* - 796."
-data: "2011-03-01"
+date: "2011-03-01"
 # abstract: 'TfOH-catalyzed tandem cyclopropane ring enlargement/C-C formation/etherification of alkynylcyclopropanes and 1,3-diketones to cyclobutane-fused dihydrofurans'
 
 # summary: 'TfOH-catalyzed tandem cyclopropane ring enlargement/C-C formation/etherification of alkynylcyclopropanes and 1,3-diketones to cyclobutane-fused dihydrofurans'

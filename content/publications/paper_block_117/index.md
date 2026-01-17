@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2014** , *79* , 3809-3820."
-data: "2014-05-28"
+date: "2014-05-28"
 # abstract: 'Mechanisms of the InCl3 Catalyzed Type-I, II, and III Cycloisomerizations of 1,6-Enynes'
 
 # summary: 'Mechanisms of the InCl3 Catalyzed Type-I, II, and III Cycloisomerizations of 1,6-Enynes'

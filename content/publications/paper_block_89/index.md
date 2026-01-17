@@ -6,8 +6,7 @@ authors:
   - Yi Wang
 
 publication: "*Chem.* **2017** , *15* , 7439-7446."
-data: "2017-7-01"
-date: "2017-7-01"
+date: "2017-07-01"
 # abstract: 'Sigmatropic Proton Shifts: A Quantum Chemical Study'
 
 # summary: 'Sigmatropic Proton Shifts: A Quantum Chemical Study'

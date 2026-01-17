@@ -6,7 +6,7 @@ authors:
   - Xinfang Xu
 
 publication: "*Angew. Chem. Int. Ed.* **2024** , *63*, e202401557."
-data: "2024-06-01"
+date: "2024-06-01"
 
 date: "2024-06-01"
 

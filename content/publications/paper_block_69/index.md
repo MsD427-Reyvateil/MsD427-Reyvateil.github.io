@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu
   
 publication: "*J. Org. Chem.* **2020** , *85* , *397*â402."
-data: "2020-02-01"
+date: "2020-02-01"
 
 date: "2020-02-01"
 

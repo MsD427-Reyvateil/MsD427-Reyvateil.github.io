@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2013** , *78* , 6842-6848."
-data: "2013-05-01"
+date: "2013-05-01"
 # abstract: ''
 
 # summary: ''

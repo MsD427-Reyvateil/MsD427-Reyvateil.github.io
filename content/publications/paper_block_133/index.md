@@ -13,7 +13,7 @@ authors:
   - Yong Tang*
 
 publication: "*Angew. Chem. Int. Ed.* **2011** , *50* , 7874-7878."
-data: "2011-12-01"
+date: "2011-12-01"
 
 
 # abstract: 'Tunable Carbonyl Ylide Reactions: Selective Synthesis of Dihydrofurans and Dihydrobenzoxepines'

@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2011** , *133* , 1690-1693."
-data: "2011-06-01"
+date: "2011-06-01"
 
 # abstract: 'Rh(I)-Catalyzed Formal [5 + 1]/[2 + 2 + 1] Cycloaddition of 1-Yne-vinylcyclopropanes and Two CO Units: One-Step Construction of Multifunctional Angular Tricyclic 5/5/6 Compounds'
 

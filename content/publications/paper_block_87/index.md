@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Org. Lett.* **2017** , *19* , 6040-6043."
-data: "2017-11-01"
+date: "2017-11-01"
 
 date: "2017-11-01"
 

@@ -11,7 +11,7 @@ authors:
   - Jingsong You*
 
 publication: "*Chem.* **2018** , *54* , 9513-9516."
-data: "2018-10-04"
+date: "2018-10-04"
 
 
 # abstract: 'Rhodium(II)-catalysed generation of cycloprop-1-en-1-yl ketones and their rearrangement to 5-aryl-2-siloxyfurans'

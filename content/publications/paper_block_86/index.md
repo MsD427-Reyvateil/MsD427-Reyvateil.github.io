@@ -6,7 +6,7 @@ authors:
   - Cheng-Hang Liu
 
 publication: "*J. Am. Chem. Soc.* **2018** , *29* , 764-768."
-data: "2018-10-01"
+date: "2018-10-01"
 
 # abstract: 'Rh(I)-Catalyzed Intramolecular [3+2] Cycloaddition of trans-2-Allene-Vinylcyclopropanes.'
 

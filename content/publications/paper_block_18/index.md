@@ -3,14 +3,14 @@ title: 'C-H functionalization of 2-alkyl tryptamines: direct assembly of azepino
 
 authors:
   - Kejing Xie
-  - â€¡ Zeyuan Shen
-  - â€¡ Peng Cheng
+  - â€?Zeyuan Shen
+  - â€?Peng Cheng
   - Haoxiang Dong
   - Zhi-Xiang Yu * 
   - Liansuo Zu *
 
 publication: "*Chem.* **2024** , *15*, 12732-12738."
-data: "2024-07-01"
+date: "2024-07-01"
 
 date: "2024-07-02"
 

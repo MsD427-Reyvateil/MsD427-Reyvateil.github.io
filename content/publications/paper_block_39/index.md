@@ -9,7 +9,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Chem.* **2023** , *9* , 1477-1494."
-data: "2023-03-01"
+date: "2023-03-01"
 
 date: "2023-03-01"
 

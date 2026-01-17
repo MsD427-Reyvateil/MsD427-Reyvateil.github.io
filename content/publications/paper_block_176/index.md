@@ -4,10 +4,10 @@ title: 'Aromatic Dienophiles. I: A Theoretic Study of Inverse-electron Demand Di
 authors:
   - Zhi-Xiang Yu
   - Qun Dang 
-  - Yun-Dong Wu,*
+  - Yun-Dong Wu
 
 publication: "*J. Org. Chem.* **2001** , *66* , *6029*."
-data: "2001-10-01"
+date: "2001-10-01"
 # abstract: ''
 
 # summary: ''

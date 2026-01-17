@@ -6,7 +6,7 @@ authors:
   - Bing-Feng Shi* ACS Catal
 
 publication: "*J. Am. Chem. Soc.* **2020** , *10* , 8212-8222."
-data: "2020-07-01"
+date: "2020-07-01"
 
 date: "2020-07-02"
 

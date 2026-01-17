@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Am. Chem. Soc.* **2009**, *65*, 4709-4713."
-data: "2009-06-01"
+date: "2009-06-01"
 # abstract: 'Formal syntheses of (Â±)-Asterisca-3(15),6-diene and (Â±)-Pentalenene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'
 
 # summary: 'Formal syntheses of (Â±)-Asterisca-3(15),6-diene and (Â±)-Pentalenene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'

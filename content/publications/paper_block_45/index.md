@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2022** , *24* , 5902-5906."
-data: "2022-08-01"
+date: "2022-08-01"
 
 date: "2022-08-02"
 

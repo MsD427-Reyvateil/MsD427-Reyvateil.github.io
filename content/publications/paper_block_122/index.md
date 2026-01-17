@@ -9,7 +9,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*J. Am. Chem. Soc.* **2013** , *69* , 7854-7860."
-data: "2013-07-01"
+date: "2013-07-01"
 
 # abstract: 'Homopyrrole and homofuran as masked 1,5-dipoles in metal-free (5+2) cycloadditions with dienophiles: a DFT study'
 

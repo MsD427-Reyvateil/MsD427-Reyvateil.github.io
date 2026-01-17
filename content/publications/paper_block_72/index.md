@@ -9,7 +9,7 @@ authors:
   - Xuebin Liao*
 
 publication: "*Chem. Commun.* **2019** , *55* , 12012-12015."
-data: "2019-10-01"
+date: "2019-10-01"
 
 date: "2019-10-01"
 

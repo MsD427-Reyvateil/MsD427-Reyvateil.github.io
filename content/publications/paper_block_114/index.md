@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu,*
 
 publication: "*J. Org. Chem.* **2014** , *3* , 842-846."
-data: "2014-07-01"
+date: "2014-07-01"
 # abstract: 'Using the Type II Cycloisomerization Reaction of 1,6-Enynes as a Mechanistic Probe to Identify the Real Catalytic Species of GaX3 and InX3'
 
 # summary: 'Using the Type II Cycloisomerization Reaction of 1,6-Enynes as a Mechanistic Probe to Identify the Real Catalytic Species of GaX3 and InX3'

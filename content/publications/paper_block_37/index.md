@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Org. Lett.* **2023** , *25* , 1732-1736."
-data: "2023-03-01"
+date: "2023-03-01"
 
 date: "2023-03-01"
 

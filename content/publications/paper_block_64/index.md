@@ -9,8 +9,7 @@ authors:
   - Shifa Zhu*
 
 publication: "*Sci. China Chem.* **2020** , *63* , 1230-1239."
-data: "2020-8-01"
-date: "2020-8-01"
+date: "2020-08-01"
 # abstract: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'
 
 # summary: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'

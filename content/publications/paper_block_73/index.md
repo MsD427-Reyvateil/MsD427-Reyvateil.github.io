@@ -16,7 +16,7 @@ authors:
   - Yu Rao*
 
 publication: "*CCS Chem.* **2019** , *1* , *352-364."
-data: "2018-10-01"
+date: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Synthesis of Quaternary Carbon-Centered Benzoindolizidinones via Novel Photoredox-Catalyzed Alkene Aminoarylation: Facile Access to Tylophorine and Analogues'
 

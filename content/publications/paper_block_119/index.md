@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2013** , *15* , 5928-5931."
-data: "2013-10-01"
+date: "2013-10-01"
 # abstract: 'CuI-Catalyzed C1-Alkynylation of Tetrahydroisoquinolines (THIQs) by A3 Reaction with Tunable Iminium Ions'
 
 # summary: 'CuI-Catalyzed C1-Alkynylation of Tetrahydroisoquinolines (THIQs) by A3 Reaction with Tunable Iminium Ions'

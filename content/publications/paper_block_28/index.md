@@ -3,13 +3,13 @@ title: 'Rhodium-Catalyzed [7 + 1] Cycloaddition of Exocyclic 1,3- Dienylcyclopro
 
 authors:
   - Zhiqiang Huang
-  - â€  Xin Wang
-  - â€  Yi Jin
+  - â€?Xin Wang
+  - â€?Yi Jin
   - Zuwei Wang
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2023** , *25* , 8829-8833."
-data: "2023-12-01"
+date: "2023-12-01"
 
 date: "2023-12-01"
 

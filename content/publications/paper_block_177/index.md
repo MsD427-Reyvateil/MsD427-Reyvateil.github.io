@@ -6,7 +6,8 @@ authors:
   - Zhi-Xiang Yu,
 
 publication: "*J. Am. Chem. Soc.* **2001** , *123* , *5777*."
-data: "2001-06-01"
+
+date: "2001-06-01"
 # abstract: 'Members Only'
 
 # summary: 'Members Only'

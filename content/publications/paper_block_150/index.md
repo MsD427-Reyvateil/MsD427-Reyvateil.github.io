@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu* 
 
 publication: "** **2010** , *12* , 804-80 7."
-data: "2010-06-01"
+date: "2010-06-01"
 # abstract: 'Gold(I)-Catalyzed Ring Expansions of Unactivated Alkynylcyclopropanes to (E)-2-Alkylidenecyclobutanamines in the Presence of Sulfonamides'
 
 # summary: 'Gold(I)-Catalyzed Ring Expansions of Unactivated Alkynylcyclopropanes to (E)-2-Alkylidenecyclobutanamines in the Presence of Sulfonamides'

@@ -6,7 +6,7 @@ authors:
   - Yun-Dong Wu,*
 
 publication: "*J. Org. Chem.* **2003** , *68* , *412*."
-data: "2003-08-01"
+date: "2003-08-01"
 # abstract: ''
 
 # summary: ''

@@ -10,7 +10,7 @@ authors:
   - Wei He*
 
 publication: "*J. Org. Chem.* **2021** , *86* , *235-253."
-data: "2021-04-01"
+date: "2021-04-01"
 
 date: "2021-04-02"
 

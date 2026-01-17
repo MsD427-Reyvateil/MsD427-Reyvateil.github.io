@@ -6,7 +6,6 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2022** , *144* , 2624-2636."
-data: "2022-03-01"
 
 date: "2022-03-01"
 

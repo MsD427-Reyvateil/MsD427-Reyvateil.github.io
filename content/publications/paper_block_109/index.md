@@ -8,7 +8,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2014** , *16* , 5898-5901."
-data: "2014-12-01"
+date: "2014-12-01"
 
 # abstract: 'Gold(I)-Catalyzed Polycyclization of Linear Dienediynes to Seven-Membered Ring-Containing Polycycles via Tandem Cyclopropanation/Cope Rearrangement/C-H Activation'
 

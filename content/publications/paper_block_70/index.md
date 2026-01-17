@@ -9,7 +9,7 @@ authors:
   - Yi-Feng Wang*
 
 publication: "*Chem.* **2019** , *1* , 504-512."
-data: "2019-10-01"
+date: "2019-10-01"
 
 date: "2019-10-01"
 

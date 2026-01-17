@@ -9,7 +9,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2007** , *129* , 15503-15512."
-data: "2007-12-01"
+date: "2007-12-01"
 # abstract: 'DFT Study of the Mechanisms of In Water Au(I)-Catalyzed Tandem [3,3]-Rearrangement/Nazarov Reaction/[1,2]-Hydrogen Shift of Enynyl Acetates: A Proton-Transport Catalysis Strategy in the Water-Catalyzed [1,2]-Hydrogen Shift'
 
 # summary: 'DFT Study of the Mechanisms of In Water Au(I)-Catalyzed Tandem [3,3]-Rearrangement/Nazarov Reaction/[1,2]-Hydrogen Shift of Enynyl Acetates: A Proton-Transport Catalysis Strategy in the Water-Catalyzed [1,2]-Hydrogen Shift'

@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2024** ."
-data: "2024-04-01"
+date: "2024-04-01"
 
 date: "2024-04-01"
 

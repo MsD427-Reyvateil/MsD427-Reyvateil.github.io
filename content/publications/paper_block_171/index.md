@@ -6,7 +6,7 @@ authors:
   - K. N. Houk
 
 publication: "*Angew. Chem. Int. Ed.* **2003** , *42* , *808*."
-data: "2003-09-01"
+date: "2003-09-01"
 # abstract: ''
 
 # summary: ''
