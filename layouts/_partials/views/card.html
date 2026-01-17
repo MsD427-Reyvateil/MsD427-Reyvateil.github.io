@@ -1,0 +1,155 @@
+{{ $item := .item }}
+
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+{{ $fill_image := .config.fill_image | default true }}
+{{ $showDate := .config.show_date | default true }}
+{{ $showReadTime := .config.show_read_time | default true }}
+{{ $showReadMore := .config.show_read_more | default true }}
+{{ $hasMeta := or $showDate $showReadTime $showReadMore }}
+{{ $index := .index }}
+
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-blue-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-blue-500/50" role="article" aria-labelledby="card-title-{{ $item.File.UniqueID }}">
+    <!-- Image Section -->
+    <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+      {{ with $item.Params.content_meta }}
+        {{ if .trending }}
+          <div class="absolute top-3 right-3 z-10 inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-semibold bg-black/55 backdrop-blur-sm text-white shadow-sm">
+            <span>{{ i18n "trending" | default "Trending" }}</span>
+            <span aria-hidden="true">🔥</span>
+          </div>
+        {{ end }}
+      {{ end }}
+      {{ with $resource }}
+        {{ if ne .MediaType.SubType "gif" }}
+          {{ $original_image := "" }}
+          {{ if $fill_image }}
+            {{ $original_image = .Fill (printf "800x450 %s" $anchor) }}
+          {{ else }}
+            {{ $original_image = .Fit (printf "800x450 %s" $anchor) }}
+          {{ end }}
+          {{ $responsive := partial "functions/process_responsive_image.html" (dict 
+              "image" $original_image 
+              "mode" "responsive"
+              "sizes" (slice 400 600 800)
+              "formats" (slice "avif" "webp" "jpg")
+          ) }}
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="block">
+            <img class="w-full h-full transition-transform duration-500 ease-out group-hover:scale-105 {{ if $fill_image }}object-fill{{ else }}object-contain{{ end }}" 
+                 srcset="{{ $responsive.srcset }}"
+                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 src="{{ $responsive.fallback.RelPermalink }}" 
+                 width="{{ $original_image.Width }}" 
+                 height="{{ $original_image.Height }}" 
+                 alt="{{ with $item.Params.image.alt_text }}{{.}}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
+                 loading="lazy">
+          </a>
+        {{ else }}
+          <!-- For GIFs, use a simpler approach -->
+          {{ $gif := .Resize "800x450" }}
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="block">
+            <img class="w-full h-full object-contain" 
+                 src="{{ $gif.RelPermalink }}" 
+                 width="{{ $gif.Width }}" 
+                 height="{{ $gif.Height }}" 
+                 alt="{{ with $item.Params.image.alt_text }}{{.}}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
+                 loading="lazy">
+          </a>
+        {{ end }}
+      {{ else }}
+        <!-- Default image -->
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="block h-full flex items-center justify-center bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
+          <svg class="w-16 h-16 text-zinc-400" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14h-2v-4H8v-2h2V9h2v2h2v2h-2v4z"></path>
+          </svg>
+        </a>
+      {{ end }}
+    </div>
+
+    <!-- Content Section -->
+    <div class="p-6">
+      <!-- Title -->
+      <h3 class="text-lg font-semibold leading-tight text-slate-900 dark:text-slate-100 mb-2 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-300" id="card-title-{{ $item.File.UniqueID }}">
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="hover:underline">
+          {{ $item.Title | markdownify | emojify | truncate 100 }}
+        </a>
+      </h3>
+
+      <!-- Summary -->
+      {{ with $item.Summary }}
+        <p class="text-sm text-slate-600 dark:text-slate-300 mb-4 line-clamp-2">{{ . | plainify | emojify }}</p>
+      {{ end }}
+
+      <!-- Meta -->
+      {{ if $hasMeta }}
+        <div class="text-xs text-gray-500 dark:text-gray-400 flex flex-wrap gap-x-3 gap-y-1">
+          <!-- Authors -->
+          {{ with $item.Params.authors }}
+            {{ if gt (len .) 0 }}
+              <span class="whitespace-nowrap">
+                {{ range $i, $author := . }}
+                  {{ if gt $i 0 }}, {{ end }}
+                  {{ if $author }}
+                    {{ if eq (printf "%T" $author) "map[string]interface {}" }}
+                      {{ with $author.name }}
+                        {{ if $author.link }}
+                          <a href="{{ $author.link }}" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400">
+                            {{ . }}
+                          </a>
+                        {{ else }}
+                          {{ . }}
+                        {{ end }}
+                      {{ end }}
+                    {{ else }}
+                      {{ $author }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              </span>
+              {{ if or $showDate $showReadTime $showReadMore }}
+                <span class="opacity-40">•</span>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          <!-- Date -->
+          {{ if $showDate }}
+            <time class="hidden sm:inline whitespace-nowrap" datetime="{{ with $item.Params.date }}{{ time . | dateFormat "2006-01-02" }}{{ else }}{{ $item.Date.Format "2006-01-02" }}{{ end }}">
+              {{ with $item.Params.date }}{{ time . | time.Format (site.Params.hugoblox.locale.date_format | default "Jan 2, 2006") }}{{ else }}{{ $item.Date | time.Format (site.Params.hugoblox.locale.date_format | default "Jan 2, 2006") }}{{ end }}
+            </time>
+          {{ end }}
+
+          <!-- Read Time -->
+          {{ if and $showDate $showReadTime }}
+            <span class="hidden sm:inline opacity-40">•</span>
+          {{ end }}
+          {{ if $showReadTime }}
+            {{ $content := $item.Content | plainify }}
+            {{ $words := len (split $content " ") }}
+            {{ $readTime := div $words 200 }}
+            {{ if lt $readTime 1 }}{{ $readTime = 1 }}{{ end }}
+            <span class="hidden sm:inline whitespace-nowrap">{{ $readTime }} {{ i18n "minute_read" }}</span>
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <!-- Read More with arrow - properly separated -->
+      {{ if $showReadMore }}
+      <div class="pt-2 border-t border-zinc-200/50 dark:border-zinc-700/50">
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium text-sm transition-all duration-300 group/link">
+          <span>{{ i18n "read_more" | default "Read more" }}</span>
+          <svg class="w-4 h-4 transition-transform group-hover/link:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
