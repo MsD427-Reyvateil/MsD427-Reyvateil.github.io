@@ -8,8 +8,6 @@ authors:
 publication: "*J. Org. Chem.* **2019** , *84* , *9913-9928."
 date: "2019-09-01"
 
-date: "2019-09-01"
-
 # abstract: 'Asymmetric Synthesis of Azepine-Fused Cyclobutanes from Yne- Methylenecyclopropanes Involving Cyclopropanation/CâC Cleavage/WagnerâMeerwein Rearrangement and Reaction Mechanism'
 
 # summary: 'Asymmetric Synthesis of Azepine-Fused Cyclobutanes from Yne- Methylenecyclopropanes Involving Cyclopropanation/CâC Cleavage/WagnerâMeerwein Rearrangement and Reaction Mechanism'
@@ -33,3 +31,4 @@ weight: 75
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-09/20190902223107193437.jpg)
+

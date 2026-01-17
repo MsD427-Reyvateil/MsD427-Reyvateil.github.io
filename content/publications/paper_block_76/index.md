@@ -10,8 +10,6 @@ authors:
 publication: "*Tetrahedron Lett.* **2019** , *60* , 151001-151004."
 date: "2019-08-01"
 
-date: "2019-08-01"
-
 # abstract: 'Type-II Pauson-Khand reaction of 1,8-enyne in the attempt of building 7/5 ring of (-)-caribenol A and DFT understanding'
 
 # summary: 'Type-II Pauson-Khand reaction of 1,8-enyne in the attempt of building 7/5 ring of (-)-caribenol A and DFT understanding'
@@ -35,3 +33,4 @@ weight: 76
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-08/20190831085007559140.jpg)
+

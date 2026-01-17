@@ -10,8 +10,6 @@ authors:
 publication: "*J. Org. Chem.* **2022** , *87* , 10576-10591."
 date: "2022-08-01"
 
-date: "2022-08-01"
-
 # abstract: 'Why [4 + 2 + 1] but Not [2 + 2 + 1]? Why Allenes? A Mechanistic Study of the Rhodium-Catalyzed [4 + 2 + 1] Cycloaddition of In Situ Generated Ene-Ene-Allenes and Carbon Monoxide'
 
 # summary: 'Why [4 + 2 + 1] but Not [2 + 2 + 1]? Why Allenes? A Mechanistic Study of the Rhodium-Catalyzed [4 + 2 + 1] Cycloaddition of In Situ Generated Ene-Ene-Allenes and Carbon Monoxide'
@@ -35,3 +33,4 @@ weight: 46
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-08/20220819181422058912.jpeg)
+

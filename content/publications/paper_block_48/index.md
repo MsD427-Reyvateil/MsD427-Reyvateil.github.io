@@ -16,8 +16,6 @@ authors:
 publication: "*Chem.* **2022** , *40* , 1767-1776."
 date: "2022-07-01"
 
-date: "2022-07-01"
-
 # abstract: 'Catalytic Enantioselective Construction of 6-4 Ring-Junction All-Carbon Stereocenters and Mechanistic Insights'
 
 # summary: 'Catalytic Enantioselective Construction of 6-4 Ring-Junction All-Carbon Stereocenters and Mechanistic Insights'
@@ -41,3 +39,4 @@ weight: 48
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-07/20220714183808536066.png)
+

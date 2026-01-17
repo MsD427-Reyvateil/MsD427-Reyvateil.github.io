@@ -17,7 +17,6 @@ authors:
 
 publication: "*CCS Chem.* **2019** , *1* , *352-364."
 date: "2018-10-01"
-date: "2018-10-01"
 # abstract: 'Synthesis of Quaternary Carbon-Centered Benzoindolizidinones via Novel Photoredox-Catalyzed Alkene Aminoarylation: Facile Access to Tylophorine and Analogues'
 
 # summary: 'Synthesis of Quaternary Carbon-Centered Benzoindolizidinones via Novel Photoredox-Catalyzed Alkene Aminoarylation: Facile Access to Tylophorine and Analogues'
@@ -44,3 +43,4 @@ weight: 73
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-09/20190911184500907531.jpg)
+

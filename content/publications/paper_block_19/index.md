@@ -12,8 +12,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2024** , *3*, 1049-1060."
 date: "2024-07-01"
 
-date: "2024-07-01"
-
 # abstract: 'O-to-O acyl transfer for epimerization-free peptide C-terminal salicylaldehyde ester synthesis'
 
 # summary: 'O-to-O acyl transfer for epimerization-free peptide C-terminal salicylaldehyde ester synthesis'
@@ -37,3 +35,4 @@ weight: 19
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-07/20240701185342837580.png)
+

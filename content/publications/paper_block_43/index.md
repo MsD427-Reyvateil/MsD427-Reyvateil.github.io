@@ -12,8 +12,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2022** , *144* , 21457-21469."
 date: "2022-12-01"
 
-date: "2022-12-01"
-
 # abstract: 'Dual Activation Strategy to Achieve C-C Cleavage of Cyclobutanes: Development and Mechanism of Rh and Zn Cocatalyzed [4 + 2] Cycloaddition of Yne-Vinylcyclobutanones'
 
 # summary: 'Dual Activation Strategy to Achieve C-C Cleavage of Cyclobutanes: Development and Mechanism of Rh and Zn Cocatalyzed [4 + 2] Cycloaddition of Yne-Vinylcyclobutanones'
@@ -37,3 +35,4 @@ weight: 43
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-12/20221201100416881152.jpeg)
+

@@ -9,8 +9,6 @@ authors:
 publication: "*Chem. Eur. J.* **2021** , *27* , *5638* - 5641."
 date: "2021-04-01"
 
-date: "2021-04-01"
-
 # abstract: 'Rhodium(I)-Catalyzed Three-Component [4+2+1] Cycloaddition of Two Vinylallenes and CO'
 
 # summary: 'Rhodium(I)-Catalyzed Three-Component [4+2+1] Cycloaddition of Two Vinylallenes and CO'
@@ -34,3 +32,4 @@ weight: 59
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2021-04/20210402212954470373.png)
+

@@ -8,8 +8,6 @@ authors:
 publication: "*J. Org. Chem.* **2023** , *12*, e202300440."
 date: "2023-10-01"
 
-date: "2023-10-02"
-
 # abstract: '1,5-X Insertions of Free Alkylidene Carbenes: A Theoretical Study'
 
 # summary: '1,5-X Insertions of Free Alkylidene Carbenes: A Theoretical Study'
@@ -33,3 +31,4 @@ weight: 29
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-10/20231031145027363755.jpg)
+

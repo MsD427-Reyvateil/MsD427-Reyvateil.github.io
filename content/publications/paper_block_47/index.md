@@ -12,8 +12,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2022** , *13* , 426-438."
 date: "2022-07-01"
 
-date: "2022-07-02"
-
 # abstract: 'Stereoselective hydrogen atom transfer to acyclic radicals: a switch enabling diastereodivergent borylative radical cascades'
 
 # summary: 'Stereoselective hydrogen atom transfer to acyclic radicals: a switch enabling diastereodivergent borylative radical cascades'
@@ -37,3 +35,4 @@ weight: 47
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-07/20220714184414126467.png)
+

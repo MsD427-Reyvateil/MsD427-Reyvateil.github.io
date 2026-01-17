@@ -12,8 +12,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2023** , *2* , 778-788."
 date: "2023-05-01"
 
-date: "2023-05-02"
-
 # abstract: 'Regioselective umpolung para-C-H functionalization of arylhydroxylamines'
 
 # summary: 'Regioselective umpolung para-C-H functionalization of arylhydroxylamines'
@@ -37,3 +35,4 @@ weight: 33
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-05/20230515151457586161.jpg)
+

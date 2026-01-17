@@ -8,8 +8,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2024** , *44* , 1045-1068."
 date: "2024-05-01"
 
-date: "2024-05-02"
-
 # abstract: 'Progress in Transition-Metal-Catalyzed Carbonylative Cycloadditions Using Carbon Monoxide'
 
 # summary: 'Progress in Transition-Metal-Catalyzed Carbonylative Cycloadditions Using Carbon Monoxide'
@@ -33,3 +31,4 @@ weight: 22
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-05/20240512230728572716.png)
+

@@ -10,8 +10,6 @@ authors:
 publication: "*Org. Lett.* **2024** , *26* , 10475-10480."
 date: "2024-12-01"
 
-date: "2024-12-01"
-
 # abstract: 'Cobalt-Catalyzed Intramolecular [4 + 2] Cycloaddition of Cyclopropyl-Capped Dienes with Alkynes/Alkenes/Allene and Reaction Mechanism'
 
 # summary: 'Cobalt-Catalyzed Intramolecular [4 + 2] Cycloaddition of Cyclopropyl-Capped Dienes with Alkynes/Alkenes/Allene and Reaction Mechanism'
@@ -35,3 +33,4 @@ weight: 13
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-12/20241224163018616456.png)
+

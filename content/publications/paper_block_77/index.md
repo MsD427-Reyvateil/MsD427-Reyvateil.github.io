@@ -10,8 +10,6 @@ authors:
 publication: "*J. Org. Chem.* **2019** , 582-590."
 date: "2019-06-01"
 
-date: "2019-06-01"
-
 # abstract: 'Understanding Regioselectivities of Corey-Chaykovsky Reactions of Dimethylsulfoxonium Methylide (DMSOM) and Dimethylsulfonium Methylide (DMSM) toward Enones: A DFT Study.'
 
 # summary: 'Understanding Regioselectivities of Corey-Chaykovsky Reactions of Dimethylsulfoxonium Methylide (DMSOM) and Dimethylsulfonium Methylide (DMSM) toward Enones: A DFT Study.'
@@ -35,3 +33,4 @@ weight: 77
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-06/20190618103023951027.GIF)
+

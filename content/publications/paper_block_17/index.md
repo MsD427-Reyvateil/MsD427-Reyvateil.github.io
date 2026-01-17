@@ -11,8 +11,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2024** , *0*, 1-13."
 date: "2024-08-01"
 
-date: "2024-08-01"
-
 # abstract: 'A Desymmetric Dearomatization Cyclopropanation of [2.2]Paracyclophane'
 
 # summary: 'A Desymmetric Dearomatization Cyclopropanation of [2.2]Paracyclophane'
@@ -36,3 +34,4 @@ weight: 17
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-08/20240808163127426504.png)
+

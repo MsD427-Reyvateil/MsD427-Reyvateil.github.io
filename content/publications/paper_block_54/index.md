@@ -10,8 +10,6 @@ authors:
 publication: "*Org. Lett.* **2021** , *23* , 7566-7570."
 date: "2021-09-01"
 
-date: "2021-09-02"
-
 # abstract: 'Synthesizing Molecules with Linear Tricyclic 5/5/5 and 6/5/5 Skeletons via [5 + 2 + 1]/Ene Strategy'
 
 # summary: 'Synthesizing Molecules with Linear Tricyclic 5/5/5 and 6/5/5 Skeletons via [5 + 2 + 1]/Ene Strategy'
@@ -35,3 +33,4 @@ weight: 54
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2021-09/20210920084610951292.jpeg)
+

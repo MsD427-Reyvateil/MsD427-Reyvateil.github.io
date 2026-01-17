@@ -7,7 +7,6 @@ authors:
 
 publication: "*Org. Lett.* **2025** , *27* , 9229-9234."
 date: "2025-08-02"
-date: "2025-08-02"
 # abstract: 'Rhodium-Catalyzed [3 + 1 + 2] Cycloaddition of Type II Diene-Vinylcyclopropanes and Carbon Monoxide for the Synthesis of 5/6 Skeletons with Two Adjacent Bridgehead Quaternary Centers'
 
 # summary: 'Rhodium-Catalyzed [3 + 1 + 2] Cycloaddition of Type II Diene-Vinylcyclopropanes and Carbon Monoxide for the Synthesis of 5/6 Skeletons with Two Adjacent Bridgehead Quaternary Centers'
@@ -34,3 +33,4 @@ weight: 1
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2025-08/20250828004440378593.png)
+

@@ -11,8 +11,6 @@ authors:
 publication: "*J. Org. Chem.* **2024** , *89* , 18019-18027."
 date: "2024-12-01"
 
-date: "2024-12-02"
-
 # abstract: 'Au-Catalyzed 5C Reaction of Type II Diene-Ynenes toward Dihydrosemibullvalenes: Reaction Development and Mechanistic Study'
 
 # summary: 'Au-Catalyzed 5C Reaction of Type II Diene-Ynenes toward Dihydrosemibullvalenes: Reaction Development and Mechanistic Study'
@@ -36,3 +34,4 @@ weight: 12
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-12/20241224163700770858.png)
+

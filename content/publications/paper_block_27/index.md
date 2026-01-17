@@ -10,8 +10,6 @@ authors:
 publication: "*Chem. Eur. J.* **2023** , *30*, e202303407."
 date: "2023-12-01"
 
-date: "2023-12-02"
-
 # abstract: 'Rh(I)-Catalyzed [4+3]/[4+1] Cycloaddition of Diene-Vinylcyclopropanes and Carbon Monoxide to Access Angular 5/7/5 Tricycles'
 
 # summary: 'Rh(I)-Catalyzed [4+3]/[4+1] Cycloaddition of Diene-Vinylcyclopropanes and Carbon Monoxide to Access Angular 5/7/5 Tricycles'
@@ -35,3 +33,4 @@ weight: 27
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-12/20231222182553403722.png)
+

@@ -11,8 +11,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2023** , *145* , *17087*â17095."
 date: "2023-08-01"
 
-date: "2023-08-01"
-
 # abstract: 'Rh-Catalyzed [4+1] Reaction of Cyclopropyl-Capped Dienes (but not Common Dienes) and Carbon Monoxide: Reaction Development and Mechanistic Study'
 
 # summary: 'Rh-Catalyzed [4+1] Reaction of Cyclopropyl-Capped Dienes (but not Common Dienes) and Carbon Monoxide: Reaction Development and Mechanistic Study'
@@ -36,3 +34,4 @@ weight: 31
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-08/20230808224134662299.jpg)
+

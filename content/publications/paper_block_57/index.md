@@ -8,8 +8,6 @@ authors:
 publication: "*Chem. Eur. J.* **2021** , *27* , 7176-7182."
 date: "2021-06-01"
 
-date: "2021-06-01"
-
 # abstract: 'Co-Catalyzed Asymmetric Intramolecular [3+2] Cycloaddition of Yne-Alkylidenecyclopropanes and its Reaction Mechanism'
 
 # summary: 'Co-Catalyzed Asymmetric Intramolecular [3+2] Cycloaddition of Yne-Alkylidenecyclopropanes and its Reaction Mechanism'
@@ -33,3 +31,4 @@ weight: 57
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2021-06/20210621174310067085.jpg)
+

@@ -15,8 +15,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2023** , *14* , 6378-6389."
 date: "2023-10-01"
 
-date: "2023-10-01"
-
 # abstract: 'Catalytic 4-exo-dig carbocyclization for the construction of furan-fused cyclobutanones and synthetic applications'
 
 # summary: 'Catalytic 4-exo-dig carbocyclization for the construction of furan-fused cyclobutanones and synthetic applications'
@@ -40,3 +38,4 @@ weight: 30
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-10/20231031145602759162.jpg)
+

@@ -21,8 +21,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2023** , *9* , 2620-2636."
 date: "2023-07-01"
 
-date: "2023-07-01"
-
 # abstract: 'Direct insertion into the C-C bond of unactivated ketones with NaH-mediated aryne chemistry'
 
 # summary: 'Direct insertion into the C-C bond of unactivated ketones with NaH-mediated aryne chemistry'
@@ -46,3 +44,4 @@ weight: 32
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-07/20230701123740876509.jpg)
+

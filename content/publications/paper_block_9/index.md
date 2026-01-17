@@ -12,8 +12,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2025** , *15* , 4441-4449."
 date: "2025-03-01"
 
-date: "2025-03-01"
-
 # abstract: 'Rh-Catalyzed [8+1] Cycloaddition of Vinyl Biscyclopropanes with CO for the Synthesis of Nine-Membered Carbocycles'
 
 # summary: 'Rh-Catalyzed [8+1] Cycloaddition of Vinyl Biscyclopropanes with CO for the Synthesis of Nine-Membered Carbocycles'
@@ -37,3 +35,4 @@ weight: 9
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2025-03/20250320145841076452.png)
+

@@ -8,8 +8,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2020** , *10* , 8212-8222."
 date: "2020-07-01"
 
-date: "2020-07-02"
-
 # abstract: 'Remote Î³-C(sp3)-H Alkylation of Aliphatic Carboxamides via an Unexpected Regiodetermining Pd Migration Process: Reaction Development and Mechanistic Study'
 
 # summary: 'Remote Î³-C(sp3)-H Alkylation of Aliphatic Carboxamides via an Unexpected Regiodetermining Pd Migration Process: Reaction Development and Mechanistic Study'
@@ -33,3 +31,4 @@ weight: 66
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2020-07/20200716113826845533.gif)
+

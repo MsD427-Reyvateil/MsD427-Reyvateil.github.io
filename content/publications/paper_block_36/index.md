@@ -9,8 +9,6 @@ authors:
 publication: "*Cell Rep. Phys. Sci.* **2023** , *4* , 101302-101315."
 date: "2023-03-01"
 
-date: "2023-03-02"
-
 # abstract: 'Antrodiellin B/hypnophilin/coriolin and strained 5/5/5 and 5/6/4 skeletons via [5+2+1]/epoxidation/transannular radical cyclization'
 
 # summary: 'Antrodiellin B/hypnophilin/coriolin and strained 5/5/5 and 5/6/4 skeletons via [5+2+1]/epoxidation/transannular radical cyclization'
@@ -34,3 +32,4 @@ weight: 36
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-03/20230319212720442654.jpg)
+

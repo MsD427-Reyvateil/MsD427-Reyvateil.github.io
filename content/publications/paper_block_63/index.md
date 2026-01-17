@@ -10,8 +10,6 @@ authors:
 publication: "*J. Org. Chem.* **2020** , *37* , 5985-5994."
 date: "2020-12-01"
 
-date: "2020-12-01"
-
 # abstract: 'Mechanism and Regioselectivity of Intramolecular [2+2] Cycloaddition of Ene-Ketenes: A DFT Study'
 
 # summary: 'Mechanism and Regioselectivity of Intramolecular [2+2] Cycloaddition of Ene-Ketenes: A DFT Study'
@@ -35,3 +33,4 @@ weight: 63
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2020-12/20201230135852056685.png)
+

@@ -12,8 +12,6 @@ authors:
 publication: "*Chem.* **2024** , *67* , 1-8."
 date: "2024-04-01"
 
-date: "2024-04-01"
-
 # abstract: 'Natural products inspired [3 + 2] cycloaddition enables efficient construction of hydroxylated tetrahydronfuran acetals and concise syntheses of lignans'
 
 # summary: 'Natural products inspired [3 + 2] cycloaddition enables efficient construction of hydroxylated tetrahydronfuran acetals and concise syntheses of lignans'
@@ -37,3 +35,4 @@ weight: 26
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-04/20240406011115604810.png)
+

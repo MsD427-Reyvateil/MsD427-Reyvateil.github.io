@@ -10,8 +10,6 @@ authors:
 publication: "*Asian J. Org. Chem.* **2022** , *11* , e202100571."
 date: "2022-01-01"
 
-date: "2022-01-01"
-
 # abstract: 'A Formal [3+3+1] Reaction of Enyne-Methylenecyclopropanes through Au(I)-Catalyzed Enyne Cycloisomerization and Rh(I)-Catalyzed [6+1] Reaction of Vinylspiropentanes and CO'
 
 # summary: 'A Formal [3+3+1] Reaction of Enyne-Methylenecyclopropanes through Au(I)-Catalyzed Enyne Cycloisomerization and Rh(I)-Catalyzed [6+1] Reaction of Vinylspiropentanes and CO'
@@ -35,3 +33,4 @@ weight: 53
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-01/20220104151255415008.jpg)
+

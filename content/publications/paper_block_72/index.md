@@ -11,8 +11,6 @@ authors:
 publication: "*Chem. Commun.* **2019** , *55* , 12012-12015."
 date: "2019-10-01"
 
-date: "2019-10-01"
-
 # abstract: 'A newly designed heterodiene and its application to construct six-membered heterocycles containing an N-O bond'
 
 # summary: 'A newly designed heterodiene and its application to construct six-membered heterocycles containing an N-O bond'
@@ -36,3 +34,4 @@ weight: 72
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-10/20191005214718592556.JPG)
+

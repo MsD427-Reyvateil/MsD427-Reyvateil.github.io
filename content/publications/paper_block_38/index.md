@@ -11,8 +11,6 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2023** , *145* , 5496-5505."
 date: "2023-03-01"
 
-date: "2023-03-02"
-
 # abstract: 'Strain-Release-Controlled [4 + 2 + 1] Reaction of Cyclopropyl-Capped Diene-ynes/Diene-enes and Carbon Monoxide Catalyzed by Rhodium'
 
 # summary: 'Strain-Release-Controlled [4 + 2 + 1] Reaction of Cyclopropyl-Capped Diene-ynes/Diene-enes and Carbon Monoxide Catalyzed by Rhodium'
@@ -36,3 +34,4 @@ weight: 38
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-03/20230316091959691962.jpeg)
+

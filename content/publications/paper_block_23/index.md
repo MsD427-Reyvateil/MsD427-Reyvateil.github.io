@@ -13,8 +13,6 @@ authors:
 publication: "*Angew. Chem. Int. Ed.* **2024** , *63*, e202406478."
 date: "2024-05-01"
 
-date: "2024-05-01"
-
 # abstract: 'Desulfurdioxidative N-N Coupling of N-Arylhydroxylamines and N-Sulfinylanilines: Reaction Development and Mechanism'
 
 # summary: 'Desulfurdioxidative N-N Coupling of N-Arylhydroxylamines and N-Sulfinylanilines: Reaction Development and Mechanism'
@@ -38,3 +36,4 @@ weight: 23
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-05/20240512225035660474.png)
+

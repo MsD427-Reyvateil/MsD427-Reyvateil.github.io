@@ -10,8 +10,6 @@ authors:
 publication: "*ChemRxiv.* **2022** , 10.26434/chemrxiv-2022-7bm1b"
 date: "2022-10-01"
 
-date: "2022-10-01"
-
 # abstract: 'Atroposelective Synthesis of N-Arylindoles via Enantioselective N-H Bond Insertion'
 
 # summary: 'Atroposelective Synthesis of N-Arylindoles via Enantioselective N-H Bond Insertion'
