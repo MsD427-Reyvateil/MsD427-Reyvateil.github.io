@@ -3,8 +3,8 @@ title: 'C-H functionalization of 2-alkyl tryptamines: direct assembly of azepino
 
 authors:
   - Kejing Xie
-  - â€?Zeyuan Shen
-  - â€?Peng Cheng
+  - â€Zeyuan Shen
+  - â€Peng Cheng
   - Haoxiang Dong
   - Zhi-Xiang Yu * 
   - Liansuo Zu *
@@ -35,4 +35,5 @@ weight: 18
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-07/20240725115117303428.png)
+
 

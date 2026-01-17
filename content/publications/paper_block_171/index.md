@@ -1,5 +1,5 @@
 ---
-title: 'Why Trimerization? Computational Elucidation of the Origin of Selective Trimerization of Ethene Catalyzed by TaCl3(CH3)2 and An Agostic-assisted Hydride Transfer Mechanism'
+title: 'Why Trimerization Computational Elucidation of the Origin of Selective Trimerization of Ethene Catalyzed by TaCl3(CH3)2 and An Agostic-assisted Hydride Transfer Mechanism'
 
 authors:
   - Zhi-Xiang Yu
@@ -33,3 +33,4 @@ weight: 171
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2025-08/20250828004440378593.png)
+

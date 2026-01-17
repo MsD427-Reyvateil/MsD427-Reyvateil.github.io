@@ -18,7 +18,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://pubs.acs.org/doi/10.1021/jacs.1c11030?ref=PDF
+    url: https://pubs.acs.org/doi/10.1021/jacs.1c11030ref=PDF
 
 image:
   caption: ''
@@ -32,3 +32,4 @@ weight: 50
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-03/20220304194808490393.gif)
+

@@ -36,4 +36,5 @@ slides: ''
 weight: 106
 ---
 
-![Chemical formula](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5SC00584A&imageInfo.ImageIdentifier.Year=2015)
+![Chemical formula](https://pubs.rsc.org/en/Image/GetimageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5SC00584A&imageInfo.ImageIdentifier.Year=2015)
+

@@ -2,8 +2,8 @@
 title: 'Cobalt-Catalyzed Intramolecular [4 + 2] Cycloaddition of Cyclopropyl-Capped Dienes with Alkynes/Alkenes/Allene and Reaction Mechanism'
 
 authors:
-  - Liyan Kanâ€?
-  - Yi Zhouâ€?
+  - Liyan Kanâ€
+  - Yi Zhouâ€
   - Ling-Quan Kong
   - Zhi-Xiang Yu*
 
@@ -33,4 +33,5 @@ weight: 13
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-12/20241224163018616456.png)
+
 

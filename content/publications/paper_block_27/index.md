@@ -19,7 +19,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202303407?af=R
+    url: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202303407af=R
 
 image:
   caption: ''
@@ -33,4 +33,5 @@ weight: 27
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-12/20231222182553403722.png)
+
 

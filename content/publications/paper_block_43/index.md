@@ -2,9 +2,9 @@
 title: 'Dual Activation Strategy to Achieve C-C Cleavage of Cyclobutanes: Development and Mechanism of Rh and Zn Cocatalyzed [4 + 2] Cycloaddition of Yne-Vinylcyclobutanones'
 
 authors:
-  - Guan-Yu Zhangâ€?
-  - Pan Zhangâ€?
-  - Bing-Wen Liâ€?
+  - Guan-Yu Zhangâ€
+  - Pan Zhangâ€
+  - Bing-Wen Liâ€
   - Kang Liu
   - Jun Li
   - Zhi-Xiang Yu*
@@ -35,4 +35,5 @@ weight: 43
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-12/20221201100416881152.jpeg)
+
 

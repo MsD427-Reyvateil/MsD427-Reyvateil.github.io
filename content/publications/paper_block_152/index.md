@@ -1,5 +1,5 @@
 ---
-title: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions? A Computational Study of the Metal Carbenoid O-H Insertion into Water'
+title: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions A Computational Study of the Metal Carbenoid O-H Insertion into Water'
 
 authors:
   - Yong Liang
@@ -8,9 +8,9 @@ authors:
 
 publication: "*J. Am. Chem. Soc.* **2009**, *131*, 17783-17785."
 date: "2009-12-01"
-# abstract: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions? A Computational Study of the Metal Carbenoid O-H Insertion into Water'
+# abstract: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions A Computational Study of the Metal Carbenoid O-H Insertion into Water'
 
-# summary: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions? A Computational Study of the Metal Carbenoid O-H Insertion into Water'
+# summary: 'Why Is Copper(I) Complex More Competent Than Dirhodium(II) Complex in Catalytic Asymmetric O-H Insertion Reactions A Computational Study of the Metal Carbenoid O-H Insertion into Water'
 
 featured: true
 
@@ -34,3 +34,4 @@ weight: 152
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2018-10/20181010160735413526.jpg)
+

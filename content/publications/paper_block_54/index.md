@@ -19,7 +19,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://pubs.acs.org/doi/10.1021/acs.orglett.1c02766?ref=PDF
+    url: https://pubs.acs.org/doi/10.1021/acs.orglett.1c02766ref=PDF
 
 image:
   caption: ''
@@ -33,4 +33,5 @@ weight: 54
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2021-09/20210920084610951292.jpeg)
+
 

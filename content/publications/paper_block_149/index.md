@@ -1,5 +1,5 @@
 ---
-title: 'A Reaction of α-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'
+title: 'A Reaction of α-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition'
 
 authors:
   - Qian Li
@@ -9,9 +9,9 @@ authors:
 
 publication: "*Org. Lett.* **2010** , *12* , 1332-1335."
 date: "2010-07-01"
-# abstract: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'
+# abstract: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition'
 
-# summary: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition?'
+# summary: 'A Reaction of Î±-Ene-Vinylcyclopropanes: Type II Intramolecular [5+2] Cycloaddition or [3+2] Cycloaddition'
 
 featured: true
 
@@ -35,3 +35,4 @@ weight: 149
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2018-10/20181010161024009488.gif)
+

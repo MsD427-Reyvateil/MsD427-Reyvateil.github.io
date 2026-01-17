@@ -17,7 +17,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://pubs.acs.org/doi/10.1021/acs.orglett.1c04383?ref=PDF
+    url: https://pubs.acs.org/doi/10.1021/acs.orglett.1c04383ref=PDF
 
 image:
   caption: ''
@@ -31,3 +31,4 @@ weight: 49
 ---
 
 ![Chemical formula](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/orlef7/2022/orlef7.2022.24.issue-7/acs.orglett.1c04383/20220217/images/medium/ol1c04383_0004.gif)
+

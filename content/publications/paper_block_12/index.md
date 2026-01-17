@@ -3,8 +3,8 @@ title: 'Au-Catalyzed 5C Reaction of Type II Diene-Ynenes toward Dihydrosemibullv
 
 authors:
   - Weiming Shi
-  - â€?Pei-Jun Cai
-  - â€?Zi-You Tian
+  - â€Pei-Jun Cai
+  - â€Zi-You Tian
   - Zhe Dong
   - Zhi-Xiang Yu
 
@@ -34,4 +34,5 @@ weight: 12
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-12/20241224163700770858.png)
+
 

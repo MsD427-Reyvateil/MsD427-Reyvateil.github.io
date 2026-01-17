@@ -2,8 +2,8 @@
 title: 'Ynamide Protonation-Initiated Cis-Selective Polyene Cyclization and Reaction Mechanism'
 
 authors:
-  - Jiasheng Yaoâ€?
-  - Chen-Long Liâ€?
+  - Jiasheng Yaoâ€
+  - Chen-Long Liâ€
   - Xing Fan
   - Zhou Wang
   - Zhi-Xiang Yu*
@@ -35,4 +35,5 @@ weight: 52
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2022-01/20220105193948929827.jpg)
+
 

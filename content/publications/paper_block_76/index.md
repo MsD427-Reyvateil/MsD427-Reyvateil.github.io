@@ -19,7 +19,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://www.sciencedirect.com/science/article/pii/S0040403919307580?via=ihub
+    url: https://www.sciencedirect.com/science/article/pii/S0040403919307580via=ihub
 
 image:
   caption: ''
@@ -33,4 +33,5 @@ weight: 76
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2019-08/20190831085007559140.jpg)
+
 

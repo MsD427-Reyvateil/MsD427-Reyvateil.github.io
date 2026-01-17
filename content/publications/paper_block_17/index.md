@@ -2,8 +2,8 @@
 title: 'A Desymmetric Dearomatization Cyclopropanation of [2.2]Paracyclophane'
 
 authors:
-  - Dong Chenâ€?
-  - Yi Zhouâ€?
+  - Dong Chenâ€
+  - Yi Zhouâ€
   - Chen-Ho Tung
   - Zhi-Xiang Yu* 
   - Zhenghu Xu*
@@ -20,7 +20,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.024.202404067?af=R
+    url: https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.024.202404067af=R
 
 image:
   caption: ''
@@ -34,4 +34,5 @@ weight: 17
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-08/20240808163127426504.png)
+
 

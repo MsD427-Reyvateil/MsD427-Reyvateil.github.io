@@ -3,9 +3,9 @@ title: 'Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4- enynes
 
 authors:
   - Qi Cui
-  - â€?Pan Zhang
-  - â€?Bing-Wen Li
-  - â€?Yi Jin
+  - â€Pan Zhang
+  - â€Bing-Wen Li
+  - â€Yi Jin
   - Qianwei Zhang
   - Hong-Xi Bai
   - Zhi-Xiang Yu*
@@ -36,4 +36,5 @@ weight: 14
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2024-09/20240918135749388993.png)
+
 

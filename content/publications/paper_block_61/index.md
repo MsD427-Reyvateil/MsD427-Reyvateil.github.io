@@ -22,7 +22,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://pubs.acs.org/doi/10.1021/jacs.0c13335?fig=tgr1&amp;ref=pdf
+    url: https://pubs.acs.org/doi/10.1021/jacs.0c13335fig=tgr1&amp;ref=pdf
 
 image:
   caption: ''
@@ -36,4 +36,5 @@ weight: 61
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2021-03/20210316103509182497.jpeg)
+
 

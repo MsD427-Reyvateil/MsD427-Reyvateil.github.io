@@ -3,8 +3,8 @@ title: 'Rhodium-Catalyzed [7 + 1] Cycloaddition of Exocyclic 1,3- Dienylcyclopro
 
 authors:
   - Zhiqiang Huang
-  - â€?Xin Wang
-  - â€?Yi Jin
+  - â€Xin Wang
+  - â€Yi Jin
   - Zuwei Wang
   - Zhi-Xiang Yu*
 
@@ -20,7 +20,7 @@ featured: true
 links:
   
   - name: pubs
-    url: https://pubs.acs.org/doi/10.1021/acs.orglett.3c03471?fig=agr1&amp;ref=pdf
+    url: https://pubs.acs.org/doi/10.1021/acs.orglett.3c03471fig=agr1&amp;ref=pdf
 
 image:
   caption: ''
@@ -34,4 +34,5 @@ weight: 28
 ---
 
 ![Chemical formula](https://www.chem.pku.edu.cn/zxyu/images/content/2023-12/20231215141935719540.jpg)
+
 
