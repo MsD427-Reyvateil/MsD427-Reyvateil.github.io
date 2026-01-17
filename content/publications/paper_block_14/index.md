@@ -10,7 +10,7 @@ authors:
   - Hong-Xi Bai
   - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2024** , *14* , *14595*â14605."
+publication: "*J. Am. Chem. Soc.* **2024** , *14* , *14595*−14605."
 date: "2024-09-01"
 
 # abstract: 'Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4- enynes (YACEs) and Carbon Monoxide: Reaction Development and Mechanism'

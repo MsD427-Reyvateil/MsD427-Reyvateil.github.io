@@ -1,5 +1,5 @@
 ---
-title: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of EneâVinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
+title: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Ene-Vinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
 
 authors:
   - Lei Jiao
@@ -9,9 +9,9 @@ publication: "*J. Am. Chem. Soc.* **2022** , *144* , 2624-2636."
 
 date: "2022-03-01"
 
-# abstract: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of EneâVinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
+# abstract: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Ene-Vinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
 
-# summary: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of EneâVinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
+# summary: 'Mechanism and Stereochemistry of Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Ene-Vinylcyclopropanes and Carbon Monoxide Revealed by Visual Kinetic Analysis and Quantum Chemical Calculations'
 
 featured: true
 

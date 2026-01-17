@@ -1,5 +1,5 @@
 ---
-title: 'Conjugated Diene-Assisted Allylic CâH Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
+title: 'Conjugated Diene-Assisted Allylic C-H Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
 
 authors:
   - Qian Li 
@@ -7,9 +7,9 @@ authors:
 
 publication: "*Chem.* **2010** , *132* , 4542-4543."
 date: "2010-08-01"
-# abstract: 'Conjugated Diene-Assisted Allylic CâH Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
+# abstract: 'Conjugated Diene-Assisted Allylic C-H Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
 
-# summary: 'Conjugated Diene-Assisted Allylic CâH Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
+# summary: 'Conjugated Diene-Assisted Allylic C-H Bond Activation: Cationic Rh(I)-Catalyzed Syntheses of Polysubstituted Tetrahydropyrroles, Tetrahydrofurans, and Cyclopentanes from Ene-2-Diene'
 
 featured: true
 

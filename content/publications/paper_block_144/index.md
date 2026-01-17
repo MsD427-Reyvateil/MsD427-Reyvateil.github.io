@@ -8,9 +8,9 @@ authors:
 
 publication: "*Tetrahedron Lett,* **2010**, *51*, 5674-5676."
 date: "2010-12-01"
-# abstract: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
+# abstract: 'Formal total synthesis of (±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
 
-# summary: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
+# summary: 'Formal total synthesis of (±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
 
 featured: true
 

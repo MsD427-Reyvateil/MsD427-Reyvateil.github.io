@@ -5,7 +5,7 @@ authors:
   - Yi Wang
   - Zhi-Xiang Yu
   
-publication: "*J. Org. Chem.* **2020** , *85* , *397*â402."
+publication: "*J. Org. Chem.* **2020** , *85* , *397*-402."
 date: "2020-02-01"
 
 # abstract: 'Symmetric CÂ·Â·Â·HÂ·Â·Â·C Hydrogen Bonds Predicted by Quantum Chemical Calculations'

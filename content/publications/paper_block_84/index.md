@@ -1,5 +1,5 @@
 ---
-title: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the CâCl Bond of  Carbon Tetrachloride'
+title: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the C-Cl Bond of  Carbon Tetrachloride'
 
 authors:
   - Yu Xiang
@@ -11,9 +11,9 @@ publication: "*Org. Lett.* **2018** , *20* , 4545-4548."
 date: "2018-10-01"
 
 
-# abstract: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the CâCl Bond of  Carbon Tetrachloride'
+# abstract: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the C-Cl Bond of  Carbon Tetrachloride'
 
-# summary: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the CâCl Bond of  Carbon Tetrachloride'
+# summary: 'Formal Insertion of Imines (or Nitrogen Heteroarenes) and Arynes into the C-Cl Bond of  Carbon Tetrachloride'
 
 featured: true
 

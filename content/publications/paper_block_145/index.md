@@ -9,9 +9,9 @@ authors:
 
 publication: "*Org. Lett.* **2010** , *12* ,2528-2531."
 date: "2010-11-01"
-# abstract: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropanes and CO: Homologous PausonâKhand Reaction and Total Synthesis of (Â±)-Î±-Agarofuran'
+# abstract: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropanes and CO: Homologous Pauson-Khand Reaction and Total Synthesis of (±)-Î±-Agarofuran'
 
-# summary: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropanes and CO: Homologous PausonâKhand Reaction and Total Synthesis of (Â±)-Î±-Agarofuran'
+# summary: 'Rh(I)-Catalyzed [(3 + 2) + 1] Cycloaddition of 1-Yne/Ene-vinylcyclopropanes and CO: Homologous Pauson-Khand Reaction and Total Synthesis of (±)-Î±-Agarofuran'
 
 featured: true
 

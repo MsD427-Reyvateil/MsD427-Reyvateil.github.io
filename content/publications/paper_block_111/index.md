@@ -9,9 +9,9 @@ publication: "*J. Org. Chem.* **2014** , *79* , 11949-11960."
 
 date: "2014-11-02"
 
-# abstract: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed DielsâAlder Reactions between Electronically Neutral Dienes and Dienophiles'
+# abstract: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed Diels-Alder Reactions between Electronically Neutral Dienes and Dienophiles'
 
-# summary: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed DielsâAlder Reactions between Electronically Neutral Dienes and Dienophiles'
+# summary: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed Diels-Alder Reactions between Electronically Neutral Dienes and Dienophiles'
 
 featured: true
 

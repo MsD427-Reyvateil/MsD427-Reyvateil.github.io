@@ -8,7 +8,7 @@ authors:
   - Zi-You Zhang
   - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2023** , *145* , *17087*â17095."
+publication: "*J. Am. Chem. Soc.* **2023** , *145* , *17087*-17095."
 date: "2023-08-01"
 
 # abstract: 'Rh-Catalyzed [4+1] Reaction of Cyclopropyl-Capped Dienes (but not Common Dienes) and Carbon Monoxide: Reaction Development and Mechanistic Study'

@@ -6,7 +6,7 @@ authors:
   - Ji-Ji Zhang
   - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2012** , *77* , *8527*â8540."
+publication: "*J. Am. Chem. Soc.* **2012** , *77* , *8527*-8540."
 date: "2012-11-01"
 # abstract: 'DFT and Experimental Exploration of the Mechanism of InCl3âCatalyzed Type II Cycloisomerization of 1,6-Enynes: Identifying InCl2+ as the Catalytic Species and Answering Why Nonconjugated Dienes Are Generated'
 

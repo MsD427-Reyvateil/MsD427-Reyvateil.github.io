@@ -1,5 +1,5 @@
 ---
-title: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'
+title: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (±)-Kopsone'
 
 authors:
   - Li Zhai
@@ -15,9 +15,9 @@ publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 11599-11603."
 date: "2017-06-02"
 
 
-# abstract: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'
+# abstract: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (±)-Kopsone'
 
-# summary: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'
+# summary: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (±)-Kopsone'
 
 featured: true
 

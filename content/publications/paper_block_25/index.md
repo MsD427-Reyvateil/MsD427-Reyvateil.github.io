@@ -5,7 +5,7 @@ authors:
   - Pan Zhang
   - Zhi-Xiang Yu
 
-publication: "*J. Org. Chem.* **2024** , *89* , *4326*â4335."
+publication: "*J. Org. Chem.* **2024** , *89* , *4326*-4335."
 date: "2024-04-01"
 
 # abstract: 'Dynamically or Kinetically Controlled Computational Study of the Mechanisms of Electrophilic Aminoalkenylation of Heteroaromatics with Keteniminium Ions'

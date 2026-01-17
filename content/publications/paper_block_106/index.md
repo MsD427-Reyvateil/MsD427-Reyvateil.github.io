@@ -1,5 +1,5 @@
 ---
-title: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
+title: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via Carbon-Alkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
 authors:
   - Alpay Dermenci
@@ -14,9 +14,9 @@ publication: "*Chem.Sci.* **2015** , *6* , 3201-3210."
 date: "2015-11-01"
 
 # Schedule page publish date (NOT publication's date).
-# abstract: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
+# abstract: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via Carbon-Alkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
-# summary: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
+# summary: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via Carbon-Alkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
 featured: true
 

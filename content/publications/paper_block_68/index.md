@@ -1,17 +1,17 @@
 ---
-title: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic CâH Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
+title: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic C-H Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
 
 authors:
   - Yi Wang
   - Pei-Jun Cai
   - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2020** , *142* , *2777*â2786."
+publication: "*J. Am. Chem. Soc.* **2020** , *142* , *2777*-2786."
 date: "2020-02-02"
 
-# abstract: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic CâH Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
+# abstract: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic C-H Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
 
-# summary: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic CâH Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
+# summary: 'Mechanistic Study on Gold-Catalyzed Cycloisomerization of Dienediynes Involving Aliphatic C-H Functionalization and Inspiration for Developing a New Strategy to Access Polycarbocycles'
 
 featured: true
 

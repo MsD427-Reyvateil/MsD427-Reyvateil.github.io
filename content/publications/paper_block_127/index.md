@@ -1,17 +1,17 @@
 ---
-title: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic CâH Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
+title: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic C-H Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
 
 authors:
   - Lian-Gang Zhuo
   - Ji-Ji Zhang
   - Zhi-Xiang Yu*
 
-publication: "*Organometallics* **2012** , *31* , *5185*â5195."
+publication: "*Organometallics* **2012** , *31* , *5185*-5195."
 
 date: "2012-10-01"
-# abstract: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic CâH Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
+# abstract: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic C-H Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
 
-# summary: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic CâH Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
+# summary: 'Density Functional Theory Study of the Mechanism of the Rhodium(I)-Catalyzed Conjugated Diene Assisted Allylic C-H Bond Activation and Addition to Alkenes Using Ene-2-dienes As Substrates'
 
 featured: true
 

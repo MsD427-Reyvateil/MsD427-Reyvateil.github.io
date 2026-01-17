@@ -6,7 +6,7 @@ authors:
   - Yao-Cheng Shi,*
   - Zhi-Xiang Yu,*
 
-publication: "*Chem.* **2014** , *346* , *195*â231."
+publication: "*Chem.* **2014** , *346* , *195*-231."
 date: "2014-06-01"
 # abstract: 'Transition Metal-Catalyzed Cycloadditions of Cyclopropanes for the Synthesis of Carbocycles: C-C Activation in Cyclopropanes'
 

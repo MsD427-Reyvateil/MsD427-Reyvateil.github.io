@@ -1,5 +1,5 @@
 ---
-title: 'A Combined Computational and Experimental Study of Rh- Catalyzed CâH Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
+title: 'A Combined Computational and Experimental Study of Rh- Catalyzed C-H Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
 
 authors:
   - Linxing Zhang
@@ -13,9 +13,9 @@ authors:
 publication: "*J. Am. Chem. Soc.* **2021** , *143* , 3571-3582."
 date: "2021-03-01"
 
-# abstract: 'A Combined Computational and Experimental Study of Rh- Catalyzed CâH Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
+# abstract: 'A Combined Computational and Experimental Study of Rh- Catalyzed C-H Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
 
-# summary: 'A Combined Computational and Experimental Study of Rh- Catalyzed CâH Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
+# summary: 'A Combined Computational and Experimental Study of Rh- Catalyzed C-H Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
 
 featured: true
 
