@@ -2,8 +2,8 @@
 title: 'Ynamide Protonation-Initiated Cis-Selective Polyene Cyclization and Reaction Mechanism'
 
 authors:
-  - Jiasheng Yaoâ€
-  - Chen-Long Liâ€
+  - Jiasheng Yao
+  - Chen-Long Li
   - Xing Fan
   - Zhou Wang
   - Zhi-Xiang Yu*

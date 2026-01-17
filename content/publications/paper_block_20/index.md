@@ -3,8 +3,8 @@ title: 'Pd(II)/N,N′‑Disulfonyl Bisimidazoline-Catalyzed Enantioselective Syn
 
 authors:
   - Yu-Xin Wang
-  - § Chen-Long Li
-  - § Yin-Ping Liu 
+  - Chen-Long Li
+  - Yin-Ping Liu 
   - Wen-Juan Hao
   - Zhi-Xiang Yu*
   - Bo Jiang*

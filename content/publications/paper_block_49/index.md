@@ -7,7 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2022** , *24* , 1444-1447."
-date: "2000-01-01"
+date: "2022-01-01"
 # abstract: 'Six-Step Total Synthesis of Isohirsut-4-ene through [5+2+1] Cycloaddition and Transannular Epoxide-Alkene Cyclization'
 
 # summary: 'Six-Step Total Synthesis of Isohirsut-4-ene through [5+2+1] Cycloaddition and Transannular Epoxide-Alkene Cyclization'

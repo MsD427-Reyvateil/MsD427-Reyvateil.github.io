@@ -3,8 +3,8 @@ title: 'O-to-O acyl transfer for epimerization-free peptide C-terminal salicylal
 
 authors:
   - Kejing Xie
-  - â€Zeyuan Shen
-  - â€Peng Cheng
+  - Zeyuan Shen
+  - Peng Cheng
   - Haoxiang Dong
   - Zhi-Xiang Yu * 
   - Liansuo Zu *

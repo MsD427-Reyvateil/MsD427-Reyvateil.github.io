@@ -2,8 +2,8 @@
 title: 'A Desymmetric Dearomatization Cyclopropanation of [2.2]Paracyclophane'
 
 authors:
-  - Dong Chenâ€
-  - Yi Zhouâ€
+  - Dong Chen
+  - Yi Zhou
   - Chen-Ho Tung
   - Zhi-Xiang Yu* 
   - Zhenghu Xu*
