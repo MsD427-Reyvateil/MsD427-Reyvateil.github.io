@@ -2,13 +2,18 @@
 title: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'
 
 authors:
+  - Bin-Miao Yang
+  - Pei-Jun Cai
+  - Yong-Qiang Tu*
   - Zhi-Xiang Yu
+  - Zhi-Min Chen
+  - Shuang-Hu Wang
   - Shao-Hua Wang
-  - Fu-Min Zhang
+  - Fu-Min Zhang,
 
 publication: "*J. Am. Chem. Soc.* **2015** , *137*, 8344-8347."
 data: "jacsat-01"
-date: "2000-01-01"
+date: "2015-11-28"
 # abstract: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'
 
 # summary: 'Organocatalytic Asymmetric Tandem Nazarov Cyclization/Semipinacol Rearrangement: Rapid Construction of Chiral Spiro[4.4]nonane-1,6-diones'

@@ -2,14 +2,18 @@
 title: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'
 
 authors:
-  - Sha-Hua Huang
-  - Zhi-Xiang Yu
-  - Ran Hong
+  - Li Zhai
+  - Xuechao Tian
+  - Chao Wang
+  - Qi Cui
+  - Wenhua Li
+  - Sha-Hua Huang*
+  - Zhi-Xiang Yu*
+  - Ran Hong*
 
 publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 11599-11603."
-data: "2018-10-01"
+data: "2017-6-02"
 
-date: "2018-10-02"
 
 # abstract: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'
 

@@ -1,13 +1,12 @@
 ---
-title: ''
+title: 'A SN2-like Transition State for Alkene Episulfidation by Dinitrogen Sulfide'
 
 authors:
   - Zhi-Xiang Yu
   - Yun-Dong Wu
 
 publication: "*J. Org. Chem.* **2003** , *68* , *6049*."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2003-08-01"
 # abstract: ''
 
 # summary: ''

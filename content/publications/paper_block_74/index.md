@@ -2,8 +2,12 @@
 title: 'Divergent Synthesis of Oxa-Cyclic Nitrones through Gold(I)- Catalyzed 1,3-Azaprotio Transfer of Propargylic a-Ketocarboxylate Oximes: Experimental and DFT Studies'
 
 authors:
-  - Shaozhong Wang
-  - Zhi-Xiang Yu
+  - Chunhong Wang
+  - Qi Cui
+  - Zhixin Zhang
+  - Zhu-Jun Yao
+  - Shaozhong Wang*
+  - Zhi-Xiang Yu*
 
 publication: "*Chem. Eur. J.* **2019** , *25* , *9821* - 9826."
 data: "2019-09-01"

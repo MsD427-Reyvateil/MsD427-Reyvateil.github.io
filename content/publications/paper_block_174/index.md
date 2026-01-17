@@ -1,13 +1,12 @@
 ---
-title: ''
+title: 'A DFT Study of the Mechanisms and Regio- and Stereochemistry of the Lewis-Acid-Catalyzed Reactions of 5-Alkoxyoxazoles with Aldehydes: Aryl Substitution at the 2 Position of 5-Alkoxyoxazole is Critical to the Formation of 4-Alkoxycarbonyl-2- Oxazoline'
 
 authors:
   - Zhi-Xiang Yu
   - Yun-Dong Wu
 
 publication: "*J. Org. Chem.* **2003** , *68* , *421*."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2003-09-01"
 # abstract: ''
 
 # summary: ''

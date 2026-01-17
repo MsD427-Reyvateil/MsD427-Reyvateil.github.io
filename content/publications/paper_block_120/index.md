@@ -2,13 +2,15 @@
 title: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'
 
 authors:
-  - Zhi-Xiang Yu
+  - Guo-Jie Jiang
+  - Qin-Heng Zheng
+  - Meng Dou
+  - Lian-Gang Zhuo
   - Wei Meng
-  - Zhi-Xiang Yu* J. Org
+  - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2013** , *78* , 11783-11793."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2013-09-01"
 # abstract: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'
 
 # summary: 'Mild-Condition Synthesis of Allenes from Alkynes and Aldehydes Mediated by Tetrahydroisoquinoline (THIQ)'

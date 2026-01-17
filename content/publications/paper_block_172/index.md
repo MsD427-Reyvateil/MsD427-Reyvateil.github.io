@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Clarification of the Mechanism of the Cascade Reactions Involving Inverse-Electron Demand Diels-Alder Reactions Between Amino-substituted Heterocycles and 1,3,5-Triazine.
 
 authors:
   - Zhi-Xiang Yu
@@ -7,8 +7,7 @@ authors:
   - Yun-Dong Wu
 
 publication: "*J. Org. Chem.* **2005** , *70* , *998*."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2005-09-01"
 # abstract: ''
 
 # summary: ''

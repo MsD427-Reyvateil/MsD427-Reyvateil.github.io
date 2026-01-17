@@ -1,9 +1,15 @@
 ---
-title: 'OnâDemand Selection of the Reaction Path from Imino Diels-Alder to EneâType Cyclization: Synthesis of Epiminopyrimido[4,5âb]azepines'
+title: '	On‐Demand Selection of the Reaction Path from Imino Diels–Alder to Ene‐Type Cyclization: Synthesis of Epiminopyrimido[4,5‐b]azepines'
 
 authors:
-  - Zhi-Xiang Yu
-  - Xu Bai,* Eur
+  - Yuewei Zhang
+  - Yue Zhu
+  - Lianyou Zheng
+  - Lian-Gang Zhuo
+  - Fengzhi Yang
+  - Qun Dang
+  - Zhi-Xiang Yu*
+  - Xu Bai,*
 
 publication: "*J. Org. Chem.* **2014** , 660-669."
 # abstract: 'OnâDemand Selection of the Reaction Path from Imino Diels-Alder to EneâType Cyclization: Synthesis of Epiminopyrimido[4,5âb]azepines'

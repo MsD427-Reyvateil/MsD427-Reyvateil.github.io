@@ -2,12 +2,12 @@
 title: 'Rh-Catalyzed [7 + 1] Cycloaddition of Buta-1,3-dienylcyclopropanes and CO for the Synthesis of Cyclooctadienones'
 
 authors:
-  - Zhi-Xiang Yu
+  - Zhong-Ke Yao
   - Jianjun Li
+  - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2011** , *1* 3 , *134*- 137."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2011-04-01"
 # abstract: 'Rh-Catalyzed [7 + 1] Cycloaddition of Buta-1,3-dienylcyclopropanes and CO for the Synthesis of Cyclooctadienones'
 
 # summary: 'Rh-Catalyzed [7 + 1] Cycloaddition of Buta-1,3-dienylcyclopropanes and CO for the Synthesis of Cyclooctadienones'

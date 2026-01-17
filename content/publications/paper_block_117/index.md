@@ -2,12 +2,12 @@
 title: 'Mechanisms of the InCl3 Catalyzed Type-I, II, and III Cycloisomerizations of 1,6-Enynes'
 
 authors:
+  - Lian-Gang Zhuo
   - Ji-Ji Zhang
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
-publication: "*J. Org. Chem.* **2014** , *79* , *3809*â3820."
-data: "2018-10-01"
-date: "2018-10-01"
+publication: "*J. Org. Chem.* **2014** , *79* , 3809-3820."
+data: "2014-05-28"
 # abstract: 'Mechanisms of the InCl3 Catalyzed Type-I, II, and III Cycloisomerizations of 1,6-Enynes'
 
 # summary: 'Mechanisms of the InCl3 Catalyzed Type-I, II, and III Cycloisomerizations of 1,6-Enynes'

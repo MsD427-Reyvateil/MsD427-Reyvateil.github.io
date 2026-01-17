@@ -9,8 +9,7 @@ authors:
   - Tetrahedron Lett
 
 publication: "*J. Am. Chem. Soc.* **2009** , *50* , 155-157."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2009-04-01"
 # abstract: 'An expeditious and high-yield formal synthesis of hirsutene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'
 
 # summary: 'An expeditious and high-yield formal synthesis of hirsutene using Rh(I)-catalyzed [(5+2)+1] cycloaddition'

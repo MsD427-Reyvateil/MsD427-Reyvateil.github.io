@@ -2,14 +2,16 @@
 title: 'Asymmetric Hydrogenation of In Situ Generated Isochromenylium Intermediates by Copper/Ruthenium Tandem Catalysis'
 
 authors:
+  - Tingting Miao
+  - Zi-You Tian
+  - Yan-Mei He
+  - Fei Chen
   - Ya Chen
-  - Zhi-Xiang Yu
-  - Qing-Hua Fan
+  - Prof. Dr. Zhi-Xiang Yu
+  - Prof. Dr. Qing-Hua Fan
 
 publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 4135-4139."
-data: "2018-10-01"
-
-date: "2018-10-01"
+data: "2017-3-1"
 
 # abstract: 'Asymmetric Hydrogenation of In Situ Generated Isochromenylium Intermediates by Copper/Ruthenium Tandem Catalysis'
 

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Dimerizations of Nitrile Oxides to Furoxans Are Stepwise via Dinitrosoalkene Diradicals: A Density Functional Theory Study'
 
 authors:
   - Zhi-Xiang Yu
@@ -7,8 +7,7 @@ authors:
   - K. N. Houk
 
 publication: "*J. Am. Chem. Soc.* **2003** , *125* , *15420*."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2003-10-01"
 # abstract: ''
 
 # summary: ''

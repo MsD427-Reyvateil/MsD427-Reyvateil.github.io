@@ -2,13 +2,13 @@
 title: 'Ruthenium-Catalyzed Formal Dehydrative [4 + 2] Cycloaddition of Enamides and Alkynes for the Synthesis of Highly Substituted Pyridines: Reaction Development and Mechanistic Study'
 
 authors:
+  - Jicheng Wu
   - Wenbo Xu
-  - Zhi-Xiang Yu
-  - Jian Wang
+  - Zhi-Xiang Yu*
+  - Jian Wang,*
 
 publication: "*J. Am. Chem. Soc.* **2015** , *137* , 9489-9496."
-data: "jacsat-01"
-date: "2000-01-02"
+date: "2015-10-29"
 # abstract: 'Ruthenium-Catalyzed Formal Dehydrative [4 + 2] Cycloaddition of Enamides and Alkynes for the Synthesis of Highly Substituted Pyridines: Reaction Development and Mechanistic Study'
 
 # summary: 'Ruthenium-Catalyzed Formal Dehydrative [4 + 2] Cycloaddition of Enamides and Alkynes for the Synthesis of Highly Substituted Pyridines: Reaction Development and Mechanistic Study'

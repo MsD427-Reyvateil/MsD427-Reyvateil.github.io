@@ -2,12 +2,12 @@
 title: 'DFT Study on the Mechanism and Stereochemistry of the Petasis-Ferrier Rearrangements'
 
 authors:
+  - Guo-Jie Jiang 
   - Yi Wang
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2013** , *78* , 6947-6955."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2013-06-01"
 # abstract: 'DFT Study on the Mechanism and Stereochemistry of the Petasis-Ferrier Rearrangements'
 
 # summary: 'DFT Study on the Mechanism and Stereochemistry of the Petasis-Ferrier Rearrangements'

@@ -2,11 +2,15 @@
 title: 'Highly enantioselective S-H bond insertion cooperatively catalyzed by dirhodium complexes and chiral spiro phosphoric acids'
 
 authors:
-  - Zhi-Xiang Yu
-  - Yi Ma
-  - Qi-Lin Zhou,*  Sci
+  - Bin Xu
+  - Shou-Fei Zhu,*
+  - Zhi-Chao Zhang,
+  - Zhi-Xiang Yu,*
+  - Yi Ma,
+  - Qi-Lin Zhou,*
 
-publication: "*Chem.* **2014** , *5* , 1442-1448."
+publication: "*Chem.Sci* **2014** , *5* , 1442-1448."
+data: "2014-09-01"
 # abstract: 'Highly enantioselective S-H bond insertion cooperatively catalyzed by dirhodium complexes and chiral spiro phosphoric acids'
 
 # summary: 'Highly enantioselective S-H bond insertion cooperatively catalyzed by dirhodium complexes and chiral spiro phosphoric acids'

@@ -2,13 +2,19 @@
 title: 'Tunable Carbonyl Ylide Reactions: Selective Synthesis of Dihydrofurans and Dihydrobenzoxepines'
 
 authors:
-  - Zhi-Xiang Yu
-  - Yong Tang
+  - Jiao-Long Zhou
+  - Yong Liang
+  - Chao Deng
+  - Haolai Zhou
+  - Zheng Wang
+  - Xiu-Li Sun
+  - Jun-Cheng Zheng
+  - Zhi-Xiang Yu*
+  - Yong Tang*
 
 publication: "*Angew. Chem. Int. Ed.* **2011** , *50* , 7874-7878."
-data: "2019-10-01"
+data: "2011-12-01"
 
-date: "2019-10-02"
 
 # abstract: 'Tunable Carbonyl Ylide Reactions: Selective Synthesis of Dihydrofurans and Dihydrobenzoxepines'
 

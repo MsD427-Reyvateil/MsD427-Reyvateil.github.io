@@ -12,8 +12,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2007** , *129* , 3470-3471."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2007-10-01"
 # abstract: 'An Unexpected Role of a Trace Amount of Water in Catalyzing Proton Transfer in Phosphine-Catalyzed (3 + 2) Cycloaddition of Allenoates and Alkenes'
 
 # summary: 'An Unexpected Role of a Trace Amount of Water in Catalyzing Proton Transfer in Phosphine-Catalyzed (3 + 2) Cycloaddition of Allenoates and Alkenes'

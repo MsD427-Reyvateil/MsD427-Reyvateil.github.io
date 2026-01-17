@@ -7,8 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2009** , 905-909."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2009-05-01"
 # abstract: 'Phosphine- and Water-Cocatalyzed [3+2] Cycloaddition Reactions of 2-Methyl-2,3-butadienoate with Fumarates: A Computational and Experimental Study'
 
 # summary: 'Phosphine- and Water-Cocatalyzed [3+2] Cycloaddition Reactions of 2-Methyl-2,3-butadienoate with Fumarates: A Computational and Experimental Study'

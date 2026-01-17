@@ -6,9 +6,8 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 8667-8671."
-data: "2018-10-01"
 
-date: "2018-10-02"
+date: "2017-7-02"
 
 # abstract: 'Rhodium(I)-Catalyzed Bridged [5+2] Cycloaddition of cis-Allene-vinylcyclopropanes to Synthesize the Bicyclo[4.3.1.]decane Skeleton'
 

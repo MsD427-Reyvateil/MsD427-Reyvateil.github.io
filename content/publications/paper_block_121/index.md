@@ -2,12 +2,12 @@
 title: 'Synthesis of Z-Alkenes from Rh(I)-Catalyzed Olefin Isomerization of Î²,Î³-Unsaturated Ketones'
 
 authors:
-  - Zhi-Xiang Yu
+  - Lian-Gang Zhuo
   - Zhong-Ke Yao
+  - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2013** , *15* , 4634-4647."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2013-08-01"
 # abstract: 'Synthesis of Z-Alkenes from Rh(I)-Catalyzed Olefin Isomerization of Î²,Î³-Unsaturated Ketones'
 
 # summary: 'Synthesis of Z-Alkenes from Rh(I)-Catalyzed Olefin Isomerization of Î²,Î³-Unsaturated Ketones'

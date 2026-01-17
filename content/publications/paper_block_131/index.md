@@ -2,13 +2,14 @@
 title: 'Asymmetric Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of 1-Yne-vinylcyclopropanes for Bicyclo[3.3.0] Compounds with a Chiral Quaternary Carbon Stereocenter and Density Functional Theory Study of the Origins of Enantioselectivity'
 
 authors:
-  - Zhi-Xiang Yu
+  - Mu Lin
+  - Guan-Yu Kang
   - Yi-An Guo
-  - Zhi-Xiang Yu* J. Am.  Soc 
+  - Zhi-Xiang Yu*
 
-publication: "*Chem.* **2012** , *134* , 398-405."
-data: "2018-10-01"
-date: "2018-10-02"
+publication: "*J. Am. Chem. Soc.,* **2012** , *134* , 398-405."
+
+date: "2012-06-02"
 # abstract: 'Asymmetric Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of 1-Yne-vinylcyclopropanes for Bicyclo[3.3.0] Compounds with a Chiral Quaternary Carbon Stereocenter and Density Functional Theory Study of the Origins of Enantioselectivity'
 
 # summary: 'Asymmetric Rh(I)-Catalyzed Intramolecular [3 + 2] Cycloaddition of 1-Yne-vinylcyclopropanes for Bicyclo[3.3.0] Compounds with a Chiral Quaternary Carbon Stereocenter and Density Functional Theory Study of the Origins of Enantioselectivity'

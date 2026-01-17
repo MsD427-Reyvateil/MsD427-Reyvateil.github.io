@@ -1,13 +1,12 @@
 ---
-title: 'Members Only'
+title: 'Aromatic Dienophiles. I: A Theoretic Study of Inverse-electron Demand Diels-Alder Reaction between 2-Aminopyrrole and 1,3,5-Triazine'
 
 authors:
-  - Yun-Dong Wu
-  - Zhi-Xiang Yu
+  - Yun-Dong Wu* 
+  - Zhi-Xiang Yu,
 
 publication: "*J. Am. Chem. Soc.* **2001** , *123* , *5777*."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2001-06-01"
 # abstract: 'Members Only'
 
 # summary: 'Members Only'

@@ -2,13 +2,15 @@
 title: 'Scalable Total Synthesis of rac-Jungermannenones B and C'
 
 authors:
-  - Zhi-Xiang Yu
-  - Xiaoguang Lei
+  - Weilong Liu
+  - Houhua Li
+  - Pei-Jun Cai
+  - Zhen Wang
+  - Prof. Dr. Zhi-Xiang Yu
+  - Prof. Dr. Xiaoguang Lei
 
 publication: "*Angew. Chem. Int. Ed.* **2016** , *55* , 3112-3116."
-data: "2019-10-01"
-
-date: "2019-10-01"
+data: "2016-07-01"
 
 # abstract: 'Scalable Total Synthesis of rac-Jungermannenones B and C'
 

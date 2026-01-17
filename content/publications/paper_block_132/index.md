@@ -1,18 +1,19 @@
 ---
-title: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±,Î²- and Î²,Î³-Cyclohexenones'
+title: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of α,β- and β,γ-Cyclohexenones'
 
 authors:
+  - Guo-Jie Jiang
+  - Xu-Fei Fu
   - Qian Li
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2012** , *14* , 692-695."
-data: "2018-10-01"
 
-date: "2018-10-01"
+date: "2012-06-01"
 
-# abstract: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±,Î²- and Î²,Î³-Cyclohexenones'
+# abstract: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of α,β- and β,γ-Cyclohexenones'
 
-# summary: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of Î±,Î²- and Î²,Î³-Cyclohexenones'
+# summary: 'Rh(I)-Catalyzed [5 + 1] Cycloaddition of Vinylcyclopropanes and CO for the Synthesis of α,β- and β,γ-Cyclohexenones'
 
 featured: true
 

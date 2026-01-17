@@ -8,8 +8,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2007** , *129* , 10773-10784."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2007-11-01"
 # abstract: 'Mechanistic Twist of the [8+2] Cycloadditions of Dienylisobenzofurans and Dimethyl Acetylenedicarboxylate: Stepwise [8+2] versus [4+2]/[1,5]-Vinyl Shift Mechanisms Revealed through a Theoretical and Experimental Study'
 
 # summary: 'Mechanistic Twist of the [8+2] Cycloadditions of Dienylisobenzofurans and Dimethyl Acetylenedicarboxylate: Stepwise [8+2] versus [4+2]/[1,5]-Vinyl Shift Mechanisms Revealed through a Theoretical and Experimental Study'

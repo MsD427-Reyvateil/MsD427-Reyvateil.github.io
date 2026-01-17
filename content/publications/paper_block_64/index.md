@@ -1,13 +1,16 @@
 ---
-title: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'
+title: 'Synergy of activating substrate and introducing C–H···O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'
 
 authors:
-  - Zhi-Xiang Yu
-  - Shifa Zhu* Sci. China
+  - Rui Wu
+  - Kai Chen
+  - Jun Ma
+  - Zhi-Xiang Yu*
+  - Shifa Zhu*
 
-publication: "*Chem.* **2020** , *63* , 1230-1239."
-data: "2018-10-01"
-date: "2018-10-01"
+publication: "*Sci. China Chem.* **2020** , *63* , 1230-1239."
+data: "2020-8-01"
+date: "2020-8-01"
 # abstract: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'
 
 # summary: 'Synergy of activating substrate and introducing C-HÂ·Â·Â·O interaction to achieve Rh2(II)-catalyzed asymmetric cycloisomerization of 1,n-enynes'

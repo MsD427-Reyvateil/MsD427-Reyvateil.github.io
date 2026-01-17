@@ -1,13 +1,16 @@
 ---
-title: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An Experimental and DFT Study of Gold-Catalyzed Ring Expansion and Spirocyclization of 2âPropargyl-Î²-tetrahydrocarbolines'
+title: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An Experimental and DFT Study of Gold-Catalyzed Ring Expansion and Spirocyclization of 2‑Propargyl-β-tetrahydrocarbolines'
 
 authors:
-  - Zhi-Xiang Yu
-  - Shaozhong Wang
+  - Lei Zhang
+  - Yi Wang
+  - Zhu-Jun Yao
+  - Shaozhong Wang,*
+  - Zhi-Xiang Yu,*
 
 publication: "*J. Am. Chem. Soc.* **2015** , *137* , 13290-13300."
-data: "jacsat-01"
-date: "2000-01-01"
+
+date: "2015-10-01"
 # abstract: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An Experimental and DFT Study of Gold-Catalyzed Ring Expansion and Spirocyclization of 2âPropargyl-Î²-tetrahydrocarbolines'
 
 # summary: 'Kinetic or Dynamic Control on a Bifurcating Potential Energy Surface? An Experimental and DFT Study of Gold-Catalyzed Ring Expansion and Spirocyclization of 2âPropargyl-Î²-tetrahydrocarbolines'

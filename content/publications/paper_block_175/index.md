@@ -1,15 +1,12 @@
 ---
-title: ''
+title: 'A Theoretical Study of the Mechanisms and Regiochemistry of the Reactions of 5-Alkoxyoxazole with Thioaldehydes, Nitroso Compounds and Aldehydes'
 
 authors:
-  - Zhi-Xiang Yu
-  - with Thioaldehydes
-  - Nitroso Compounds and Aldehydes Zhi-Xiang Yu
-  - Yun-Dong Wu
+  - Zhi-Xiang Yu 
+  - Yun-Dong Wu,*
 
 publication: "*J. Org. Chem.* **2003** , *68* , *412*."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2003-08-01"
 # abstract: ''
 
 # summary: ''

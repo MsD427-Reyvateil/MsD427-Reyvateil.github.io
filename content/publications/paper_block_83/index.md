@@ -2,13 +2,13 @@
 title: 'TfOH and HBF4 Mediated Formal Cycloisomerizations and [4+3] Cycloadditions of Allene-Alkynylbenzenes'
 
 authors:
+  - Yu Xiang
+  - Zining Li
   - Lu-Ning Wang
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2018** , *83* , 7633-7647."
-data: "2018-10-01"
-
-date: "2018-10-01"
+date: "2018-10-02"
 
 # abstract: 'TfOH and HBF4 Mediated Formal Cycloisomerizations and [4+3] Cycloadditions of Allene-Alkynylbenzenes'
 

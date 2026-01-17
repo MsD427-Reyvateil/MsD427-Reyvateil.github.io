@@ -1,14 +1,13 @@
 ---
-title: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
+title: 'Formal total synthesis of (±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
 
 authors:
-  - Zhi-Xiang Yu
+  - Changxia Yuan
   - Lei Jiao
-  - Zhi-Xiang Yu* Tetrahedron Lett
+  - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2010**, *51*, 5674-5676."
-data: "2018-10-01"
-date: "2018-10-01"
+publication: "*Tetrahedron Lett,* **2010**, *51*, 5674-5676."
+data: "2010-12-01"
 # abstract: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'
 
 # summary: 'Formal total synthesis of (Â±)-hirsutic acid C using the tandem Rh(I)-catalyzed [(5+2)+1] cycloaddition/aldol reaction'

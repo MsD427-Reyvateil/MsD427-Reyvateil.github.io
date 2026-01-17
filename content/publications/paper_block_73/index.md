@@ -2,10 +2,20 @@
 title: 'Synthesis of Quaternary Carbon-Centered Benzoindolizidinones via Novel Photoredox-Catalyzed Alkene Aminoarylation: Facile Access to Tylophorine and Analogues'
 
 authors:
-  - Zhi-Xiang Yu
-  - Yu Rao* CCS
+  - Chao Zhang
+  - Yi Wang
+  - Yugang Song
+  - Hongying Gao
+  - Yonghui Sun
+  - Xiuyun Sun
+  - Yiqing Yang
+  - Ming He
+  - Zimo Yang
+  - Lingpeng Zhan
+  - Zhi-Xiang Yu*
+  - Yu Rao*
 
-publication: "*Chem.* **2019** , *1* , *352*â364."
+publication: "*CCS Chem.* **2019** , *1* , *352-364."
 data: "2018-10-01"
 date: "2018-10-01"
 # abstract: 'Synthesis of Quaternary Carbon-Centered Benzoindolizidinones via Novel Photoredox-Catalyzed Alkene Aminoarylation: Facile Access to Tylophorine and Analogues'

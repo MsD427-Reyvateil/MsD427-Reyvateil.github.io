@@ -2,15 +2,13 @@
 title: 'Rh(I)-Catalyzed Formal [5 + 1]/[2 + 2 + 1] Cycloaddition of 1-Yne-vinylcyclopropanes and Two CO Units: One-Step Construction of Multifunctional Angular Tricyclic 5/5/6 Compounds'
 
 authors:
-  - Zhi-Xiang Yu
+  - Mu Lin
   - Feng Li
   - Lei Jiao
-  - Zhi-Xiang Yu* J. Am.  Soc 
+  - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2011** , *133* , 1690-1693."
-data: "2018-10-01"
-
-date: "2018-10-01"
+data: "2011-06-01"
 
 # abstract: 'Rh(I)-Catalyzed Formal [5 + 1]/[2 + 2 + 1] Cycloaddition of 1-Yne-vinylcyclopropanes and Two CO Units: One-Step Construction of Multifunctional Angular Tricyclic 5/5/6 Compounds'
 

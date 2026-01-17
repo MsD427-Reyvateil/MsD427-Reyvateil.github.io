@@ -8,9 +8,7 @@ authors:
   - Xin-Fang Xu
 
 publication: "*J. Org. Chem.* **2018** , *83* , 13243-13255."
-data: "2019-06-01"
-
-date: "2019-06-02"
+date: "2018-12-01"
 
 # abstract: 'Copper-catalyzed Intramolecular Annulation of Conjugated Enynones to Substituted 1H-Indenes and Mechanistic Studies.'
 

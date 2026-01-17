@@ -1,13 +1,12 @@
 ---
-title: ''
+title: 'Why Trimerization? Computational Elucidation of the Origin of Selective Trimerization of Ethene Catalyzed by TaCl3(CH3)2 and An Agostic-assisted Hydride Transfer Mechanism'
 
 authors:
   - Zhi-Xiang Yu
   - K. N. Houk
 
 publication: "*Angew. Chem. Int. Ed.* **2003** , *42* , *808*."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2003-09-01"
 # abstract: ''
 
 # summary: ''

@@ -7,8 +7,7 @@ authors:
   - Yuanyuan Wang  Asian J
 
 publication: "*Chem.* **2010** , *5* , *1072* - 1088."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2010-10-01"
 # abstract: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Membered Carbocycles (Review)'
 
 # summary: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Membered Carbocycles (Review)'

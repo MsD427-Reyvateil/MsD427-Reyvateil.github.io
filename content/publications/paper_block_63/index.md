@@ -2,9 +2,10 @@
 title: 'Mechanism and Regioselectivity of Intramolecular [2+2] Cycloaddition of Ene-Ketenes: A DFT Study'
 
 authors:
-  - Zhi-Xiang Yu
+  - Xing Fan
+  - Pan Zhang
   - Yi Wang
-  - Zhi-Xiang Yu* Eur
+  - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2020** , *37* , 5985-5994."
 data: "2020-12-01"

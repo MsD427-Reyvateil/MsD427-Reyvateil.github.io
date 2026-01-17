@@ -2,13 +2,11 @@
 title: 'Gold(I)- and platinum(IV)-catalyzed intramolecular annulations of allenes towards furans'
 
 authors:
-  - Zhi-Xiang Yu
-  - Cheng-Hang Liu
-  - Zhi-Xiang Yu* Org.  Front
+  - Cheng-Hang Liu 
+  - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2014** , *1* , 1205-1209."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2014-8-01"
 # abstract: 'Gold(I)- and platinum(IV)-catalyzed intramolecular annulations of allenes towards furans'
 
 # summary: 'Gold(I)- and platinum(IV)-catalyzed intramolecular annulations of allenes towards furans'

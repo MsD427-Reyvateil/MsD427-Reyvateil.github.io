@@ -2,11 +2,17 @@
 title: 'Transient-axial-chirality controlled asymmetric rhodium-carbene C(sp2)-H functionalization for the synthesis of chiral fluorenes'
 
 authors:
+  - Kuiyong Dong
+  - Xing Fan
+  - Chao Pei
+  - Yang Zheng
+  - Sailan Chang
+  - Ju Cai
   - Lihua Qiu
-  - Zhi-Xiang Yu
-  - Xin-fang Xu* Nat. Commun
+  - Zhi-Xiang Yu*
+  - Xin-fang Xu*
 
-publication: "*J. Am. Chem. Soc.* **2020** , *11* , 2363-2373."
+publication: "*Nat. Commun.* **2020** , *11* , 2363-2373."
 data: "2020-07-01"
 
 date: "2020-07-01"

@@ -2,12 +2,13 @@
 title: 'Rh-Catalyzed Cycloisomerization of 1,7-Ene-Dienes to Synthesize trans-Divinylpiperidines: A Formal Intramolecular Addition Reaction of Allylic C-H Bond into Dienes'
 
 authors:
+  - Qi Cui
+  - Wei Liao
+  - Zi-You Tian
   - Qian Li
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2019** , *21* , 7692-7696."
-data: "2019-10-01"
-
 date: "2019-10-02"
 
 # abstract: 'Rh-Catalyzed Cycloisomerization of 1,7-Ene-Dienes to Synthesize trans-Divinylpiperidines: A Formal Intramolecular Addition Reaction of Allylic C-H Bond into Dienes'

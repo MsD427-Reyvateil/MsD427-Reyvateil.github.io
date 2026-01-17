@@ -1,15 +1,14 @@
 ---
-title: 'Mechanisms of BrÃ¸nsted Acid Catalyzed Additions of Phenols and Protected Amines to Olefins: A DFT Study'
+title: 'Mechanisms of Brønsted Acid Catalyzed Additions of Phenols and Protected Amines to Olefins: A DFT Study'
 
 authors:
   - Xin Li
   - Siyu Ye
   - Chuan He
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2008**, *25* , 4296-4303."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2008-10-01"
 # abstract: 'Mechanisms of BrÃ¸nsted Acid Catalyzed Additions of Phenols and Protected Amines to Olefins: A DFT Study'
 
 # summary: 'Mechanisms of BrÃ¸nsted Acid Catalyzed Additions of Phenols and Protected Amines to Olefins: A DFT Study'

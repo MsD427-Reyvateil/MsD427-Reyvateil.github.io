@@ -1,13 +1,15 @@
 ---
-title: 'Mechanisms of the PtCl2âCatalyzed Intramolecular Cyclization of oâIsopropyl-Substituted Aryl Alkynes for the Synthesis of Indenes and Comparison of Three sp3 CâH Bond Activation Modes'
+title: 'Mechanisms of the PtCl2‑Catalyzed Intramolecular Cyclization of o‑Isopropyl-Substituted Aryl Alkynes for the Synthesis of Indenes and Comparison of Three sp3 C−H Bond Activation Modes'
 
 authors:
+  - Yi Wang
+  - Wei Liao
+  - Genping Huang
   - Yuanzhi Xia
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*J. Org. Chem.* **2014** , *79* , 5684-5696."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2014-05-29"
 # abstract: 'Mechanisms of the PtCl2âCatalyzed Intramolecular Cyclization of oâIsopropyl-Substituted Aryl Alkynes for the Synthesis of Indenes and Comparison of Three sp3 CâH Bond Activation Modes'
 
 # summary: 'Mechanisms of the PtCl2âCatalyzed Intramolecular Cyclization of oâIsopropyl-Substituted Aryl Alkynes for the Synthesis of Indenes and Comparison of Three sp3 CâH Bond Activation Modes'

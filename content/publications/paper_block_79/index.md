@@ -8,9 +8,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Angew. Chem. Int. Ed.* **2018** , *57* , 15544-15548."
-data: "2019-06-01"
-
-date: "2019-06-01"
+date: "2018-11-01"
 
 # abstract: 'Rhodium-Catalyzed [4+2+1] Cycloaddition of In Situ Generated Ene/Yne-Ene-Allenes and CO'
 

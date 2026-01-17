@@ -1,14 +1,12 @@
 ---
-title: ''
+title: 'Intramolecular 1,3-Dipolar Ene Reactions of Nitrile Oxides Occur By Stepwise 1,1-Cycloaddition/Retro-Ene Mechanisms'
 
 authors:
-  - Zhi-Xiang Yu
-  - 1-Cycloaddition/Retro-Ene Mechanisms Zhi-Xiang Yu
-  - K. N. Houk
+  - Zhi-Xiang Yu 
+  - K. N. Houk,*
 
 publication: "*J. Am. Chem. Soc.* **2003** , *125* , *13825*."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2003-12-01"
 # abstract: ''
 
 # summary: ''

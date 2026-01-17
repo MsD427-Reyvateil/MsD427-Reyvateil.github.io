@@ -1,10 +1,10 @@
 ---
-title: 'Symmetric CÂ·Â·Â·HÂ·Â·Â·C Hydrogen Bonds Predicted by Quantum Chemical Calculations'
+title: 'Symmetric C···H···C Hydrogen Bonds Predicted by Quantum Chemical Calculations'
 
 authors:
   - Yi Wang
   - Zhi-Xiang Yu
-
+  
 publication: "*J. Org. Chem.* **2020** , *85* , *397*â402."
 data: "2020-02-01"
 

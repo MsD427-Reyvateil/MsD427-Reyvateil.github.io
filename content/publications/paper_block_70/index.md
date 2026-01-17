@@ -2,8 +2,11 @@
 title: 'NHC-Boryl Radical Catalysis for Cycloisomerization With C-C Triple Bond Reorganization'
 
 authors:
-  - Zhi-Xiang Yu
-  - Yi-Feng Wang* CCS
+  - Ai-Qing Xu
+  - Feng-Lian Zhang
+  - Tian Ye
+  - Zhi-Xiang Yu*
+  - Yi-Feng Wang*
 
 publication: "*Chem.* **2019** , *1* , 504-512."
 data: "2019-10-01"

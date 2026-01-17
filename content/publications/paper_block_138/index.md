@@ -1,13 +1,13 @@
 ---
-title: 'Î±,Î²-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'
+title: '	α,β-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'
 
 authors:
+  - Qian Li 
   - Zhe Dong
-  - Zhi-Xiang Yu
+  - Zhi-Xiang Yu*
 
 publication: "*Org. Lett.* **2011** , *1* 3 ,1122- 1125."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2011-07-01"
 # abstract: 'Î±,Î²-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'
 
 # summary: 'Î±,Î²-Divinyl Tetrahydropyrroles as Chiral Chain Diene Ligands in Rhodium(I)-Catalyzed Enantioselective Conjugated Additions'

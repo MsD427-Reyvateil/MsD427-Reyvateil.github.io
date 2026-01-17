@@ -7,8 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Org. Lett.* **2009** , *11* , 5302-5305."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2009-08-01"
 # abstract: 'Mechanisms of Cascade Reactions in the Syntheses of Camptothecin-Family Alkaloids: Intramolecular [4+ + 2] Reactions of N-Arylimidates and Alkynes'
 
 # summary: 'Mechanisms of Cascade Reactions in the Syntheses of Camptothecin-Family Alkaloids: Intramolecular [4+ + 2] Reactions of N-Arylimidates and Alkynes'

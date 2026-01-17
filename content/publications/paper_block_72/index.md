@@ -2,11 +2,13 @@
 title: 'A newly designed heterodiene and its application to construct six-membered heterocycles containing an N-O bond'
 
 authors:
+  - Wenzhi Ji
+  - Chen-Long Li
   - Hui Chen
-  - Zhi-Xiang Yu
-  - Xuebin Liao*  Commun
+  - Zhi-Xiang Yu*
+  - Xuebin Liao*
 
-publication: "*Chem.* **2019** , *55* , 12012-12015."
+publication: "*Chem. Commun.* **2019** , *55* , 12012-12015."
 data: "2019-10-01"
 
 date: "2019-10-01"

@@ -2,8 +2,13 @@
 title: 'A Combined Computational and Experimental Study of Rh- Catalyzed CâH Silylation with Silacyclobutanes: Insights Leading to a More Efficient Catalyst System'
 
 authors:
-  - Zhi-Xiang Yu
-  - Wei He
+  - Linxing Zhang
+  - Kun An
+  - Yi Wang
+  - Yun-Dong Wu
+  - Xinhao Zhang
+  - Zhi-Xiang Yu*
+  - Wei He*
 
 publication: "*J. Am. Chem. Soc.* **2021** , *143* , 3571-3582."
 data: "2021-03-01"

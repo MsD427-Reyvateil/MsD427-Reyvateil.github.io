@@ -4,7 +4,6 @@ title: 'Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Eight-Mem
 authors:
   - Wang Lu-Ning
   - Yu Zhi-Xiang
-  - J. Org
 
 publication: "*J. Am. Chem. Soc.* **2020** , *40* , 3536-3558."
 data: "2020-12-01"

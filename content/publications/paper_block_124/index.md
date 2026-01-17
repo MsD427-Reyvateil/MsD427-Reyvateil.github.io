@@ -1,13 +1,12 @@
 ---
-title: ''
+title: 'Vinylcyclopropane Derivatives in Transition-Metal-Catalyzed Cycloadditions for the Synthesis of Carbocyclic Compounds'
 
 authors:
   - Lei Jiao
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2013** , *78* , 6842-6848."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2013-05-01"
 # abstract: ''
 
 # summary: ''

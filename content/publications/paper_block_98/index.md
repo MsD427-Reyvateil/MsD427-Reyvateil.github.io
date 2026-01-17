@@ -11,7 +11,7 @@ authors:
 
 publication: "*J. Org. Chem.* **2016**, *81*, 8155-8168."
 data: "joceah-01"
-date: "2000-01-01"
+date: "2016-08-01"
 # abstract: 'Cycloaddition Reaction of Vinylphenylfurans and Dimethyl Acetylenedicarboxylate to [8+2] Isomers via Tandem [4+2]/Diradical Alkene-Alkene Coupling/[1,3]-H Shift Reactions: Experimental Exploration and DFT Understanding of Reaction Mechanism'
 
 # summary: 'Cycloaddition Reaction of Vinylphenylfurans and Dimethyl Acetylenedicarboxylate to [8+2] Isomers via Tandem [4+2]/Diradical Alkene-Alkene Coupling/[1,3]-H Shift Reactions: Experimental Exploration and DFT Understanding of Reaction Mechanism'

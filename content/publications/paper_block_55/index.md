@@ -1,5 +1,5 @@
 ---
-title: '(Z)-Î³-Alkylidenebutenolide Synthesis through Au(I)-Catalyzed 1,3-Acyloxy Migration and the Carbonyl-Ene Reaction'
+title: '(Z)-γ-Alkylidenebutenolide Synthesis through Au(I)-Catalyzed 1,3-Acyloxy Migration and the Carbonyl–Ene Reaction'
 
 authors:
   - Pathan Mosim

@@ -12,8 +12,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Am. Chem. Soc.* **2007** , *129* , 10060-10061."
-data: "2018-10-01"
-date: "2018-10-01"
+data: "2007-11-01"
 # abstract: 'A Computationally Designed Rh(I)-Catalyzed Two-Component [5+2+1] Cycloaddition of Ene-vinylcyclopropanes and CO for the Synthesis of Cyclooctenones'
 
 # summary: 'A Computationally Designed Rh(I)-Catalyzed Two-Component [5+2+1] Cycloaddition of Ene-vinylcyclopropanes and CO for the Synthesis of Cyclooctenones'

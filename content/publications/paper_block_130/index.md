@@ -2,13 +2,18 @@
 title: 'Total Synthesis of (+)-Asteriscanolide: Further Exploration of the Rhodium(I)-Catalyzed [(5+2)+1] Reaction of Ene-Vinylcyclopropanes and CO'
 
 authors:
-  - Zhi-Xiang Yu
+  - Yong Liang
+  - Xing Jiang
+  - Xu-Fei Fu
+  - Siyu Ye
+  - Tao Wang
+  - Jie Yuan
   - Yuanyuan Wang
-  - Zhi-Xiang Yu*  Asian. J 
+  - Zhi-Xiang Yu*
 
-publication: "*Chem.* **2012** , *7* , 593-604."
-data: "2018-10-01"
-date: "2018-10-01"
+publication: "*Chem. Asian. J.,* **2012** , *7* , 593-604."
+
+date: "2012-07-01"
 # abstract: 'Total Synthesis of (+)-Asteriscanolide: Further Exploration of the Rhodium(I)-Catalyzed [(5+2)+1] Reaction of Ene-Vinylcyclopropanes and CO'
 
 # summary: 'Total Synthesis of (+)-Asteriscanolide: Further Exploration of the Rhodium(I)-Catalyzed [(5+2)+1] Reaction of Ene-Vinylcyclopropanes and CO'

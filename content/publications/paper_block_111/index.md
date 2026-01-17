@@ -1,14 +1,13 @@
 ---
-title: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed DielsâAlder Reactions between Electronically Neutral Dienes and Dienophiles'
+title: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed Diels−Alder Reactions between Electronically Neutral Dienes and Dienophiles'
 
 authors:
   - Wei Liao
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2014** , *79* , 11949-11960."
-data: "2018-10-01"
 
-date: "2018-10-02"
+date: "2014-11-02"
 
 # abstract: 'DFT Study of the Mechanism and Stereochemistry of the Rh(I)-Catalyzed DielsâAlder Reactions between Electronically Neutral Dienes and Dienophiles'
 

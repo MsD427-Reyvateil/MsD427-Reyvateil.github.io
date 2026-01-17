@@ -2,14 +2,17 @@
 title: 'RhI-Catalyzed Intramolecular [3+2] Cycloaddition of 1-Allene-vinylcyclopropanes'
 
 authors:
-  - Zhi-Xiang Yu
-  - Meng Dou
-  - Zhi-Xiang Yu* Asian
+  - Kostiantyn O. Marichev
+  - Yi Wang
+  - Alejandra M. Carranco
+  - Estevan C. Garcia
+  - Zhi-Xiang Yu*
+  - Ge Gao*
+  - Jingsong You*
 
 publication: "*J. Org. Chem.* **2018** , *7* , 1609-1613."
-data: "2018-10-01"
 
-date: "2018-10-02"
+date: "2018-10-03"
 
 # abstract: 'RhI-Catalyzed Intramolecular [3+2] Cycloaddition of 1-Allene-vinylcyclopropanes'
 

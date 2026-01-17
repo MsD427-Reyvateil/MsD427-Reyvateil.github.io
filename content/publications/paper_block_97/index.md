@@ -7,9 +7,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*J. Org. Chem.* **2016** , *81* , 6757-6765."
-data: "2018-10-01"
-
-date: "2018-10-01"
+data: "2016-09-01"
 
 # abstract: 'Formal Synthesis of Gracilamine Using Rh(I)-catalyzed [3 + 2 + 1] Cycloaddition of 1-Yne-Vinylcyclopropanes and CO'
 

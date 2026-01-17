@@ -1,14 +1,16 @@
 ---
-title: ''
+title: 'Origins of Differences in Reactivities of Alkenes, Alkynes, and Allenes in [Rh(CO)2Cl]2-Catalyzed (5 + 2) Cycloaddition Reactions with Vinylcyclopropanes'
 
 authors:
   - Zhi-Xiang Yu
-  - A. Wender
+  - Paul Ha-Yeon Cheong
+  - Peng Liu
+  - Claude Y. Legault
+  - Paul A. Wender
   - K. N. Houk
 
 publication: "*J. Am. Chem. Soc.* **2008** , *130* , 2378-2379."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2008-01-01"
 # abstract: ''
 
 # summary: ''

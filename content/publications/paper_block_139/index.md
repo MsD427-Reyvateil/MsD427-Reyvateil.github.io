@@ -6,8 +6,7 @@ authors:
   - Zhi-Xiang Yu
 
 publication: "*Angew. Chem. Int. Ed.* **2012** , *123* , 2192-2195."
-data: "2018-10-01"
-date: "2018-10-02"
+data: "2012-02-01"
 # abstract: 'Enantioselective Rhodium-Catalyzed Allylic C-H Activation for the Addition to Conjugated Dienes.'
 
 # summary: 'Enantioselective Rhodium-Catalyzed Allylic C-H Activation for the Addition to Conjugated Dienes.'

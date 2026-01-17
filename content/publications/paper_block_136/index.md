@@ -2,13 +2,11 @@
 title: 'Density Functional Theory Study of the Mechanism and Origins of Stereoselectivity in the Asymmetric Simmons-Smith Cyclopropanation with Charette Chiral Dioxaborolane Ligand'
 
 authors:
-  - Zhi-Xiang Yu
-  - Yong Liang
-  - Zhi-Xiang Yu* J. Am. Soc
+  - Zhong-Ke Yao 
+  - Zhi-Xiang Yu*
 
-publication: "*Chem.* **2011** , *133* , 9343-9353."
-data: "2018-10-01"
-date: "2018-10-01"
+publication: "*J. Am.Chem. Soc. * **2011** , *133* , 9343-9353."
+data: "2011-09-01"
 # abstract: 'Density Functional Theory Study of the Mechanism and Origins of Stereoselectivity in the Asymmetric Simmons-Smith Cyclopropanation with Charette Chiral Dioxaborolane Ligand'
 
 # summary: 'Density Functional Theory Study of the Mechanism and Origins of Stereoselectivity in the Asymmetric Simmons-Smith Cyclopropanation with Charette Chiral Dioxaborolane Ligand'

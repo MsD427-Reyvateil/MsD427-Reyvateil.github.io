@@ -2,15 +2,14 @@
 title: 'An Enyne Cycloisomerization/[5+1] Reaction Sequence to Synthesize Tetrahydroisoquinolinones from Enyne-enes and CO'
 
 authors:
-  - Zhi-Xiang Yu
+  - Zhe Zhuang
+  - Chen-Long Li
   - Yu Xiang
   - Yu-Hao Wang
-  - Zhi-Xiang Yu*  Commun
+  - Zhi-Xiang Yu*
 
-publication: "*Chem.* **2017** , *53* , 2158-2161."
-data: "2018-10-01"
-
-date: "2018-10-01"
+publication: "*Chem. Commun.* **2017** , *53* , 2158-2161."
+data: "2017-3-3"
 
 # abstract: 'An Enyne Cycloisomerization/[5+1] Reaction Sequence to Synthesize Tetrahydroisoquinolinones from Enyne-enes and CO'
 

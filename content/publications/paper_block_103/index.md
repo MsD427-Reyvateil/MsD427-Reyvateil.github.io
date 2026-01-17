@@ -4,11 +4,11 @@ title: 'Rh(I)-Catalyzed Benzo/[7+1] Cycloaddition of Cyclopropyl-Benzocyclobuten
 authors:
   - Yu Xiang
   - Zhi-Xiang Yu
+  - Xu-Fei Fu
 
 publication: "*Chem. Eur. J.* **2015** , *21* , 4242-4246."
-data: "2018-10-01"
+data: "2015-12-01"
 
-date: "2018-10-02"
 
 # abstract: 'Rh(I)-Catalyzed Benzo/[7+1] Cycloaddition of Cyclopropyl-Benzocyclobutenes and CO by Merging Thermal and Metal-Catalyzed C-C Bond Cleavages'
 

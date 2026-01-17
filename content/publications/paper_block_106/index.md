@@ -2,10 +2,18 @@
 title: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
 authors:
-  - Zhi-Xiang Yu
-  - Guangbin Dong* Sci
+  - Alpay Dermenci
+  - RachelE. Whittaker
+  - Yang Gao
+  - Faben Cruz
+  - Zhi-Xiang Yu*
+  - Guangbin Dong*
 
-publication: "*Chem.* **2015** , *6* , 3201-3210."
+publication: "*Chem.Sci.* **2015** , *6* , 3201-3210."
+
+date: "2015-11-01"
+
+# Schedule page publish date (NOT publication's date).
 # abstract: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'
 
 # summary: 'Rh-Catalyzed Decarbonylation of Conjugated Ynones via CarbonâAlkyne Bond Activation: Reaction Scope and Mechanistic Exploration via DFT Calculations'

@@ -8,7 +8,6 @@ authors:
 publication: "*J. Org. Chem.* **2018** , *83* , 5384-5391."
 data: "2018-10-01"
 
-date: "2018-10-01"
 
 # abstract: 'Intra- versus Intermolecular Carbon-to-Carbon Proton Transfers in the Reactions of Arynes with Nitrogen Nucleophiles: A DFT Study.'
 
