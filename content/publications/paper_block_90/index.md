@@ -12,7 +12,7 @@ authors:
   - Ran Hong*
 
 publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 11599-11603."
-data: "2017-6-02"
+date: "2017-06-02"
 
 
 # abstract: 'Construction of Morphan Derivatives by Nitroso-Ene Cyclization: Mechanistic Insight and Total Synthesis of (Â±)-Kopsone'

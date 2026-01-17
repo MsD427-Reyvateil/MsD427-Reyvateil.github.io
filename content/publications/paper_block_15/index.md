@@ -7,6 +7,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Angew. Chem. Int. Ed.* **2024** , *64*, e202417407."
+date: "2024-08-29"
 # abstract: 'Ni(0)-Catalyzed Rearrangement of Vinylcyclobutanones (VCBOs) to Synthesize Six-Membered Non-Conjugated Enones'
 
 # summary: 'Ni(0)-Catalyzed Rearrangement of Vinylcyclobutanones (VCBOs) to Synthesize Six-Membered Non-Conjugated Enones'

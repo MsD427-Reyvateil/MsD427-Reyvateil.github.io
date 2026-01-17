@@ -3,9 +3,9 @@ title: 'Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4- enynes
 
 authors:
   - Qi Cui
-  - â€Pan Zhang
-  - â€Bing-Wen Li
-  - â€Yi Jin
+  - Pan Zhang
+  - Bing-Wen Li
+  - Yi Jin
   - Qianwei Zhang
   - Hong-Xi Bai
   - Zhi-Xiang Yu*

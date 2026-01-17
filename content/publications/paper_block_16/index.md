@@ -9,7 +9,8 @@ authors:
   - Wei Liao
   - Zhi-Xiang Yu*
 
-publication: "*J. Am. Chem. Soc.* **2024** , *14* , *12734*â12742."
+publication: "*J. Am. Chem. Soc.* **2024** , *14* , *12734-12742."
+date: "2024-08-28"
 # abstract: 'How to Suppress C(sp2)-Rh-C(sp3) Reductive Elimination and Insert CO to Achieve Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Yne-vinylcyclopropanes and CO: Answers from Experimental and Computational Investigation'
 
 # summary: 'How to Suppress C(sp2)-Rh-C(sp3) Reductive Elimination and Insert CO to Achieve Rhodium-Catalyzed [5 + 2 + 1] Cycloaddition of Yne-vinylcyclopropanes and CO: Answers from Experimental and Computational Investigation'

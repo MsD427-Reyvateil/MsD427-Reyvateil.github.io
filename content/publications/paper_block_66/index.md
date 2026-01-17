@@ -1,9 +1,9 @@
 ---
-title: 'Remote Î³-C(sp3)-H Alkylation of Aliphatic Carboxamides via an Unexpected Regiodetermining Pd Migration Process: Reaction Development and Mechanistic Study'
+title: '	Remote γ-C(sp3)–H Alkylation of Aliphatic Carboxamides via an Unexpected Regiodetermining Pd Migration Process: Reaction Development and Mechanistic Study'
 
 authors:
   - Zhi-Xiang Yu
-  - Bing-Feng Shi* ACS Catal
+  - Bing-Feng Shi
 
 publication: "*J. Am. Chem. Soc.* **2020** , *10* , 8212-8222."
 date: "2020-07-01"

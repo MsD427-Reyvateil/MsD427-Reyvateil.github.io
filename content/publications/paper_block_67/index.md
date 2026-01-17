@@ -3,7 +3,7 @@ title: 'Lewis Base-Catalyzed Amino-Acylation of Arylallenes via C-N Bond Cleavag
 
 authors:
   - Zhi-Xiang Yu
-  - Ji-Bao Xia* ACS Catal
+  - Ji-Bao Xia
 
 publication: "*J. Am. Chem. Soc.* **2020** , *10* , 5419-5429."
 date: "2020-07-01"

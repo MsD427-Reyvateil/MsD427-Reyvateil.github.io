@@ -11,7 +11,7 @@ authors:
   - Prof. Dr. Qing-Hua Fan
 
 publication: "*Angew. Chem. Int. Ed.* **2017** , *56* , 4135-4139."
-data: "2017-3-1"
+date: "2017-03-01"
 
 # abstract: 'Asymmetric Hydrogenation of In Situ Generated Isochromenylium Intermediates by Copper/Ruthenium Tandem Catalysis'
 

@@ -9,7 +9,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem. Commun.* **2017** , *53* , 2158-2161."
-data: "2017-3-3"
+date: "2017-03-03"
 
 # abstract: 'An Enyne Cycloisomerization/[5+1] Reaction Sequence to Synthesize Tetrahydroisoquinolinones from Enyne-enes and CO'
 

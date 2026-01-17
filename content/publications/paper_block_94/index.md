@@ -10,7 +10,7 @@ authors:
   - Xu Bai*
 
 publication: "*J. Org. Chem.* **2017** , *82* , 2336-2344."
-data: "2017-3-2"
+date: "2017-03-02"
 
 # abstract: 'Reaction of Aldehydes/Ketons with Electron-Deficient 1,3,5-Triazines Leading to Functionalized Pyrimidines as Diels-Alder/Retro-Diels-Alder Reaction Products: Reaction Development and Mechanistic Studies'
 

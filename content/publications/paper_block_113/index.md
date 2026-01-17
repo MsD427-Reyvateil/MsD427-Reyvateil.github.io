@@ -6,7 +6,7 @@ authors:
   - Zhi-Xiang Yu*
 
 publication: "*Chem.* **2014** , *1* , 1205-1209."
-data: "2014-8-01"
+date: "2014-08-01"
 # abstract: 'Gold(I)- and platinum(IV)-catalyzed intramolecular annulations of allenes towards furans'
 
 # summary: 'Gold(I)- and platinum(IV)-catalyzed intramolecular annulations of allenes towards furans'
