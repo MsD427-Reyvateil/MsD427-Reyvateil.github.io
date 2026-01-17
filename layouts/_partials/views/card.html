@@ -48,7 +48,7 @@
                  src="{{ $responsive.fallback.RelPermalink }}" 
                  width="{{ $original_image.Width }}" 
                  height="{{ $original_image.Height }}" 
-                 alt="{{ with $item.Params.image.alt_text }}{{.}}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
+                 alt="{{ if $item.Params.image.alt_text }}{{ $item.Params.image.alt_text }}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
                  loading="lazy">
           </a>
         {{ else }}
@@ -59,7 +59,7 @@
                  src="{{ $gif.RelPermalink }}" 
                  width="{{ $gif.Width }}" 
                  height="{{ $gif.Height }}" 
-                 alt="{{ with $item.Params.image.alt_text }}{{.}}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
+                 alt="{{ if $item.Params.image.alt_text }}{{ $item.Params.image.alt_text }}{{ else if $item.Params.caption }}{{ $item.Params.caption | markdownify | plainify }}{{ else }}{{ $item.Title }}{{ end }}" 
                  loading="lazy">
           </a>
         {{ end }}
