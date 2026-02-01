@@ -23,15 +23,15 @@
         <div>
           {{ $iconValue := .icon }}
           {{ with $iconValue }}
-          <div class="flex justify-center items-center mb-4 w-40 h-40 rounded-lg bg-primary-100 lg:h-48 lg:w-48 dark:bg-primary-900 text-primary-600 dark:text-primary-300">
+          <div class="flex justify-center items-center mb-4 w-44 h-44 rounded-lg bg-primary-100 lg:h-52 lg:w-52 dark:bg-primary-900 text-primary-600 dark:text-primary-300">
             {{/* Check if it's an image file (has extension) */}}
             {{ $iconString := printf "%v" $iconValue }}
             {{ if or (hasSuffix $iconString ".jpg") (hasSuffix $iconString ".png") (hasSuffix $iconString ".gif") (hasSuffix $iconString ".svg") }}
               {{/* Handle image file */}}
-              <img src="/Members/{{ $iconString }}" alt="{{ $.name }}" class="w-20 h-20 lg:w-24 lg:h-24 rounded-lg object-cover">
+              <img src="/Members/{{ $iconString }}" alt="{{ $.name }}" class="w-29 h-29 lg:w-34 lg:h-34 rounded-lg object-cover">
             {{ else }}
               {{/* Handle as icon */}}
-              {{ partial "functions/get_icon" (dict "name" $iconString "attributes" `class="w-20 h-20 lg:w-24 lg:h-24"`) }}
+              {{ partial "functions/get_icon" (dict "name" $iconString "attributes" `class="w-22 h-22 lg:w-26 lg:h-26"`) }}
             {{ end }}
           </div>
           {{ end }}

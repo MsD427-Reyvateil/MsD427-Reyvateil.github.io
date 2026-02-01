@@ -49,8 +49,10 @@ sections:
         folders:
           - publications
       # Remove featured_only filter to show all publications
-      sort_by: weight
+      sort_by: date
       sort_ascending: false
+      # Show only the 5 most recent publications
+      count: 5
     design:
       view: article-grid
       columns: 2

@@ -28,7 +28,7 @@
             {{ $iconString := printf "%v" $iconValue }}
             {{ if or (hasSuffix $iconString ".jpg") (hasSuffix $iconString ".png") (hasSuffix $iconString ".gif") (hasSuffix $iconString ".svg") }}
               {{/* Handle image file */}}
-              <img src="/Members/{{ $iconString }}" alt="{{ $.name }}" class="w-20 h-20 lg:w-24 lg:h-24 rounded-lg object-cover">
+              <img src="/Members/{{ $iconString }}" alt="{{ $.name }}" class="w-26 h-26 lg:w-31 lg:h-31 rounded-lg object-cover">
             {{ else }}
               {{/* Handle as icon */}}
               {{ partial "functions/get_icon" (dict "name" $iconString "attributes" `class="w-20 h-20 lg:w-24 lg:h-24"`) }}
