@@ -1,6 +1,7 @@
 {{/*
   Custom article-grid view with table layout
   Usage: in _index.md, set design.view to "article-grid"
+  Preview image: use Params.image.src, or first image from content (reaction scheme). Display full image (object-contain).
 */}}
 
 {{ $ := .block }}
@@ -8,21 +9,23 @@
 
 <div class="flex flex-col items-center px-6">
   <div class="container px-8 mx-auto xl:px-5 py-5 lg:py-8 max-w-screen-lg">
-    <table border="1" width="850" height="268" style="border-width: 0px; border-collapse: collapse; margin-bottom: 20px;">
+    <table border="1" width="850" style="border-width: 0px; border-collapse: collapse; margin-bottom: 20px;">
       {{ range $index, $item := .items }}
+        {{ $imgSrc := "" }}
+        {{ with $item.Params.image }}
+          {{ with .src }}
+            {{ $imgRes := $page.Resources.GetMatch . }}
+            {{ if $imgRes }}{{ $imgSrc = $imgRes.RelPermalink }}{{ else }}{{ $imgSrc = . | relURL }}{{ end }}
+          {{ end }}
+        {{ end }}
+        {{ if not $imgSrc }}{{ $imgSrc = partial "functions/get_first_content_image_url.html" $item }}{{ end }}
         <tbody>
           <tr>
             <td style="border-style: none; border-width: medium" height="104" width="14%" bgcolor="9d9f9f">
               <p align="center">
-                {{ with $item.Params.image }}
-                  {{ $image := $page.Resources.GetMatch .src }}
-                  {{ if $image }}
-                    <img border="0" src="{{ $image.RelPermalink }}" width="76" height="102">
-                  {{ else }}
-                    <img border="0" src="{{ .src | relURL }}" width="76" height="102">
-                  {{ end }}
+                {{ if $imgSrc }}
+                  <img border="0" src="{{ $imgSrc }}" width="76" height="102" style="object-fit: contain;">
                 {{ else }}
-                  <!-- Default image if none is provided -->
                   <img border="0" src="/placeholder-image.jpg" width="76" height="102">
                 {{ end }}
               </p>
@@ -58,15 +61,10 @@
             </td>
           </tr>
           <tr>
-            <td style="border-style: none; border-width: medium" height="158" width="99%" colspan="2">
-              <div align="center">
-                {{ with $item.Params.image }}
-                  {{ $image := $page.Resources.GetMatch .src }}
-                  {{ if $image }}
-                    <p style="text-align: center;"><a href="{{ $item.RelPermalink }}"><img alt="" src="{{ $image.RelPermalink }}" style="width: 367px; height: 250px;"></a></p>
-                  {{ else }}
-                    <p style="text-align: center;"><a href="{{ $item.RelPermalink }}"><img alt="" src="{{ .src | relURL }}" style="width: 367px; height: 250px;"></a></p>
-                  {{ end }}
+            <td style="border-style: none; border-width: medium" width="99%" colspan="2">
+              <div align="center" style="min-height: 200px; display: flex; align-items: center; justify-content: center; padding: 8px;">
+                {{ if $imgSrc }}
+                  <a href="{{ $item.RelPermalink }}"><img alt="" src="{{ $imgSrc }}" style="max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;"></a>
                 {{ end }}
               </div>
             </td>

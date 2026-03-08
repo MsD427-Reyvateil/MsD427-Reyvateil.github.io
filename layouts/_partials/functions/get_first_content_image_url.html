@@ -1,0 +1,11 @@
+{{/* Get first image URL from page raw content (for publications reaction scheme). */}}
+{{ $raw := .RawContent | default "" }}
+{{ $url := "" }}
+{{ if $raw }}
+  {{ $matches := findRE `!\[[^\]]*\]\(([^)]+)\)` $raw 1 }}
+  {{ if $matches }}
+    {{ $url = replaceRE `!\[[^\]]*\]\(([^)]+)\)` "$1" (index $matches 0) }}
+    {{ $url = trim $url " " }}
+  {{ end }}
+{{ end }}
+{{ $url }}
