@@ -5,7 +5,6 @@
   {{ $matches := findRE `!\[[^\]]*\]\(([^)]+)\)` $raw 1 }}
   {{ if $matches }}
     {{ $url = replaceRE `!\[[^\]]*\]\(([^)]+)\)` "$1" (index $matches 0) }}
-    {{ $url = trim $url " " }}
+    {{ $url = strings.TrimSpace $url }}
   {{ end }}
-{{ end }}
-{{ $url }}
+{{ end }}{{- $url -}}
